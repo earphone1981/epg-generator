@@ -163,12 +163,17 @@ SCHEDULES = {
     }
 }
 
+def format_time_xml(dt):
+    return dt.strftime("%Y%m%d%H%M%S +0900")
+
 def build_epg_xml():
     tv = ET.Element("tv", {"generator-info-name": "CombinedEPGGenerator"})
     JST = datetime.timezone(datetime.timedelta(hours=9))
     now = datetime.datetime.now(JST)
+    
     today_str = now.strftime("%Y%m%d")
-    today_display = now.strftime("%Y年%m月%d日")
+    dt_obj = datetime.datetime.strptime(today_str, "%Y%m%d")
+    today_display = dt_obj.strftime("%Y年%m月%d日")
     day_schedules = SCHEDULES.get(today_str, {})
 
     for target_map, category in [(KEIRIN_MAP, "keirin"), (KEIBA_MAP, "keiba"), (AUTO_MAP, "auto")]:
@@ -176,14 +181,43 @@ def build_epg_xml():
         for v_name, tvg_id in target_map.items():
             channel = ET.SubElement(tv, "channel", id=tvg_id)
             ET.SubElement(channel, "display-name").text = v_name
+
+            day_start = datetime.datetime.strptime(f"{today_str} 01:00", "%Y%m%d %H:%M").replace(tzinfo=JST)
+            day_end = datetime.datetime.strptime(f"{today_str} 23:59", "%Y%m%d %H:%M").replace(tzinfo=JST)
+
             if v_name in cat_data:
                 info = cat_data[v_name]
-                prog = ET.SubElement(tv, "programme", start=f"{today_str}000000 +0900", stop=f"{today_str}235959 +0900", channel=tvg_id)
-                ET.SubElement(prog, "title", lang="ja").text = f"♦{v_name} {info['desc']} 実況放送♦"
-                ET.SubElement(prog, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {info['desc']}"
+                start_dt = datetime.datetime.strptime(f"{today_str} {info['start']}", "%Y%m%d %H:%M").replace(tzinfo=JST)
+                end_dt = datetime.datetime.strptime(f"{today_str} {info['end']}", "%Y%m%d %H:%M").replace(tzinfo=JST)
+                
+                pre_start = start_dt - datetime.timedelta(minutes=30)
+                post_end = end_dt + datetime.timedelta(minutes=30)
+
+                # 1. 01:00 ～ 第①レース開始30分前
+                if day_start < pre_start:
+                    prog1 = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(pre_start), channel=tvg_id)
+                    t1 = f"♦本日開催 実況中継前 第①レース{info['start']} 開始♦"
+                    ET.SubElement(prog1, "title", lang="ja").text = t1
+                    ET.SubElement(prog1, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t1}"
+
+                # 2. 第①レース30分前 ～ 最終レース30分後
+                prog2 = ET.SubElement(tv, "programme", start=format_time_xml(pre_start), stop=format_time_xml(post_end), channel=tvg_id)
+                t2 = f"♦{v_name} {info['desc']} 実況放送♦"
+                ET.SubElement(prog2, "title", lang="ja").text = t2
+                ET.SubElement(prog2, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t2}"
+
+                # 3. 最終レース30分後 ～ 翌01:00
+                if post_end < day_end:
+                    prog3 = ET.SubElement(tv, "programme", start=format_time_xml(post_end), stop=format_time_xml(day_end), channel=tvg_id)
+                    t3 = "♦本日 全レース終了♦"
+                    ET.SubElement(prog3, "title", lang="ja").text = t3
+                    ET.SubElement(prog3, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t3}"
             else:
-                prog = ET.SubElement(tv, "programme", start=f"{today_str}000000 +0900", stop=f"{today_str}235959 +0900", channel=tvg_id)
-                ET.SubElement(prog, "title", lang="ja").text = "💎本日は開催しておりません💎"
+                # 開催なし
+                prog = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(day_end), channel=tvg_id)
+                t_none = "💎本日は開催しておりません💎"
+                ET.SubElement(prog, "title", lang="ja").text = t_none
+                ET.SubElement(prog, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t_none}"
 
     tree = ET.ElementTree(tv)
     if hasattr(ET, "indent"): ET.indent(tree, space="    ")
