@@ -13,9 +13,10 @@ KEIRIN_MAP = {
     "福井": "keirin.fukui", "奈良": "keirin.nara", "岸和田": "keirin.kishiwada",
     "和歌山": "keirin.wakayama", "玉野": "keirin.tamano", "広島": "keirin.hiroshima",
     "防府": "keirin.hofu", "小松島": "keirin.komatsushima", "松山": "keirin.matsuyama",
-    "高知": "keirin.kochi", "小倉": "keirin.kokura", "久留米": "keirin.kurume",
-    "武雄": "keirin.takeo", "佐世保": "keirin.sasebo", "別府": "keirin.beppu",
-    "熊本": "keirin.kumamoto", "千葉PIST6": "keirin.pist6", "伊東温泉": "keirin.ito"
+    "高知": "keirin.kochi", "高松": "keirin.takamatsu", "向日町": "keirin.mukomachi",
+    "小倉": "keirin.kokura", "久留米": "keirin.kurume", "武雄": "keirin.takeo", 
+    "佐世保": "keirin.sasebo", "別府": "keirin.beppu", "熊本": "keirin.kumamoto", 
+    "千葉PIST6": "keirin.pist6", "伊東温泉": "keirin.ito"
 }
 
 KEIBA_MAP = {
