@@ -26,161 +26,166 @@ AUTO_MAP = {"川口": "auto.kawaguchi", "伊勢崎": "auto.isesaki", "浜松": "
 SCHEDULES = {
     "20260810": {
         "keirin": {
-            "弥彦": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "熊本": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "前橋": {"desc": "FII ナイター🌙 2日目", "start": "15:00", "end": "20:25", "is_girls": False},
-            "川崎": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": True},
-            "平塚": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55", "is_girls": False},
-            "富山": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "四日市": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False}
+            "弥彦": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "富山": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "熊本": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "前橋": {"desc": "FII 2日目", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
+            "川崎": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "平塚": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "四日市": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
         },
         "keiba": {
-            "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
-            "盛岡": {"desc": "薄暮🌇", "start": "11:40", "end": "18:10"},
-            "浦和": {"desc": "薄暮🌇", "start": "13:30", "end": "19:30"},
-            "金沢": {"desc": "ナイター🌙", "start": "15:05", "end": "20:50"},
-            "笠松": {"desc": "薄暮🌇", "start": "11:15", "end": "18:00"}
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
+            "盛岡": {"desc": "薄暮", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
+            "浦和": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
+            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
+            # 8/10 笠松開催なし
         },
-        "auto": {"飯塚": {"desc": "ミッドナイト⭐", "start": "20:19", "end": "23:45"}}
+        "auto": {"飯塚": {"desc": "ミッドナイト", "start": "20:19", "end": "23:45", "day_type": "ミッドナイト"}}
     },
     "20260811": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 初日", "start": "15:15", "end": "20:50", "is_girls": True},
-            "弥彦": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
-            "熊本": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
-            "前橋": {"desc": "FII ナイター🌙 最終日", "start": "15:00", "end": "20:25", "is_girls": False},
-            "川崎": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": True},
-            "平塚": {"desc": "FII モーニング🌅 最終日", "start": "08:30", "end": "11:55", "is_girls": False},
-            "富山": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
-            "四日市": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False}
+            "松山": {"desc": "GI オールスター競輪 初日", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "弥彦": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "富山": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "熊本": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "前橋": {"desc": "FII 最終日", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
+            "川崎": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "平塚": {"desc": "FII 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "四日市": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
         },
         "keiba": {
-            "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
-            "盛岡": {"desc": "クラスターカップ JpnⅢ 薄暮🌇", "start": "11:40", "end": "18:10"},
-            "浦和": {"desc": "ルーキーズサマーC 薄暮🌇", "start": "13:30", "end": "19:30"},
-            "金沢": {"desc": "読売レディス杯 ナイター🌙", "start": "15:05", "end": "20:50"},
-            "笠松": {"desc": "薄暮🌇", "start": "11:15", "end": "18:00"}
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
+            "盛岡": {"desc": "クラスターカップ JpnⅢ", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
+            "浦和": {"desc": "ルーキーズサマーC", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
+            "金沢": {"desc": "読売レディス杯", "start": "15:05", "end": "20:50", "day_type": "ナイター"},
+            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"}
         },
-        "auto": {"伊勢崎": {"desc": "SG オートレースグランプリ 初日🌙", "start": "18:00", "end": "21:30"}}
+        "auto": {"伊勢崎": {"desc": "SG オートレースグランプリ 初日", "start": "18:00", "end": "21:30", "day_type": "ナイター"}}
     },
     "20260812": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 2日目", "start": "15:15", "end": "20:50", "is_girls": True},
-            "青森": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "弥彦": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
-            "岐阜": {"desc": "FII モーニング🌅 初日", "start": "08:50", "end": "11:55", "is_girls": False},
-            "富山": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "武雄": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "熊本": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False}
+            "松山": {"desc": "GI 2日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "青森": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "弥彦": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "岐阜": {"desc": "FII 初日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "富山": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "武雄": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "熊本": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
-            "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
-            "浦和": {"desc": "薄暮🌇", "start": "13:30", "end": "19:30"},
-            "大井": {"desc": "ナイター🌙", "start": "14:25", "end": "20:50"},
-            "笠松": {"desc": "薄暮🌇", "start": "11:15", "end": "18:00"},
-            "園田": {"desc": "薄暮🌇", "start": "13:30", "end": "19:30"},
-            "金沢": {"desc": "ナイター🌙", "start": "15:05", "end": "20:50"}
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "浦和": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
+            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
+            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"},
+            "園田": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
+            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
         },
-        "auto": {"伊勢崎": {"desc": "SG オートレースグランプリ 2日目🌙", "start": "18:00", "end": "21:30"}}
+        "auto": {"伊勢崎": {"desc": "SG 2日目", "start": "18:00", "end": "21:30", "day_type": "ナイター"}}
     },
     "20260813": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 3日目", "start": "15:15", "end": "20:50", "is_girls": True},
-            "青森": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
-            "弥彦": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "岐阜": {"desc": "FII モーニング🌅 2日目", "start": "08:50", "end": "11:55", "is_girls": False},
-            "武雄": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
-            "熊本": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False}
+            "松山": {"desc": "GI 3日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "青森": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII 初日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "岐阜": {"desc": "FII 2日目", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "武雄": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "熊本": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
-            "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
-            "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
-            "大井": {"desc": "ナイター🌙", "start": "14:25", "end": "20:50"},
-            "笠松": {"desc": "薄暮🌇", "start": "11:15", "end": "18:00"},
-            "園田": {"desc": "薄暮🌇", "start": "13:30", "end": "19:30"},
-            "金沢": {"desc": "ナイター🌙", "start": "15:05", "end": "20:50"}
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "門別": {"desc": "北海道スプリントC JpnⅢ", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
+            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
+            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"},
+            "園田": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
+            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
         },
-        "auto": {"伊勢崎": {"desc": "SG オートレースグランプリ 3日目🌙", "start": "18:00", "end": "21:30"}}
+        "auto": {"伊勢崎": {"desc": "SG 3日目", "start": "18:00", "end": "21:30", "day_type": "ナイター"}}
     },
     "20260814": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 4日目", "start": "15:15", "end": "20:50", "is_girls": True},
-            "青森": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "西武園": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55", "is_girls": False},
-            "京王閣": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "岐阜": {"desc": "FII モーニング🌅 最終日", "start": "08:50", "end": "11:55", "is_girls": False},
-            "奈良": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "武雄": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False}
+            "松山": {"desc": "GI 4日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "青森": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "京王閣": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "岐阜": {"desc": "FII 最終日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "奈良": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "武雄": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
         },
         "keiba": {
-            "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
-            "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
-            "大井": {"desc": "ナイター🌙", "start": "14:25", "end": "20:50"},
-            "笠松": {"desc": "薄暮🌇", "start": "11:15", "end": "18:00"},
-            "園田": {"desc": "その金ナイター🌇 (摂津盃)", "start": "15:00", "end": "20:30"}
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
+            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
+            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"},
+            "園田": {"desc": "その金ナイター (摂津盃)", "start": "15:00", "end": "20:30", "day_type": "ナイター"}
         },
         "auto": {
-            "伊勢崎": {"desc": "SG オートレースグランプリ 4日目🌙", "start": "18:00", "end": "21:30"},
-            "飯塚": {"desc": "ミッドナイト⭐ 初日", "start": "20:20", "end": "23:45"}
+            "伊勢崎": {"desc": "SG 4日目", "start": "18:00", "end": "21:30", "day_type": "ナイター"},
+            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
         }
     },
     "20260815": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 5日目", "start": "15:15", "end": "20:50", "is_girls": True},
-            "前橋": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "西武園": {"desc": "FII モーニング🌅 最終日", "start": "08:30", "end": "11:55", "is_girls": False},
-            "京王閣": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
-            "静岡": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "奈良": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False}
+            "松山": {"desc": "GI 5日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "前橋": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "京王閣": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "静岡": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "奈良": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
-            "新潟": {"desc": "薄暮🌇", "start": "09:40", "end": "18:15"},
-            "中京": {"desc": "薄暮🌇", "start": "09:40", "end": "18:15"},
-            "札幌": {"desc": "薄暮🌇", "start": "09:40", "end": "18:15"},
-            "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
-            "大井": {"desc": "ナイター🌙", "start": "14:25", "end": "20:50"},
-            "佐賀": {"desc": "ナイター🌙", "start": "15:55", "end": "20:50"}
+            "新潟": {"desc": "新潟ジャンプS", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "中京": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "札幌": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
+            "佐賀": {"desc": "ナイター", "start": "15:55", "end": "20:50", "day_type": "ナイター"}
         },
         "auto": {
-            "伊勢崎": {"desc": "SG オートレースグランプリ 最終日🌙", "start": "18:00", "end": "21:30"},
-            "飯塚": {"desc": "ミッドナイト⭐ 2日目", "start": "20:20", "end": "23:45"}
+            "伊勢崎": {"desc": "SG 最終日", "start": "18:00", "end": "21:30", "day_type": "ナイター"},
+            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
         }
     },
     "20260816": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 決勝戦", "start": "15:15", "end": "20:50", "is_girls": True},
-            "前橋": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
-            "京王閣": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "静岡": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
-            "奈良": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False}
+            "松山": {"desc": "GI 決勝戦", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "前橋": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "京王閣": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "静岡": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "奈良": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "伊東": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "別府": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
-            "札幌": {"desc": "札幌記念 薄暮🌇", "start": "09:40", "end": "18:15"},
-            "新潟": {"desc": "薄暮🌇", "start": "09:40", "end": "18:15"},
-            "中京": {"desc": "薄暮🌇", "start": "09:40", "end": "18:15"},
-            "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
-            "大井": {"desc": "ナイター🌙", "start": "14:25", "end": "20:50"},
-            "佐賀": {"desc": "ナイター🌙", "start": "15:55", "end": "20:50"}
+            "札幌": {"desc": "札幌記念 GⅡ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "新潟": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "中京": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
+            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
+            "佐賀": {"desc": "ナイター", "start": "15:55", "end": "20:50", "day_type": "ナイター"}
         },
         "auto": {
-            "飯塚": {"desc": "ミッドナイト⭐ 3日目", "start": "20:20", "end": "23:45"}
+            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
         }
     },
     "20260817": {
         "keirin": {
-            "前橋": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "西武園": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55", "is_girls": False},
-            "静岡": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
-            "立川": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
-            "伊東": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False}
+            "前橋": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "静岡": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "立川": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "伊東": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "別府": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
-            "盛岡": {"desc": "薄暮🌇", "start": "11:40", "end": "18:10"},
-            "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
-            "金沢": {"desc": "ナイター🌙", "start": "15:05", "end": "20:50"}
+            "盛岡": {"desc": "薄暮", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
+            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
+            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
         },
         "auto": {
-            "飯塚": {"desc": "ミッドナイト⭐ 最終日", "start": "20:20", "end": "23:45"}
+            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
         }
     }
 }
@@ -214,6 +219,7 @@ def build_epg_xml():
                 if v_name in cat_data:
                     info = cat_data[v_name]
                     is_girls = info.get("is_girls", False)
+                    day_type = info.get("day_type", "デイ")
                     girls_tag = "[ガールズ💛]" if is_girls else ""
 
                     grade_list = ["GI", "GII", "GIII", "FI", "FII", "SG", "JpnI", "JpnII", "JpnIII"]
@@ -226,12 +232,12 @@ def build_epg_xml():
                     pre_start = start_dt - datetime.timedelta(minutes=10)
                     post_end = end_dt + datetime.timedelta(minutes=10)
 
-                    title_live = f"{grade_display} 🔴 LIVE {v_name} {girls_tag}"
+                    title_live = f"{grade_display} 🔴 LIVE {v_name} ({day_type}) {girls_tag}"
                     
                     desc_text = (
-                        f"{ICON_MAP.get(category, '⭐')} 開催地: {v_name}\n"
+                        f"{ICON_MAP.get(category, '⭐')} 開催地: {v_name} ({day_type})\n"
                         f"🏆 グレード: {grade_found if grade_found else '通常開催'}\n"
-                        f"✨ 特記事項: {'ガールズ開催💛' if is_girls else '通常開催'}\n"
+                        f"✨ ガールズ: {'あり 💛' if is_girls else 'なし'}\n"
                         f"📢 内容: {info['desc']}\n"
                         f"⏰ 時間: {info['start']} - {info['end']}\n"
                         f"📅 日付: {today_display}"
@@ -239,7 +245,7 @@ def build_epg_xml():
 
                     if day_start < pre_start:
                         prog1 = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(pre_start), channel=tvg_id)
-                        ET.SubElement(prog1, "title", lang="ja").text = f"⏳ 待機 {v_name} (1R {info['start']}開始)"
+                        ET.SubElement(prog1, "title", lang="ja").text = f"⏳ 待機 {v_name} ({day_type} 1R {info['start']}開始)"
                         ET.SubElement(prog1, "desc", lang="ja").text = desc_text
 
                     prog2 = ET.SubElement(tv, "programme", start=format_time_xml(pre_start), stop=format_time_xml(post_end), channel=tvg_id)
@@ -248,8 +254,8 @@ def build_epg_xml():
 
                     if post_end < day_end:
                         prog3 = ET.SubElement(tv, "programme", start=format_time_xml(post_end), stop=format_time_xml(day_end), channel=tvg_id)
-                        ET.SubElement(prog3, "title", lang="ja").text = f"🏁 終了 {v_name}"
-                        ET.SubElement(prog3, "desc", lang="ja").text = f"{v_name}の放送は終了しました。"
+                        ET.SubElement(prog3, "title", lang="ja").text = f"🏁 終了 {v_name} ({day_type})"
+                        ET.SubElement(prog3, "desc", lang="ja").text = f"{v_name} ({day_type}) の放送は終了しました。"
                 else:
                     prog = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(day_end), channel=tvg_id)
                     ET.SubElement(prog, "title", lang="ja").text = f"💎 開催なし {v_name}"
