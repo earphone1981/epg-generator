@@ -203,18 +203,16 @@ def format_time_xml(dt):
 def build_epg_xml():
     tv = ET.Element("tv", {"generator-info-name": "CombinedEPGGenerator"})
     JST = datetime.timezone(datetime.timedelta(hours=9))
-
-    # 全マップ（競輪・地方競馬/JRA・オートレース）を統合してすべてのチャンネル要素を必ず生成
-    all_channels = {}
-    for m in [KEIRIN_MAP, KEIBA_MAP, AUTO_MAP]:
-        all_channels.update(m)
-
+    
+    all_channels = {**KEIRIN_MAP, **KEIBA_MAP, **AUTO_MAP}
+    
     for v_name, tvg_id in all_channels.items():
         channel = ET.SubElement(tv, "channel", id=tvg_id)
         ET.SubElement(channel, "display-name").text = v_name
 
-    # SCHEDULESにあるすべての日付をループしてプログラムを生成
-    for date_str, day_schedules in SCHEDULES.items():
+    # 10日〜17日までのループ
+    for date_str in ["20260810", "20260811", "20260812", "20260813", "20260814", "20260815", "20260816", "20260817"]:
+        day_schedules = SCHEDULES.get(date_str, {})
         dt_obj = datetime.datetime.strptime(date_str, "%Y%m%d")
         today_display = dt_obj.strftime("%Y年%m月%d日")
 
@@ -229,30 +227,31 @@ def build_epg_xml():
                     start_dt = datetime.datetime.strptime(f"{date_str} {info['start']}", "%Y%m%d %H:%M").replace(tzinfo=JST)
                     end_dt = datetime.datetime.strptime(f"{date_str} {info['end']}", "%Y%m%d %H:%M").replace(tzinfo=JST)
                     
-                    pre_start = start_dt - datetime.timedelta(minutes=30)
-                    post_end = end_dt + datetime.timedelta(minutes=30)
+                    # 変更点: 30分前 → 10分前 に変更
+                    pre_start = start_dt - datetime.timedelta(minutes=10)
+                    post_end = end_dt + datetime.timedelta(minutes=10)
 
-                    # 1. 01:00 ～ 第①レース開始30分前
+                    # 1. 中継開始までの枠
                     if day_start < pre_start:
                         prog1 = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(pre_start), channel=tvg_id)
                         t1 = f"♦本日開催 実況中継前 第①レース{info['start']} 開始♦"
                         ET.SubElement(prog1, "title", lang="ja").text = t1
                         ET.SubElement(prog1, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t1}"
 
-                    # 2. 第①レース30分前 ～ 最終レース30分後
+                    # 2. 実況放送枠
                     prog2 = ET.SubElement(tv, "programme", start=format_time_xml(pre_start), stop=format_time_xml(post_end), channel=tvg_id)
                     t2 = f"♦{v_name} {info['desc']} 実況放送♦"
                     ET.SubElement(prog2, "title", lang="ja").text = t2
                     ET.SubElement(prog2, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t2}"
 
-                    # 3. 最終レース30分後 ～ 翌01:00
+                    # 3. 全レース終了後の枠
                     if post_end < day_end:
                         prog3 = ET.SubElement(tv, "programme", start=format_time_xml(post_end), stop=format_time_xml(day_end), channel=tvg_id)
                         t3 = "♦本日 全レース終了♦"
                         ET.SubElement(prog3, "title", lang="ja").text = t3
                         ET.SubElement(prog3, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t3}"
                 else:
-                    # 開催がない場・日の処理（省略せず「本日は開催しておりません」を出力）
+                    # 開催なし枠
                     prog = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(day_end), channel=tvg_id)
                     t_none = "💎本日は開催しておりません💎"
                     ET.SubElement(prog, "title", lang="ja").text = t_none
