@@ -207,19 +207,27 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 いわき平 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.yahiko">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月10日 弥彦 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260810010000 +0900" stop="20260810100000 +0900" channel="keirin.yahiko">
+        <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
+        <desc lang="ja">2026年08月10日 弥彦 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810080000 +0900" channel="keirin.matsusaka">
-        <title lang="ja">♦本日開催 実況中継前 第①レース08:30 開始♦</title>
-        <desc lang="ja">2026年08月10日 前橋 ステータス: ♦本日開催 実況中継前 第①レース08:30 開始♦</desc>
+    <programme start="20260810100000 +0900" stop="20260810170000 +0900" channel="keirin.yahiko">
+        <title lang="ja">♦弥彦 FI デイ☀ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 弥彦 ステータス: ♦弥彦 FI デイ☀ 初日 実況放送♦</desc>
     </programme>
-    <programme start="20260810080000 +0900" stop="20260810122500 +0900" channel="keirin.matsusaka">
-        <title lang="ja">♦前橋 FII モーニング🌅 2日目 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 前橋 ステータス: ♦前橋 FII モーニング🌅 2日目 実況放送♦</desc>
+    <programme start="20260810170000 +0900" stop="20260810235900 +0900" channel="keirin.yahiko">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月10日 弥彦 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
-    <programme start="20260810122500 +0900" stop="20260810235900 +0900" channel="keirin.matsusaka">
+    <programme start="20260810010000 +0900" stop="20260810143000 +0900" channel="keirin.matsusaka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
+        <desc lang="ja">2026年08月10日 前橋 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
+    </programme>
+    <programme start="20260810143000 +0900" stop="20260810205500 +0900" channel="keirin.matsusaka">
+        <title lang="ja">♦前橋 FII ナイター🌙 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 前橋 ステータス: ♦前橋 FII ナイター🌙 2日目 実況放送♦</desc>
+    </programme>
+    <programme start="20260810205500 +0900" stop="20260810235900 +0900" channel="keirin.matsusaka">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月10日 前橋 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
@@ -243,43 +251,31 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 京王閣 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810101000 +0900" channel="keirin.tachikawa">
-        <title lang="ja">♦本日開催 実況中継前 第①レース10:40 開始♦</title>
-        <desc lang="ja">2026年08月10日 立川 ステータス: ♦本日開催 実況中継前 第①レース10:40 開始♦</desc>
-    </programme>
-    <programme start="20260810101000 +0900" stop="20260810170500 +0900" channel="keirin.tachikawa">
-        <title lang="ja">♦立川 FI デイ☀ 最終日 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 立川 ステータス: ♦立川 FI デイ☀ 最終日 実況放送♦</desc>
-    </programme>
-    <programme start="20260810170500 +0900" stop="20260810235900 +0900" channel="keirin.tachikawa">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月10日 立川 ステータス: ♦本日 全レース終了♦</desc>
+    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.tachikawa">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月10日 立川 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.matsudo">
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 松戸 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810143000 +0900" channel="keirin.kawasaki">
-        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
-        <desc lang="ja">2026年08月10日 川崎 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
+    <programme start="20260810010000 +0900" stop="20260810201000 +0900" channel="keirin.kawasaki">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:40 開始♦</title>
+        <desc lang="ja">2026年08月10日 川崎 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
     </programme>
-    <programme start="20260810143000 +0900" stop="20260810205500 +0900" channel="keirin.kawasaki">
-        <title lang="ja">♦川崎 FII ナイター🌙 2日目 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 川崎 ステータス: ♦川崎 FII ナイター🌙 2日目 実況放送♦</desc>
+    <programme start="20260810201000 +0900" stop="20260811001000 +0900" channel="keirin.kawasaki">
+        <title lang="ja">♦川崎 FII ミッドナイト⭐ 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 川崎 ステータス: ♦川崎 FII ミッドナイト⭐ 2日目 実況放送♦</desc>
     </programme>
-    <programme start="20260810205500 +0900" stop="20260810235900 +0900" channel="keirin.kawasaki">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月10日 川崎 ステータス: ♦本日 全レース終了♦</desc>
+    <programme start="20260810010000 +0900" stop="20260810080000 +0900" channel="keirin.hiratsuka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース08:30 開始♦</title>
+        <desc lang="ja">2026年08月10日 平塚 ステータス: ♦本日開催 実況中継前 第①レース08:30 開始♦</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810143000 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
-        <desc lang="ja">2026年08月10日 平塚 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
+    <programme start="20260810080000 +0900" stop="20260810122500 +0900" channel="keirin.hiratsuka">
+        <title lang="ja">♦平塚 FII モーニング🌅 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 平塚 ステータス: ♦平塚 FII モーニング🌅 2日目 実況放送♦</desc>
     </programme>
-    <programme start="20260810143000 +0900" stop="20260810205500 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">♦平塚 FII ナイター🌙 2日目 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 平塚 ステータス: ♦平塚 FII ナイター🌙 2日目 実況放送♦</desc>
-    </programme>
-    <programme start="20260810205500 +0900" stop="20260810235900 +0900" channel="keirin.hiratsuka">
+    <programme start="20260810122500 +0900" stop="20260810235900 +0900" channel="keirin.hiratsuka">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月10日 平塚 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
@@ -315,25 +311,25 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 松阪 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810143000 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
-        <desc lang="ja">2026年08月10日 四日市 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
-    </programme>
-    <programme start="20260810143000 +0900" stop="20260810205500 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">♦四日市 FII ナイター🌙 2日目 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 四日市 ステータス: ♦四日市 FII ナイター🌙 2日目 実況放送♦</desc>
-    </programme>
-    <programme start="20260810205500 +0900" stop="20260810235900 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月10日 四日市 ステータス: ♦本日 全レース終了♦</desc>
-    </programme>
-    <programme start="20260810010000 +0900" stop="20260810201000 +0900" channel="keirin.toyama">
+    <programme start="20260810010000 +0900" stop="20260810201000 +0900" channel="keirin.yokkaichi">
         <title lang="ja">♦本日開催 実況中継前 第①レース20:40 開始♦</title>
-        <desc lang="ja">2026年08月10日 富山 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
+        <desc lang="ja">2026年08月10日 四日市 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
     </programme>
-    <programme start="20260810201000 +0900" stop="20260811001000 +0900" channel="keirin.toyama">
-        <title lang="ja">♦富山 FII ミッドナイト⭐ 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 富山 ステータス: ♦富山 FII ミッドナイト⭐ 初日 実況放送♦</desc>
+    <programme start="20260810201000 +0900" stop="20260811001000 +0900" channel="keirin.yokkaichi">
+        <title lang="ja">♦四日市 FII ミッドナイト⭐ 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 四日市 ステータス: ♦四日市 FII ミッドナイト⭐ 2日目 実況放送♦</desc>
+    </programme>
+    <programme start="20260810010000 +0900" stop="20260810100000 +0900" channel="keirin.toyama">
+        <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
+        <desc lang="ja">2026年08月10日 富山 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
+    </programme>
+    <programme start="20260810100000 +0900" stop="20260810170000 +0900" channel="keirin.toyama">
+        <title lang="ja">♦富山 FI デイ☀ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 富山 ステータス: ♦富山 FI デイ☀ 初日 実況放送♦</desc>
+    </programme>
+    <programme start="20260810170000 +0900" stop="20260810235900 +0900" channel="keirin.toyama">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月10日 富山 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.fukui">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -367,9 +363,17 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 小松島 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.matsuyama">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月10日 松山 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260810010000 +0900" stop="20260810144500 +0900" channel="keirin.matsuyama">
+        <title lang="ja">♦本日開催 実況中継前 第①レース15:15 開始♦</title>
+        <desc lang="ja">2026年08月10日 松山 ステータス: ♦本日開催 実況中継前 第①レース15:15 開始♦</desc>
+    </programme>
+    <programme start="20260810144500 +0900" stop="20260810212000 +0900" channel="keirin.matsuyama">
+        <title lang="ja">♦松山 GI オールスター競輪ナイター🌙 💛 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 松山 ステータス: ♦松山 GI オールスター競輪ナイター🌙 💛 初日 実況放送♦</desc>
+    </programme>
+    <programme start="20260810212000 +0900" stop="20260810235900 +0900" channel="keirin.matsuyama">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月10日 松山 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.kochi">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -403,29 +407,37 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 別府 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.kumamoto">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月10日 熊本 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260810010000 +0900" stop="20260810100000 +0900" channel="keirin.kumamoto">
+        <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
+        <desc lang="ja">2026年08月10日 熊本 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
+    </programme>
+    <programme start="20260810100000 +0900" stop="20260810170000 +0900" channel="keirin.kumamoto">
+        <title lang="ja">♦熊本 FI デイ☀ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 熊本 ステータス: ♦熊本 FI デイ☀ 初日 実況放送♦</desc>
+    </programme>
+    <programme start="20260810170000 +0900" stop="20260810235900 +0900" channel="keirin.kumamoto">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月10日 熊本 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.pist6">
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 千葉PIST6 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810135000 +0900" channel="chihou.obihiro">
-        <title lang="ja">♦本日開催 実況中継前 第①レース14:20 開始♦</title>
-        <desc lang="ja">2026年08月10日 帯広 ステータス: ♦本日開催 実況中継前 第①レース14:20 開始♦</desc>
-    </programme>
-    <programme start="20260810135000 +0900" stop="20260810211000 +0900" channel="chihou.obihiro">
-        <title lang="ja">♦帯広 ナイター🌙 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 帯広 ステータス: ♦帯広 ナイター🌙 実況放送♦</desc>
-    </programme>
-    <programme start="20260810211000 +0900" stop="20260810235900 +0900" channel="chihou.obihiro">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月10日 帯広 ステータス: ♦本日 全レース終了♦</desc>
-    </programme>
-    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="chihou.mombetsu">
+    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="chihou.obihiro">
         <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月10日 門別 ステータス: 💎本日は開催しておりません💎</desc>
+        <desc lang="ja">2026年08月10日 帯広 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260810010000 +0900" stop="20260810133000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦本日開催 実況中継前 第①レース14:00 開始♦</title>
+        <desc lang="ja">2026年08月10日 門別 ステータス: ♦本日開催 実況中継前 第①レース14:00 開始♦</desc>
+    </programme>
+    <programme start="20260810133000 +0900" stop="20260810211000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦門別 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 門別 ステータス: ♦門別 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260810211000 +0900" stop="20260810235900 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月10日 門別 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810111000 +0900" channel="chihou.morioka">
         <title lang="ja">♦本日開催 実況中継前 第①レース11:40 開始♦</title>
@@ -467,11 +479,11 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 川崎 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810160500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">♦本日開催 実況中継前 第①レース16:35 開始♦</title>
-        <desc lang="ja">2026年08月10日 金沢 ステータス: ♦本日開催 実況中継前 第①レース16:35 開始♦</desc>
+    <programme start="20260810010000 +0900" stop="20260810143500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦本日開催 実況中継前 第①レース15:05 開始♦</title>
+        <desc lang="ja">2026年08月10日 金沢 ステータス: ♦本日開催 実況中継前 第①レース15:05 開始♦</desc>
     </programme>
-    <programme start="20260810160500 +0900" stop="20260810212000 +0900" channel="chihou.kanazawa">
+    <programme start="20260810143500 +0900" stop="20260810212000 +0900" channel="chihou.kanazawa">
         <title lang="ja">♦金沢 ナイター🌙 実況放送♦</title>
         <desc lang="ja">2026年08月10日 金沢 ステータス: ♦金沢 ナイター🌙 実況放送♦</desc>
     </programme>
@@ -483,9 +495,17 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月10日 名古屋 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月10日 笠松 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260810010000 +0900" stop="20260810104500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦本日開催 実況中継前 第①レース11:15 開始♦</title>
+        <desc lang="ja">2026年08月10日 笠松 ステータス: ♦本日開催 実況中継前 第①レース11:15 開始♦</desc>
+    </programme>
+    <programme start="20260810104500 +0900" stop="20260810183000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦笠松 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 笠松 ステータス: ♦笠松 薄暮🌇 実況放送♦</desc>
+    </programme>
+    <programme start="20260810183000 +0900" stop="20260810235900 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月10日 笠松 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="chihou.sonoda">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -540,8 +560,8 @@
         <desc lang="ja">2026年08月10日 飯塚 ステータス: ♦本日開催 実況中継前 第①レース20:19 開始♦</desc>
     </programme>
     <programme start="20260810194900 +0900" stop="20260811001500 +0900" channel="auto.iizuka">
-        <title lang="ja">♦飯塚 ミッドナイト⭐ 3日目 実況放送♦</title>
-        <desc lang="ja">2026年08月10日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 3日目 実況放送♦</desc>
+        <title lang="ja">♦飯塚 ミッドナイト⭐ 実況放送♦</title>
+        <desc lang="ja">2026年08月10日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 実況放送♦</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="auto.sanyo">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -564,22 +584,22 @@
         <desc lang="ja">2026年08月11日 弥彦 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
     </programme>
     <programme start="20260811100000 +0900" stop="20260811170000 +0900" channel="keirin.yahiko">
-        <title lang="ja">♦弥彦 FI デイ☀ 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 弥彦 ステータス: ♦弥彦 FI デイ☀ 初日 実況放送♦</desc>
+        <title lang="ja">♦弥彦 FI デイ☀ 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 弥彦 ステータス: ♦弥彦 FI デイ☀ 2日目 実況放送♦</desc>
     </programme>
     <programme start="20260811170000 +0900" stop="20260811235900 +0900" channel="keirin.yahiko">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月11日 弥彦 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811080000 +0900" channel="keirin.matsusaka">
-        <title lang="ja">♦本日開催 実況中継前 第①レース08:30 開始♦</title>
-        <desc lang="ja">2026年08月11日 前橋 ステータス: ♦本日開催 実況中継前 第①レース08:30 開始♦</desc>
+    <programme start="20260811010000 +0900" stop="20260811143000 +0900" channel="keirin.matsusaka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
+        <desc lang="ja">2026年08月11日 前橋 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
     </programme>
-    <programme start="20260811080000 +0900" stop="20260811122500 +0900" channel="keirin.matsusaka">
-        <title lang="ja">♦前橋 FII モーニング🌅 最終日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 前橋 ステータス: ♦前橋 FII モーニング🌅 最終日 実況放送♦</desc>
+    <programme start="20260811143000 +0900" stop="20260811205500 +0900" channel="keirin.matsusaka">
+        <title lang="ja">♦前橋 FII ナイター🌙 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 前橋 ステータス: ♦前橋 FII ナイター🌙 最終日 実況放送♦</desc>
     </programme>
-    <programme start="20260811122500 +0900" stop="20260811235900 +0900" channel="keirin.matsusaka">
+    <programme start="20260811205500 +0900" stop="20260811235900 +0900" channel="keirin.matsusaka">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月11日 前橋 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
@@ -611,27 +631,23 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月11日 松戸 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811143000 +0900" channel="keirin.kawasaki">
-        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
-        <desc lang="ja">2026年08月11日 川崎 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
+    <programme start="20260811010000 +0900" stop="20260811201000 +0900" channel="keirin.kawasaki">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:40 開始♦</title>
+        <desc lang="ja">2026年08月11日 川崎 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
     </programme>
-    <programme start="20260811143000 +0900" stop="20260811205500 +0900" channel="keirin.kawasaki">
-        <title lang="ja">♦川崎 FII ナイター🌙 💛 最終日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 川崎 ステータス: ♦川崎 FII ナイター🌙 💛 最終日 実況放送♦</desc>
+    <programme start="20260811201000 +0900" stop="20260812001000 +0900" channel="keirin.kawasaki">
+        <title lang="ja">♦川崎 FII ミッドナイト⭐ 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 川崎 ステータス: ♦川崎 FII ミッドナイト⭐ 最終日 実況放送♦</desc>
     </programme>
-    <programme start="20260811205500 +0900" stop="20260811235900 +0900" channel="keirin.kawasaki">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月11日 川崎 ステータス: ♦本日 全レース終了♦</desc>
+    <programme start="20260811010000 +0900" stop="20260811080000 +0900" channel="keirin.hiratsuka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース08:30 開始♦</title>
+        <desc lang="ja">2026年08月11日 平塚 ステータス: ♦本日開催 実況中継前 第①レース08:30 開始♦</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811143000 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
-        <desc lang="ja">2026年08月11日 平塚 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
+    <programme start="20260811080000 +0900" stop="20260811122500 +0900" channel="keirin.hiratsuka">
+        <title lang="ja">♦平塚 FII モーニング🌅 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 平塚 ステータス: ♦平塚 FII モーニング🌅 最終日 実況放送♦</desc>
     </programme>
-    <programme start="20260811143000 +0900" stop="20260811205500 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">♦平塚 FII ナイター🌙 💛 最終日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 平塚 ステータス: ♦平塚 FII ナイター🌙 💛 最終日 実況放送♦</desc>
-    </programme>
-    <programme start="20260811205500 +0900" stop="20260811235900 +0900" channel="keirin.hiratsuka">
+    <programme start="20260811122500 +0900" stop="20260811235900 +0900" channel="keirin.hiratsuka">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月11日 平塚 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
@@ -667,25 +683,25 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月11日 松阪 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811143000 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">♦本日開催 実況中継前 第①レース15:00 開始♦</title>
-        <desc lang="ja">2026年08月11日 四日市 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
-    </programme>
-    <programme start="20260811143000 +0900" stop="20260811205500 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">♦四日市 FII ナイター🌙 💛 最終日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 四日市 ステータス: ♦四日市 FII ナイター🌙 💛 最終日 実況放送♦</desc>
-    </programme>
-    <programme start="20260811205500 +0900" stop="20260811235900 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月11日 四日市 ステータス: ♦本日 全レース終了♦</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811201000 +0900" channel="keirin.toyama">
+    <programme start="20260811010000 +0900" stop="20260811201000 +0900" channel="keirin.yokkaichi">
         <title lang="ja">♦本日開催 実況中継前 第①レース20:40 開始♦</title>
-        <desc lang="ja">2026年08月11日 富山 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
+        <desc lang="ja">2026年08月11日 四日市 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
     </programme>
-    <programme start="20260811201000 +0900" stop="20260812001000 +0900" channel="keirin.toyama">
-        <title lang="ja">♦富山 FII ミッドナイト⭐ 💛 2日目 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 富山 ステータス: ♦富山 FII ミッドナイト⭐ 💛 2日目 実況放送♦</desc>
+    <programme start="20260811201000 +0900" stop="20260812001000 +0900" channel="keirin.yokkaichi">
+        <title lang="ja">♦四日市 FII ミッドナイト⭐ 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 四日市 ステータス: ♦四日市 FII ミッドナイト⭐ 最終日 実況放送♦</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811100000 +0900" channel="keirin.toyama">
+        <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
+        <desc lang="ja">2026年08月11日 富山 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
+    </programme>
+    <programme start="20260811100000 +0900" stop="20260811170000 +0900" channel="keirin.toyama">
+        <title lang="ja">♦富山 FI デイ☀ 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 富山 ステータス: ♦富山 FI デイ☀ 2日目 実況放送♦</desc>
+    </programme>
+    <programme start="20260811170000 +0900" stop="20260811235900 +0900" channel="keirin.toyama">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月11日 富山 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="keirin.fukui">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -724,8 +740,8 @@
         <desc lang="ja">2026年08月11日 松山 ステータス: ♦本日開催 実況中継前 第①レース15:15 開始♦</desc>
     </programme>
     <programme start="20260811144500 +0900" stop="20260811212000 +0900" channel="keirin.matsuyama">
-        <title lang="ja">♦松山 GI オールスター競輪ナイター🌙 💛 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 松山 ステータス: ♦松山 GI オールスター競輪ナイター🌙 💛 初日 実況放送♦</desc>
+        <title lang="ja">♦松山 GI オールスター競輪ナイター🌙 💛 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 松山 ステータス: ♦松山 GI オールスター競輪ナイター🌙 💛 2日目 実況放送♦</desc>
     </programme>
     <programme start="20260811212000 +0900" stop="20260811235900 +0900" channel="keirin.matsuyama">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -768,8 +784,8 @@
         <desc lang="ja">2026年08月11日 熊本 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
     </programme>
     <programme start="20260811100000 +0900" stop="20260811170000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">♦熊本 FI デイ☀ 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 熊本 ステータス: ♦熊本 FI デイ☀ 初日 実況放送♦</desc>
+        <title lang="ja">♦熊本 FI デイ☀ 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 熊本 ステータス: ♦熊本 FI デイ☀ 2日目 実況放送♦</desc>
     </programme>
     <programme start="20260811170000 +0900" stop="20260811235900 +0900" channel="keirin.kumamoto">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -779,29 +795,29 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月11日 千葉PIST6 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811135000 +0900" channel="chihou.obihiro">
-        <title lang="ja">♦本日開催 実況中継前 第①レース14:20 開始♦</title>
-        <desc lang="ja">2026年08月11日 帯広 ステータス: ♦本日開催 実況中継前 第①レース14:20 開始♦</desc>
-    </programme>
-    <programme start="20260811135000 +0900" stop="20260811211000 +0900" channel="chihou.obihiro">
-        <title lang="ja">♦帯広 ナイター🌙 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 帯広 ステータス: ♦帯広 ナイター🌙 実況放送♦</desc>
-    </programme>
-    <programme start="20260811211000 +0900" stop="20260811235900 +0900" channel="chihou.obihiro">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月11日 帯広 ステータス: ♦本日 全レース終了♦</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.mombetsu">
+    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.obihiro">
         <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月11日 門別 ステータス: 💎本日は開催しておりません💎</desc>
+        <desc lang="ja">2026年08月11日 帯広 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811133000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦本日開催 実況中継前 第①レース14:00 開始♦</title>
+        <desc lang="ja">2026年08月11日 門別 ステータス: ♦本日開催 実況中継前 第①レース14:00 開始♦</desc>
+    </programme>
+    <programme start="20260811133000 +0900" stop="20260811211000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦門別 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 門別 ステータス: ♦門別 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260811211000 +0900" stop="20260811235900 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月11日 門別 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811111000 +0900" channel="chihou.morioka">
         <title lang="ja">♦本日開催 実況中継前 第①レース11:40 開始♦</title>
         <desc lang="ja">2026年08月11日 盛岡 ステータス: ♦本日開催 実況中継前 第①レース11:40 開始♦</desc>
     </programme>
     <programme start="20260811111000 +0900" stop="20260811184000 +0900" channel="chihou.morioka">
-        <title lang="ja">♦盛岡 クラスターカップ JpnⅢ (17:05発走) デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 盛岡 ステータス: ♦盛岡 クラスターカップ JpnⅢ (17:05発走) デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦盛岡 クラスターカップ JpnⅢ 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 盛岡 ステータス: ♦盛岡 クラスターカップ JpnⅢ 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260811184000 +0900" stop="20260811235900 +0900" channel="chihou.morioka">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -816,8 +832,8 @@
         <desc lang="ja">2026年08月11日 浦和 ステータス: ♦本日開催 実況中継前 第①レース13:30 開始♦</desc>
     </programme>
     <programme start="20260811130000 +0900" stop="20260811200000 +0900" channel="chihou.urawa">
-        <title lang="ja">♦浦和 ルーキーズサマーカップ (18:55発走) 薄暮🌇 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 浦和 ステータス: ♦浦和 ルーキーズサマーカップ (18:55発走) 薄暮🌇 実況放送♦</desc>
+        <title lang="ja">♦浦和 ルーキーズサマーC 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 浦和 ステータス: ♦浦和 ルーキーズサマーC 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260811200000 +0900" stop="20260811235900 +0900" channel="chihou.urawa">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -840,8 +856,8 @@
         <desc lang="ja">2026年08月11日 金沢 ステータス: ♦本日開催 実況中継前 第①レース15:05 開始♦</desc>
     </programme>
     <programme start="20260811143500 +0900" stop="20260811212000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">♦金沢 読売レディス杯 (20:00発走) ナイター🌙 実況放送♦</title>
-        <desc lang="ja">2026年08月11日 金沢 ステータス: ♦金沢 読売レディス杯 (20:00発走) ナイター🌙 実況放送♦</desc>
+        <title lang="ja">♦金沢 読売レディス杯 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 金沢 ステータス: ♦金沢 読売レディス杯 ナイター🌙 実況放送♦</desc>
     </programme>
     <programme start="20260811212000 +0900" stop="20260811235900 +0900" channel="chihou.kanazawa">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -851,9 +867,17 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月11日 名古屋 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月11日 笠松 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260811010000 +0900" stop="20260811104500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦本日開催 実況中継前 第①レース11:15 開始♦</title>
+        <desc lang="ja">2026年08月11日 笠松 ステータス: ♦本日開催 実況中継前 第①レース11:15 開始♦</desc>
+    </programme>
+    <programme start="20260811104500 +0900" stop="20260811183000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦笠松 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月11日 笠松 ステータス: ♦笠松 薄暮🌇 実況放送♦</desc>
+    </programme>
+    <programme start="20260811183000 +0900" stop="20260811235900 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月11日 笠松 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.sonoda">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -928,8 +952,8 @@
         <desc lang="ja">2026年08月12日 青森 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
     </programme>
     <programme start="20260812201000 +0900" stop="20260813001000 +0900" channel="keirin.aomori">
-        <title lang="ja">♦青森 FII ミッドナイト⭐ 💛 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月12日 青森 ステータス: ♦青森 FII ミッドナイト⭐ 💛 初日 実況放送♦</desc>
+        <title lang="ja">♦青森 FII ミッドナイト⭐ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月12日 青森 ステータス: ♦青森 FII ミッドナイト⭐ 初日 実況放送♦</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.iwakitaira">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -1175,9 +1199,17 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月12日 船橋 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.oi">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月12日 大井 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260812010000 +0900" stop="20260812135500 +0900" channel="chihou.oi">
+        <title lang="ja">♦本日開催 実況中継前 第①レース14:25 開始♦</title>
+        <desc lang="ja">2026年08月12日 大井 ステータス: ♦本日開催 実況中継前 第①レース14:25 開始♦</desc>
+    </programme>
+    <programme start="20260812135500 +0900" stop="20260812212000 +0900" channel="chihou.oi">
+        <title lang="ja">♦大井 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月12日 大井 ステータス: ♦大井 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260812212000 +0900" stop="20260812235900 +0900" channel="chihou.oi">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月12日 大井 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.kawasaki_keiba">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -1203,17 +1235,25 @@
         <title lang="ja">♦本日開催 実況中継前 第①レース11:15 開始♦</title>
         <desc lang="ja">2026年08月12日 笠松 ステータス: ♦本日開催 実況中継前 第①レース11:15 開始♦</desc>
     </programme>
-    <programme start="20260812104500 +0900" stop="20260812173000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">♦笠松 くろゆり賞 (16:35発走) デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月12日 笠松 ステータス: ♦笠松 くろゆり賞 (16:35発走) デイ☀ 実況放送♦</desc>
+    <programme start="20260812104500 +0900" stop="20260812183000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦笠松 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月12日 笠松 ステータス: ♦笠松 薄暮🌇 実況放送♦</desc>
     </programme>
-    <programme start="20260812173000 +0900" stop="20260812235900 +0900" channel="chihou.kasamatsu">
+    <programme start="20260812183000 +0900" stop="20260812235900 +0900" channel="chihou.kasamatsu">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月12日 笠松 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.sonoda">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月12日 園田 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260812010000 +0900" stop="20260812130000 +0900" channel="chihou.sonoda">
+        <title lang="ja">♦本日開催 実況中継前 第①レース13:30 開始♦</title>
+        <desc lang="ja">2026年08月12日 園田 ステータス: ♦本日開催 実況中継前 第①レース13:30 開始♦</desc>
+    </programme>
+    <programme start="20260812130000 +0900" stop="20260812200000 +0900" channel="chihou.sonoda">
+        <title lang="ja">♦園田 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月12日 園田 ステータス: ♦園田 薄暮🌇 実況放送♦</desc>
+    </programme>
+    <programme start="20260812200000 +0900" stop="20260812235900 +0900" channel="chihou.sonoda">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月12日 園田 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.himeji">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -1284,8 +1324,8 @@
         <desc lang="ja">2026年08月13日 青森 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
     </programme>
     <programme start="20260813201000 +0900" stop="20260814001000 +0900" channel="keirin.aomori">
-        <title lang="ja">♦青森 FII ミッドナイト⭐ 💛 最終日 実況放送♦</title>
-        <desc lang="ja">2026年08月13日 青森 ステータス: ♦青森 FII ミッドナイト⭐ 💛 最終日 実況放送♦</desc>
+        <title lang="ja">♦青森 FII ミッドナイト⭐ 💛 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月13日 青森 ステータス: ♦青森 FII ミッドナイト⭐ 💛 2日目 実況放送♦</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="keirin.iwakitaira">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -1487,17 +1527,25 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月13日 千葉PIST6 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="chihou.obihiro">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月13日 帯広 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260813010000 +0900" stop="20260813135000 +0900" channel="chihou.obihiro">
+        <title lang="ja">♦本日開催 実況中継前 第①レース14:20 開始♦</title>
+        <desc lang="ja">2026年08月13日 帯広 ステータス: ♦本日開催 実況中継前 第①レース14:20 開始♦</desc>
+    </programme>
+    <programme start="20260813135000 +0900" stop="20260813211000 +0900" channel="chihou.obihiro">
+        <title lang="ja">♦帯広 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月13日 帯広 ステータス: ♦帯広 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260813211000 +0900" stop="20260813235900 +0900" channel="chihou.obihiro">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月13日 帯広 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813133000 +0900" channel="chihou.mombetsu">
         <title lang="ja">♦本日開催 実況中継前 第①レース14:00 開始♦</title>
         <desc lang="ja">2026年08月13日 門別 ステータス: ♦本日開催 実況中継前 第①レース14:00 開始♦</desc>
     </programme>
     <programme start="20260813133000 +0900" stop="20260813211000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">♦門別 北海道スプリントカップ JpnⅢ (19:55発走) ナイター🌙 実況放送♦</title>
-        <desc lang="ja">2026年08月13日 門別 ステータス: ♦門別 北海道スプリントカップ JpnⅢ (19:55発走) ナイター🌙 実況放送♦</desc>
+        <title lang="ja">♦門別 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月13日 門別 ステータス: ♦門別 ナイター🌙 実況放送♦</desc>
     </programme>
     <programme start="20260813211000 +0900" stop="20260813235900 +0900" channel="chihou.mombetsu">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -1535,9 +1583,17 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月13日 川崎 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="chihou.kanazawa">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月13日 金沢 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260813010000 +0900" stop="20260813143500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦本日開催 実況中継前 第①レース15:05 開始♦</title>
+        <desc lang="ja">2026年08月13日 金沢 ステータス: ♦本日開催 実況中継前 第①レース15:05 開始♦</desc>
+    </programme>
+    <programme start="20260813143500 +0900" stop="20260813212000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦金沢 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月13日 金沢 ステータス: ♦金沢 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260813212000 +0900" stop="20260813235900 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月13日 金沢 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="chihou.nagoya_keiba">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -1547,11 +1603,11 @@
         <title lang="ja">♦本日開催 実況中継前 第①レース11:15 開始♦</title>
         <desc lang="ja">2026年08月13日 笠松 ステータス: ♦本日開催 実況中継前 第①レース11:15 開始♦</desc>
     </programme>
-    <programme start="20260813104500 +0900" stop="20260813170000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">♦笠松 デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月13日 笠松 ステータス: ♦笠松 デイ☀ 実況放送♦</desc>
+    <programme start="20260813104500 +0900" stop="20260813183000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦笠松 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月13日 笠松 ステータス: ♦笠松 薄暮🌇 実況放送♦</desc>
     </programme>
-    <programme start="20260813170000 +0900" stop="20260813235900 +0900" channel="chihou.kasamatsu">
+    <programme start="20260813183000 +0900" stop="20260813235900 +0900" channel="chihou.kasamatsu">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月13日 笠松 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
@@ -1619,13 +1675,9 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月13日 浜松 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813195000 +0900" channel="auto.iizuka">
-        <title lang="ja">♦本日開催 実況中継前 第①レース20:20 開始♦</title>
-        <desc lang="ja">2026年08月13日 飯塚 ステータス: ♦本日開催 実況中継前 第①レース20:20 開始♦</desc>
-    </programme>
-    <programme start="20260813195000 +0900" stop="20260814001500 +0900" channel="auto.iizuka">
-        <title lang="ja">♦飯塚 ミッドナイト⭐ 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月13日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 初日 実況放送♦</desc>
+    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="auto.iizuka">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月13日 飯塚 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="auto.sanyo">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -1851,9 +1903,17 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月14日 千葉PIST6 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260814010000 +0900" stop="20260814235900 +0900" channel="chihou.obihiro">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月14日 帯広 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260814010000 +0900" stop="20260814135000 +0900" channel="chihou.obihiro">
+        <title lang="ja">♦本日開催 実況中継前 第①レース14:20 開始♦</title>
+        <desc lang="ja">2026年08月14日 帯広 ステータス: ♦本日開催 実況中継前 第①レース14:20 開始♦</desc>
+    </programme>
+    <programme start="20260814135000 +0900" stop="20260814211000 +0900" channel="chihou.obihiro">
+        <title lang="ja">♦帯広 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月14日 帯広 ステータス: ♦帯広 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260814211000 +0900" stop="20260814235900 +0900" channel="chihou.obihiro">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月14日 帯広 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
     <programme start="20260814010000 +0900" stop="20260814133000 +0900" channel="chihou.mombetsu">
         <title lang="ja">♦本日開催 実況中継前 第①レース14:00 開始♦</title>
@@ -1911,11 +1971,11 @@
         <title lang="ja">♦本日開催 実況中継前 第①レース11:15 開始♦</title>
         <desc lang="ja">2026年08月14日 笠松 ステータス: ♦本日開催 実況中継前 第①レース11:15 開始♦</desc>
     </programme>
-    <programme start="20260814104500 +0900" stop="20260814170000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">♦笠松 デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月14日 笠松 ステータス: ♦笠松 デイ☀ 実況放送♦</desc>
+    <programme start="20260814104500 +0900" stop="20260814183000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">♦笠松 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月14日 笠松 ステータス: ♦笠松 薄暮🌇 実況放送♦</desc>
     </programme>
-    <programme start="20260814170000 +0900" stop="20260814235900 +0900" channel="chihou.kasamatsu">
+    <programme start="20260814183000 +0900" stop="20260814235900 +0900" channel="chihou.kasamatsu">
         <title lang="ja">♦本日 全レース終了♦</title>
         <desc lang="ja">2026年08月14日 笠松 ステータス: ♦本日 全レース終了♦</desc>
     </programme>
@@ -1924,8 +1984,8 @@
         <desc lang="ja">2026年08月14日 園田 ステータス: ♦本日開催 実況中継前 第①レース15:00 開始♦</desc>
     </programme>
     <programme start="20260814143000 +0900" stop="20260814210000 +0900" channel="chihou.sonoda">
-        <title lang="ja">♦園田 その金ナイター🌇 (摂津盃 19:55発走) 実況放送♦</title>
-        <desc lang="ja">2026年08月14日 園田 ステータス: ♦園田 その金ナイター🌇 (摂津盃 19:55発走) 実況放送♦</desc>
+        <title lang="ja">♦園田 その金ナイター🌇 (摂津盃) 実況放送♦</title>
+        <desc lang="ja">2026年08月14日 園田 ステータス: ♦園田 その金ナイター🌇 (摂津盃) 実況放送♦</desc>
     </programme>
     <programme start="20260814210000 +0900" stop="20260814235900 +0900" channel="chihou.sonoda">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -1983,9 +2043,13 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月14日 浜松 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260814010000 +0900" stop="20260814235900 +0900" channel="auto.iizuka">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月14日 飯塚 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260814010000 +0900" stop="20260814195000 +0900" channel="auto.iizuka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:20 開始♦</title>
+        <desc lang="ja">2026年08月14日 飯塚 ステータス: ♦本日開催 実況中継前 第①レース20:20 開始♦</desc>
+    </programme>
+    <programme start="20260814195000 +0900" stop="20260815001500 +0900" channel="auto.iizuka">
+        <title lang="ja">♦飯塚 ミッドナイト⭐ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月14日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 初日 実況放送♦</desc>
     </programme>
     <programme start="20260814010000 +0900" stop="20260814235900 +0900" channel="auto.sanyo">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -2292,8 +2356,8 @@
         <desc lang="ja">2026年08月15日 札幌 ステータス: ♦本日開催 実況中継前 第①レース09:40 開始♦</desc>
     </programme>
     <programme start="20260815091000 +0900" stop="20260815184500 +0900" channel="jra.sapporo">
-        <title lang="ja">♦札幌 デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月15日 札幌 ステータス: ♦札幌 デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦札幌 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月15日 札幌 ステータス: ♦札幌 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260815184500 +0900" stop="20260815235900 +0900" channel="jra.sapporo">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -2304,8 +2368,8 @@
         <desc lang="ja">2026年08月15日 新潟 ステータス: ♦本日開催 実況中継前 第①レース09:40 開始♦</desc>
     </programme>
     <programme start="20260815091000 +0900" stop="20260815184500 +0900" channel="jra.niigata">
-        <title lang="ja">♦新潟 新潟ジャンプS (15:45発走) デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月15日 新潟 ステータス: ♦新潟 新潟ジャンプS (15:45発走) デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦新潟 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月15日 新潟 ステータス: ♦新潟 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260815184500 +0900" stop="20260815235900 +0900" channel="jra.niigata">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -2316,8 +2380,8 @@
         <desc lang="ja">2026年08月15日 中京 ステータス: ♦本日開催 実況中継前 第①レース09:40 開始♦</desc>
     </programme>
     <programme start="20260815091000 +0900" stop="20260815184500 +0900" channel="jra.chukyo">
-        <title lang="ja">♦中京 デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月15日 中京 ステータス: ♦中京 デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦中京 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月15日 中京 ステータス: ♦中京 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260815184500 +0900" stop="20260815235900 +0900" channel="jra.chukyo">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -2351,9 +2415,13 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月15日 浜松 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="auto.iizuka">
-        <title lang="ja">💎本日は開催しておりません💎</title>
-        <desc lang="ja">2026年08月15日 飯塚 ステータス: 💎本日は開催しておりません💎</desc>
+    <programme start="20260815010000 +0900" stop="20260815195000 +0900" channel="auto.iizuka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:20 開始♦</title>
+        <desc lang="ja">2026年08月15日 飯塚 ステータス: ♦本日開催 実況中継前 第①レース20:20 開始♦</desc>
+    </programme>
+    <programme start="20260815195000 +0900" stop="20260816001500 +0900" channel="auto.iizuka">
+        <title lang="ja">♦飯塚 ミッドナイト⭐ 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月15日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 2日目 実況放送♦</desc>
     </programme>
     <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="auto.sanyo">
         <title lang="ja">💎本日は開催しておりません💎</title>
@@ -2395,17 +2463,9 @@
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月16日 大宮 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
-    <programme start="20260816010000 +0900" stop="20260816080000 +0900" channel="keirin.seibuen">
-        <title lang="ja">♦本日開催 実況中継前 第①レース08:30 開始♦</title>
-        <desc lang="ja">2026年08月16日 西武園 ステータス: ♦本日開催 実況中継前 第①レース08:30 開始♦</desc>
-    </programme>
-    <programme start="20260816080000 +0900" stop="20260816122500 +0900" channel="keirin.seibuen">
-        <title lang="ja">♦西武園 FII モーニング🌅 💛 初日 実況放送♦</title>
-        <desc lang="ja">2026年08月16日 西武園 ステータス: ♦西武園 FII モーニング🌅 💛 初日 実況放送♦</desc>
-    </programme>
-    <programme start="20260816122500 +0900" stop="20260816235900 +0900" channel="keirin.seibuen">
-        <title lang="ja">♦本日 全レース終了♦</title>
-        <desc lang="ja">2026年08月16日 西武園 ステータス: ♦本日 全レース終了♦</desc>
+    <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="keirin.seibuen">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月16日 西武園 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816100000 +0900" channel="keirin.keiogatsu">
         <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
@@ -2660,8 +2720,8 @@
         <desc lang="ja">2026年08月16日 札幌 ステータス: ♦本日開催 実況中継前 第①レース09:40 開始♦</desc>
     </programme>
     <programme start="20260816091000 +0900" stop="20260816184500 +0900" channel="jra.sapporo">
-        <title lang="ja">♦札幌 札幌記念 (GⅡ 15:45発走) デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月16日 札幌 ステータス: ♦札幌 札幌記念 (GⅡ 15:45発走) デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦札幌 札幌記念 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月16日 札幌 ステータス: ♦札幌 札幌記念 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260816184500 +0900" stop="20260816235900 +0900" channel="jra.sapporo">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -2672,8 +2732,8 @@
         <desc lang="ja">2026年08月16日 新潟 ステータス: ♦本日開催 実況中継前 第①レース09:40 開始♦</desc>
     </programme>
     <programme start="20260816091000 +0900" stop="20260816184500 +0900" channel="jra.niigata">
-        <title lang="ja">♦新潟 デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月16日 新潟 ステータス: ♦新潟 デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦新潟 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月16日 新潟 ステータス: ♦新潟 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260816184500 +0900" stop="20260816235900 +0900" channel="jra.niigata">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -2684,8 +2744,8 @@
         <desc lang="ja">2026年08月16日 中京 ステータス: ♦本日開催 実況中継前 第①レース09:40 開始♦</desc>
     </programme>
     <programme start="20260816091000 +0900" stop="20260816184500 +0900" channel="jra.chukyo">
-        <title lang="ja">♦中京 デイ☀ 実況放送♦</title>
-        <desc lang="ja">2026年08月16日 中京 ステータス: ♦中京 デイ☀ 実況放送♦</desc>
+        <title lang="ja">♦中京 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月16日 中京 ステータス: ♦中京 薄暮🌇 実況放送♦</desc>
     </programme>
     <programme start="20260816184500 +0900" stop="20260816235900 +0900" channel="jra.chukyo">
         <title lang="ja">♦本日 全レース終了♦</title>
@@ -2716,11 +2776,343 @@
         <desc lang="ja">2026年08月16日 飯塚 ステータス: ♦本日開催 実況中継前 第①レース20:20 開始♦</desc>
     </programme>
     <programme start="20260816195000 +0900" stop="20260817001500 +0900" channel="auto.iizuka">
-        <title lang="ja">♦飯塚 ミッドナイト⭐ 2日目 実況放送♦</title>
-        <desc lang="ja">2026年08月16日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 2日目 実況放送♦</desc>
+        <title lang="ja">♦飯塚 ミッドナイト⭐ 3日目 実況放送♦</title>
+        <desc lang="ja">2026年08月16日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 3日目 実況放送♦</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="auto.sanyo">
         <title lang="ja">💎本日は開催しておりません💎</title>
         <desc lang="ja">2026年08月16日 山陽 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.hakodate">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 函館 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.aomori">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 青森 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.iwakitaira">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 いわき平 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.yahiko">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 弥彦 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817201000 +0900" channel="keirin.matsusaka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:40 開始♦</title>
+        <desc lang="ja">2026年08月17日 前橋 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
+    </programme>
+    <programme start="20260817201000 +0900" stop="20260818001000 +0900" channel="keirin.matsusaka">
+        <title lang="ja">♦前橋 FII ミッドナイト⭐ 💛 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 前橋 ステータス: ♦前橋 FII ミッドナイト⭐ 💛 最終日 実況放送♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.toride">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 取手 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.utsunomiya">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 宇都宮 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.omiya">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 大宮 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817080000 +0900" channel="keirin.seibuen">
+        <title lang="ja">♦本日開催 実況中継前 第①レース08:30 開始♦</title>
+        <desc lang="ja">2026年08月17日 西武園 ステータス: ♦本日開催 実況中継前 第①レース08:30 開始♦</desc>
+    </programme>
+    <programme start="20260817080000 +0900" stop="20260817122500 +0900" channel="keirin.seibuen">
+        <title lang="ja">♦西武園 FII モーニング🌅 💛 2日目 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 西武園 ステータス: ♦西武園 FII モーニング🌅 💛 2日目 実況放送♦</desc>
+    </programme>
+    <programme start="20260817122500 +0900" stop="20260817235900 +0900" channel="keirin.seibuen">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月17日 西武園 ステータス: ♦本日 全レース終了♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.keiogatsu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 京王閣 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817100000 +0900" channel="keirin.tachikawa">
+        <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
+        <desc lang="ja">2026年08月17日 立川 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
+    </programme>
+    <programme start="20260817100000 +0900" stop="20260817170000 +0900" channel="keirin.tachikawa">
+        <title lang="ja">♦立川 FI デイ☀ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 立川 ステータス: ♦立川 FI デイ☀ 初日 実況放送♦</desc>
+    </programme>
+    <programme start="20260817170000 +0900" stop="20260817235900 +0900" channel="keirin.tachikawa">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月17日 立川 ステータス: ♦本日 全レース終了♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.matsudo">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 松戸 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.kawasaki">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 川崎 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.hiratsuka">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 平塚 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.odawara">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 小田原 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817100000 +0900" channel="keirin.ito">
+        <title lang="ja">♦本日開催 実況中継前 第①レース10:30 開始♦</title>
+        <desc lang="ja">2026年08月17日 伊東 ステータス: ♦本日開催 実況中継前 第①レース10:30 開始♦</desc>
+    </programme>
+    <programme start="20260817100000 +0900" stop="20260817170000 +0900" channel="keirin.ito">
+        <title lang="ja">♦伊東 FI デイ☀ 初日 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 伊東 ステータス: ♦伊東 FI デイ☀ 初日 実況放送♦</desc>
+    </programme>
+    <programme start="20260817170000 +0900" stop="20260817235900 +0900" channel="keirin.ito">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月17日 伊東 ステータス: ♦本日 全レース終了♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817201000 +0900" channel="keirin.shizuoka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:40 開始♦</title>
+        <desc lang="ja">2026年08月17日 静岡 ステータス: ♦本日開催 実況中継前 第①レース20:40 開始♦</desc>
+    </programme>
+    <programme start="20260817201000 +0900" stop="20260818001000 +0900" channel="keirin.shizuoka">
+        <title lang="ja">♦静岡 FII ミッドナイト⭐ 💛 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 静岡 ステータス: ♦静岡 FII ミッドナイト⭐ 💛 最終日 実況放送♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.nagoya">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 名古屋 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.gifu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 岐阜 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.ogaki">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 大垣 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.toyohashi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 豊橋 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.matsusaka">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 松阪 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.yokkaichi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 四日市 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.toyama">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 富山 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.fukui">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 福井 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.nara">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 奈良 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.kishiwada">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 岸和田 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.wakayama">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 和歌山 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.tamano">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 玉野 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.hiroshima">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 広島 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.hofu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 防府 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.komatsushima">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 小松島 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.matsuyama">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 松山 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.kochi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 高知 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.takamatsu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 高松 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.mukomachi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 向日町 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.kokura">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 小倉 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.kurume">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 久留米 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.takeo">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 武雄 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.sasebo">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 佐世保 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.beppu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 別府 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.kumamoto">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 熊本 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.pist6">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 千葉PIST6 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.obihiro">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 帯広 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817133000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦本日開催 実況中継前 第①レース14:00 開始♦</title>
+        <desc lang="ja">2026年08月17日 門別 ステータス: ♦本日開催 実況中継前 第①レース14:00 開始♦</desc>
+    </programme>
+    <programme start="20260817133000 +0900" stop="20260817211000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦門別 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 門別 ステータス: ♦門別 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260817211000 +0900" stop="20260817235900 +0900" channel="chihou.mombetsu">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月17日 門別 ステータス: ♦本日 全レース終了♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817111000 +0900" channel="chihou.morioka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース11:40 開始♦</title>
+        <desc lang="ja">2026年08月17日 盛岡 ステータス: ♦本日開催 実況中継前 第①レース11:40 開始♦</desc>
+    </programme>
+    <programme start="20260817111000 +0900" stop="20260817184000 +0900" channel="chihou.morioka">
+        <title lang="ja">♦盛岡 薄暮🌇 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 盛岡 ステータス: ♦盛岡 薄暮🌇 実況放送♦</desc>
+    </programme>
+    <programme start="20260817184000 +0900" stop="20260817235900 +0900" channel="chihou.morioka">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月17日 盛岡 ステータス: ♦本日 全レース終了♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.mizusawa">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 水沢 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.urawa">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 浦和 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.funabashi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 船橋 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.oi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 大井 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.kawasaki_keiba">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 川崎 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817143500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦本日開催 実況中継前 第①レース15:05 開始♦</title>
+        <desc lang="ja">2026年08月17日 金沢 ステータス: ♦本日開催 実況中継前 第①レース15:05 開始♦</desc>
+    </programme>
+    <programme start="20260817143500 +0900" stop="20260817212000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦金沢 ナイター🌙 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 金沢 ステータス: ♦金沢 ナイター🌙 実況放送♦</desc>
+    </programme>
+    <programme start="20260817212000 +0900" stop="20260817235900 +0900" channel="chihou.kanazawa">
+        <title lang="ja">♦本日 全レース終了♦</title>
+        <desc lang="ja">2026年08月17日 金沢 ステータス: ♦本日 全レース終了♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.nagoya_keiba">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 名古屋 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 笠松 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.sonoda">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 園田 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.himeji">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 姫路 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.kochi_keiba">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 高知 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="chihou.saga">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 佐賀 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="jra.sapporo">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 札幌 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="jra.niigata">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 新潟 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="jra.chukyo">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 中京 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="jra.official">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 ＪＲＡ公式 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="jra.green">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 ＪＲＡグリーン ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="auto.kawaguchi">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 川口 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="auto.isesaki">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 伊勢崎 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="auto.hamamatsu">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 浜松 ステータス: 💎本日は開催しておりません💎</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817195000 +0900" channel="auto.iizuka">
+        <title lang="ja">♦本日開催 実況中継前 第①レース20:20 開始♦</title>
+        <desc lang="ja">2026年08月17日 飯塚 ステータス: ♦本日開催 実況中継前 第①レース20:20 開始♦</desc>
+    </programme>
+    <programme start="20260817195000 +0900" stop="20260818001500 +0900" channel="auto.iizuka">
+        <title lang="ja">♦飯塚 ミッドナイト⭐ 最終日 実況放送♦</title>
+        <desc lang="ja">2026年08月17日 飯塚 ステータス: ♦飯塚 ミッドナイト⭐ 最終日 実況放送♦</desc>
+    </programme>
+    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="auto.sanyo">
+        <title lang="ja">💎本日は開催しておりません💎</title>
+        <desc lang="ja">2026年08月17日 山陽 ステータス: 💎本日は開催しておりません💎</desc>
     </programme>
 </tv>
