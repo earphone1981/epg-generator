@@ -24,10 +24,10 @@ KEIBA_MAP = {
 AUTO_MAP = {"川口": "auto.kawaguchi", "伊勢崎": "auto.isesaki", "浜松": "auto.hamamatsu", "飯塚": "auto.iizuka", "山陽": "auto.sanyo"}
 
 SCHEDULES = {
-    "20260810": {
+   "20260810": {
         "keirin": {
             "立川": {"desc": "FI スポーツニッポン杯 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "前橋": {"desc": "FII ティーネットエンタープライズC 2日目", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
+            "前橋": {"desc": "FII ティーネットエンタープライ즈C 2日目", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
             "川崎": {"desc": "FII チャリロト杯 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
             "平塚": {"desc": "FII 楽天Kドリームス杯 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
             "富山": {"desc": "FI 仲間と繋がるTIPSTAR杯 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
@@ -35,7 +35,6 @@ SCHEDULES = {
         },
         "keiba": {
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
             "盛岡": {"desc": "薄暮", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
             "浦和": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
             "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
