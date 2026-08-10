@@ -216,7 +216,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ナイター)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII ティーネットエンタープライズC 2日目
+📢 内容: FII ティーネットエンタープライ즈C 2日目
 ⏰ 時間: 15:00 - 20:25
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -225,7 +225,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ナイター)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII ティーネットエンタープライズC 2日目
+📢 内容: FII ティーネットエンタープライ즈C 2日目
 ⏰ 時間: 15:00 - 20:25
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -497,27 +497,9 @@
         <title lang="ja">🏁 終了 帯広 (ナイター)</title>
         <desc lang="ja">帯広 (ナイター) の放送は終了しました。</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810135000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">⏳ 待機 門別 (ナイター 1R 14:00開始)</title>
-        <desc lang="ja">🏇 開催地: 門別 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:00 - 20:40
-📅 日付: 2026年08月10日</desc>
-    </programme>
-    <programme start="20260810135000 +0900" stop="20260810205000 +0900" channel="chihou.mombetsu">
-        <title lang="ja"> 🔴 LIVE 門別 (ナイター) </title>
-        <desc lang="ja">🏇 開催地: 門別 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:00 - 20:40
-📅 日付: 2026年08月10日</desc>
-    </programme>
-    <programme start="20260810205000 +0900" stop="20260810235900 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🏁 終了 門別 (ナイター)</title>
-        <desc lang="ja">門別 (ナイター) の放送は終了しました。</desc>
+    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="chihou.mombetsu">
+        <title lang="ja">💎 開催なし 門別</title>
+        <desc lang="ja">本日は門別での開催予定はありません。</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810113000 +0900" channel="chihou.morioka">
         <title lang="ja">⏳ 待機 盛岡 (薄暮 1R 11:40開始)</title>
