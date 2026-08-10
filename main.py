@@ -26,13 +26,12 @@ AUTO_MAP = {"川口": "auto.kawaguchi", "伊勢崎": "auto.isesaki", "浜松": "
 SCHEDULES = {
     "20260810": {
         "keirin": {
-            "弥彦": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "富山": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "熊本": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "前橋": {"desc": "FII 2日目", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
-            "川崎": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "平塚": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "四日市": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
+            "立川": {"desc": "FI スポーツニッポン杯 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "前橋": {"desc": "FII ティーネットエンタープライズC 2日目", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
+            "川崎": {"desc": "FII チャリロト杯 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "平塚": {"desc": "FII 楽天Kドリームス杯 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "富山": {"desc": "FI 仲間と繋がるTIPSTAR杯 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "四日市": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
         },
         "keiba": {
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
@@ -40,20 +39,19 @@ SCHEDULES = {
             "盛岡": {"desc": "薄暮", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
             "浦和": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
             "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
-            # 8/10 笠松開催なし
         },
         "auto": {"飯塚": {"desc": "ミッドナイト", "start": "20:19", "end": "23:45", "day_type": "ミッドナイト"}}
     },
     "20260811": {
         "keirin": {
             "松山": {"desc": "GI オールスター競輪 初日", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "弥彦": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "富山": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "熊本": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "前橋": {"desc": "FII 最終日", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
-            "川崎": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "平塚": {"desc": "FII 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "四日市": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
+            "弥彦": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "熊本": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "富山": {"desc": "FI 仲間と繋がるTIPSTAR杯 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "前橋": {"desc": "FII ティーネットエンタープライズC 最終日", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
+            "川崎": {"desc": "FII チャリロト杯 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "平塚": {"desc": "FII 楽天Kドリームス杯 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "四日市": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
         },
         "keiba": {
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
@@ -67,13 +65,13 @@ SCHEDULES = {
     },
     "20260812": {
         "keirin": {
-            "松山": {"desc": "GI 2日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "青森": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "弥彦": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "岐阜": {"desc": "FII 初日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "富山": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "武雄": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "熊本": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
+            "松山": {"desc": "GI オールスター競輪 2日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "弥彦": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "熊本": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "青森": {"desc": "FII AI競輪も大人気チャリロト杯 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "岐阜": {"desc": "FII 前検日コメならウィンチケット杯 初日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "富山": {"desc": "FI 仲間と繋がるTIPSTAR杯 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "武雄": {"desc": "FII 前検日コメならウィンチケット杯 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
         },
         "keiba": {
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
@@ -87,12 +85,13 @@ SCHEDULES = {
     },
     "20260813": {
         "keirin": {
-            "松山": {"desc": "GI 3日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "青森": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII 初日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "岐阜": {"desc": "FII 2日目", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "武雄": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "熊本": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
+            "松山": {"desc": "GI オールスター競輪 3日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "弥彦": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "熊本": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "青森": {"desc": "FII AI競輪も大人気チャリロト杯 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII オッズパーク杯 初日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "岐阜": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "武雄": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
         },
         "keiba": {
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
@@ -106,13 +105,13 @@ SCHEDULES = {
     },
     "20260814": {
         "keirin": {
-            "松山": {"desc": "GI 4日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "青森": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "京王閣": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "岐阜": {"desc": "FII 最終日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "奈良": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "武雄": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
+            "松山": {"desc": "GI オールスター競輪 4日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "京王閣": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "奈良": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "青森": {"desc": "FII AI競輪も大人気チャリロト杯 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII オッズパーク杯 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "岐阜": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "武雄": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
         },
         "keiba": {
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
@@ -128,17 +127,19 @@ SCHEDULES = {
     },
     "20260815": {
         "keirin": {
-            "松山": {"desc": "GI 5日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "前橋": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "京王閣": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "静岡": {"desc": "FII 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "奈良": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
+            "松山": {"desc": "GI オールスター競輪 5日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "京王閣": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "奈良": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "前橋": {"desc": "FII 前検日コメならウィンチケット杯 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "西武園": {"desc": "FII オッズパーク杯 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
+            "静岡": {"desc": "FII オッズパーク杯 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
         },
         "keiba": {
-            "新潟": {"desc": "新潟ジャンプS", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
-            "中京": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
-            "札幌": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "札幌": {"desc": "JRA 札幌開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
+            "新潟": {"desc": "JRA 新潟ジャンプS", "start": "09:40", "end": "17:00", "day_type": "デイ"},
+            "中京": {"desc": "JRA 中京開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
+            "ＪＲＡ公式": {"desc": "JRA公式中継", "start": "09:00", "end": "17:00", "day_type": "デイ"},
+            "ＪＲＡグリーン": {"desc": "グリーンチャンネル", "start": "09:00", "end": "21:00", "day_type": "デイ"},
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
             "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
             "佐賀": {"desc": "ナイター", "start": "15:55", "end": "20:50", "day_type": "ナイター"}
@@ -150,18 +151,20 @@ SCHEDULES = {
     },
     "20260816": {
         "keirin": {
-            "松山": {"desc": "GI 決勝戦", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "前橋": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "京王閣": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "静岡": {"desc": "FII 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "奈良": {"desc": "FI 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "伊東": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "別府": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
+            "松山": {"desc": "GI オールスター競輪 決勝戦", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
+            "京王閣": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "奈良": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "前橋": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "伊東": {"desc": "FI PayPay銀行杯 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "静岡": {"desc": "FII オッズパーク杯 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "別府": {"desc": "FI CTCは3分前杯 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
-            "札幌": {"desc": "札幌記念 GⅡ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
-            "新潟": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
-            "中京": {"desc": "デイ", "start": "09:40", "end": "18:15", "day_type": "薄暮"},
+            "札幌": {"desc": "札幌記念 GⅡ", "start": "09:40", "end": "17:00", "day_type": "デイ"},
+            "新潟": {"desc": "JRA 新潟開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
+            "中京": {"desc": "JRA 中京開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
+            "ＪＲＡ公式": {"desc": "JRA公式中継", "start": "09:00", "end": "17:00", "day_type": "デイ"},
+            "ＪＲＡグリーン": {"desc": "グリーンチャンネル", "start": "09:00", "end": "21:00", "day_type": "デイ"},
             "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
             "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
             "佐賀": {"desc": "ナイター", "start": "15:55", "end": "20:50", "day_type": "ナイター"}
@@ -172,12 +175,12 @@ SCHEDULES = {
     },
     "20260817": {
         "keirin": {
-            "前橋": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
+            "前橋": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
             "西武園": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "静岡": {"desc": "FII 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
+            "静岡": {"desc": "FII オッズパーク杯 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
             "立川": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "伊東": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "別府": {"desc": "FI 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
+            "伊東": {"desc": "FI PayPay銀行杯 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
+            "別府": {"desc": "FI CTCは3分前杯 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
         },
         "keiba": {
             "盛岡": {"desc": "薄暮", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
@@ -205,7 +208,7 @@ def build_epg_xml():
         channel = ET.SubElement(tv, "channel", id=tvg_id)
         ET.SubElement(channel, "display-name").text = v_name
 
-    for date_str in ["20260810", "20260811", "20260812", "20260813", "20260814", "20260815", "20260816", "20260817"]:
+    for date_str in SCHEDULES.keys():
         day_schedules = SCHEDULES.get(date_str, {})
         dt_obj = datetime.datetime.strptime(date_str, "%Y%m%d")
         today_display = dt_obj.strftime("%Y年%m月%d日")
