@@ -2,49 +2,37 @@ import datetime
 import xml.etree.ElementTree as ET
 
 KEIRIN_MAP = {
-    "函館": "keirin.hakodate", "青森": "keirin.aomori", "いわき平": "keirin.iwakitaira",
-    "弥彦": "keirin.yahiko", "前橋": "keirin.matsusaka", "取手": "keirin.toride",
-    "宇都宮": "keirin.utsunomiya", "大宮": "keirin.omiya", "西武園": "keirin.seibuen",
-    "京王閣": "keirin.keiogatsu", "立川": "keirin.tachikawa", "松戸": "keirin.matsudo",
-    "川崎": "keirin.kawasaki", "平塚": "keirin.hiratsuka", "小田原": "keirin.odawara",
-    "伊東": "keirin.ito", "静岡": "keirin.shizuoka", "名古屋": "keirin.nagoya",
-    "岐阜": "keirin.gifu", "大垣": "keirin.ogaki", "豊橋": "keirin.toyohashi",
-    "松阪": "keirin.matsusaka", "四日市": "keirin.yokkaichi", "富山": "keirin.toyama",
-    "福井": "keirin.fukui", "奈良": "keirin.nara", "岸和田": "keirin.kishiwada",
-    "和歌山": "keirin.wakayama", "玉野": "keirin.tamano", "広島": "keirin.hiroshima",
-    "防府": "keirin.hofu", "小松島": "keirin.komatsushima", "松山": "keirin.matsuyama",
-    "高知": "keirin.kochi", "高松": "keirin.takamatsu", "向日町": "keirin.mukomachi",
-    "小倉": "keirin.kokura", "久留米": "keirin.kurume", "武雄": "keirin.takeo", 
-    "佐世保": "keirin.sasebo", "別府": "keirin.beppu", "熊本": "keirin.kumamoto", 
-    "千葉PIST6": "keirin.pist6"
+    "函館": "keirin.hakodate", "青森": "keirin.aomori", "いわき平": "keirin.iwakitaira", "弥彦": "keirin.yahiko",
+    "前橋": "keirin.maebashi", "取手": "keirin.toride", "宇都宮": "keirin.utsunomiya", "大宮": "keirin.omiya",
+    "西武園": "keirin.seibuen", "京王閣": "keirin.keiogatsu", "立川": "keirin.tachikawa", "松戸": "keirin.matsudo",
+    "川崎": "keirin.kawasaki", "平塚": "keirin.hiratsuka", "小田原": "keirin.odawara", "伊東": "keirin.ito",
+    "静岡": "keirin.shizuoka", "名古屋": "keirin.nagoya", "岐阜": "keirin.gifu", "大垣": "keirin.ogaki",
+    "豊橋": "keirin.toyohashi", "松阪": "keirin.matsusaka", "四日市": "keirin.yokkaichi", "富山": "keirin.toyama",
+    "福井": "keirin.fukui", "奈良": "keirin.nara", "岸和田": "keirin.kishiwada", "和歌山": "keirin.wakayama",
+    "玉野": "keirin.tamano", "広島": "keirin.hiroshima", "防府": "keirin.hofu", "小松島": "keirin.komatsushima",
+    "松山": "keirin.matsuyama", "高知": "keirin.kochi", "高松": "keirin.takamatsu", "向日町": "keirin.mukomachi",
+    "小倉": "keirin.kokura", "久留米": "keirin.kurume", "武雄": "keirin.takeo", "佐世保": "keirin.sasebo",
+    "別府": "keirin.beppu", "熊本": "keirin.kumamoto", "千葉": "keirin.pist6"
 }
-
 KEIBA_MAP = {
-    "帯広": "chihou.obihiro", "門別": "chihou.mombetsu", "盛岡": "chihou.morioka",
-    "水沢": "chihou.mizusawa", "浦和": "chihou.urawa", "船橋": "chihou.funabashi",
-    "大井": "chihou.oi", "川崎": "chihou.kawasaki_keiba", "金沢": "chihou.kanazawa",
-    "名古屋": "chihou.nagoya_keiba", "笠松": "chihou.kasamatsu", "園田": "chihou.sonoda",
-    "姫路": "chihou.himeji", "高知": "chihou.kochi_keiba", "佐賀": "chihou.saga",
-    "札幌": "jra.sapporo", "新潟": "jra.niigata", "中京": "jra.chukyo",
-    "ＪＲＡ公式": "jra.official", "ＪＲＡグリーン": "jra.green"
+    "帯広": "chihou.obihiro", "門別": "chihou.mombetsu", "盛岡": "chihou.morioka", "水沢": "chihou.mizusawa",
+    "浦和": "chihou.urawa", "船橋": "chihou.funabashi", "大井": "chihou.oi", "川崎": "chihou.kawasaki_keiba",
+    "金沢": "chihou.kanazawa", "名古屋": "chihou.nagoya_keiba", "笠松": "chihou.kasamatsu", "園田": "chihou.sonoda",
+    "姫路": "chihou.himeji", "高知": "chihou.kochi_keiba", "佐賀": "chihou.saga", "札幌": "jra.sapporo",
+    "新潟": "jra.niigata", "中京": "jra.chukyo", "ＪＲＡ公式": "jra.official", "ＪＲＡグリーン": "jra.green"
 }
-
-AUTO_MAP = {
-    "川口": "auto.kawaguchi", "伊勢崎": "auto.isesaki", "浜松": "auto.hamamatsu",
-    "飯塚": "auto.iizuka", "山陽": "auto.sanyo"
-}
+AUTO_MAP = {"川口": "auto.kawaguchi", "伊勢崎": "auto.isesaki", "浜松": "auto.hamamatsu", "飯塚": "auto.iizuka", "山陽": "auto.sanyo"}
 
 SCHEDULES = {
     "20260810": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 初日", "start": "15:15", "end": "20:50"},
-            "弥彦": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"},
-            "熊本": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"},
-            "前橋": {"desc": "FII ナイター🌙 2日目", "start": "15:00", "end": "20:25"},
-            "川崎": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40"},
-            "平塚": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55"},
-            "富山": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"},
-            "四日市": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40"}
+            "弥彦": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "熊本": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "前橋": {"desc": "FII ナイター🌙 2日目", "start": "15:00", "end": "20:25", "is_girls": False},
+            "川崎": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": True},
+            "平塚": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55", "is_girls": False},
+            "富山": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "四日市": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False}
         },
         "keiba": {
             "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
@@ -57,14 +45,14 @@ SCHEDULES = {
     },
     "20260811": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 2日目", "start": "15:15", "end": "20:50"},
-            "弥彦": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"},
-            "熊本": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"},
-            "前橋": {"desc": "FII ナイター🌙 最終日", "start": "15:00", "end": "20:25"},
-            "川崎": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40"},
-            "平塚": {"desc": "FII モーニング🌅 最終日", "start": "08:30", "end": "11:55"},
-            "富山": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"},
-            "四日市": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40"}
+            "松山": {"desc": "GI オールスター競輪ナイター🌙 初日", "start": "15:15", "end": "20:50", "is_girls": True},
+            "弥彦": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
+            "熊本": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
+            "前橋": {"desc": "FII ナイター🌙 最終日", "start": "15:00", "end": "20:25", "is_girls": False},
+            "川崎": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": True},
+            "平塚": {"desc": "FII モーニング🌅 最終日", "start": "08:30", "end": "11:55", "is_girls": False},
+            "富山": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
+            "四日市": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False}
         },
         "keiba": {
             "門別": {"desc": "ナイター🌙", "start": "14:00", "end": "20:40"},
@@ -77,13 +65,13 @@ SCHEDULES = {
     },
     "20260812": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 2日目", "start": "15:15", "end": "20:50"},
-            "青森": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40"},
-            "弥彦": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"},
-            "岐阜": {"desc": "FII モーニング🌅 初日", "start": "08:50", "end": "11:55"},
-            "富山": {"desc": "FII ミッドナイト⭐ 💛 最終日", "start": "20:40", "end": "23:40"},
-            "武雄": {"desc": "FII ミッドナイト⭐ 💛 初日", "start": "20:40", "end": "23:40"},
-            "熊本": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"}
+            "松山": {"desc": "GI オールスター競輪ナイター🌙 2日目", "start": "15:15", "end": "20:50", "is_girls": True},
+            "青森": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "弥彦": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
+            "岐阜": {"desc": "FII モーニング🌅 初日", "start": "08:50", "end": "11:55", "is_girls": False},
+            "富山": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "武雄": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "熊本": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False}
         },
         "keiba": {
             "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
@@ -97,12 +85,12 @@ SCHEDULES = {
     },
     "20260813": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 3日目", "start": "15:15", "end": "20:50"},
-            "青森": {"desc": "FII ミッドナイト⭐ 💛 2日目", "start": "20:40", "end": "23:40"},
-            "弥彦": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30"},
-            "岐阜": {"desc": "FII モーニング🌅 2日目", "start": "08:50", "end": "11:55"},
-            "武雄": {"desc": "FII ミッドナイト⭐ 💛 2日目", "start": "20:40", "end": "23:40"},
-            "熊本": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30"}
+            "松山": {"desc": "GI オールスター競輪ナイター🌙 3日目", "start": "15:15", "end": "20:50", "is_girls": True},
+            "青森": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
+            "弥彦": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "岐阜": {"desc": "FII モーニング🌅 2日目", "start": "08:50", "end": "11:55", "is_girls": False},
+            "武雄": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
+            "熊本": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False}
         },
         "keiba": {
             "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
@@ -116,13 +104,13 @@ SCHEDULES = {
     },
     "20260814": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 4日目", "start": "15:15", "end": "20:50"},
-            "青森": {"desc": "FII ミッドナイト⭐ 💛 最終日", "start": "20:40", "end": "23:40"},
-            "西武園": {"desc": "FII モーニング🌅 💛 2日目", "start": "08:30", "end": "11:55"},
-            "京王閣": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"},
-            "岐阜": {"desc": "FII モーニング🌅 最終日", "start": "08:50", "end": "11:55"},
-            "奈良": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"},
-            "武雄": {"desc": "FII ミッドナイト⭐ 💛 最終日", "start": "20:40", "end": "23:40"}
+            "松山": {"desc": "GI オールスター競輪ナイター🌙 4日目", "start": "15:15", "end": "20:50", "is_girls": True},
+            "青森": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "西武園": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55", "is_girls": False},
+            "京王閣": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "岐阜": {"desc": "FII モーニング🌅 最終日", "start": "08:50", "end": "11:55", "is_girls": False},
+            "奈良": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "武雄": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False}
         },
         "keiba": {
             "帯広": {"desc": "ナイター🌙", "start": "14:20", "end": "20:40"},
@@ -138,12 +126,12 @@ SCHEDULES = {
     },
     "20260815": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 5日目", "start": "15:15", "end": "20:50"},
-            "前橋": {"desc": "FII ミッドナイト⭐ 💛 初日", "start": "20:40", "end": "23:40"},
-            "西武園": {"desc": "FII モーニング🌅 💛 最終日", "start": "08:30", "end": "11:55"},
-            "京王閣": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"},
-            "静岡": {"desc": "FII ミッドナイト⭐ 💛 初日", "start": "20:40", "end": "23:40"},
-            "奈良": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30"}
+            "松山": {"desc": "GI オールスター競輪ナイター🌙 5日目", "start": "15:15", "end": "20:50", "is_girls": True},
+            "前橋": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "西武園": {"desc": "FII モーニング🌅 最終日", "start": "08:30", "end": "11:55", "is_girls": False},
+            "京王閣": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False},
+            "静岡": {"desc": "FII ミッドナイト⭐ 初日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "奈良": {"desc": "FI デイ☀ 2日目", "start": "10:30", "end": "16:30", "is_girls": False}
         },
         "keiba": {
             "新潟": {"desc": "薄暮🌇", "start": "09:40", "end": "18:15"},
@@ -160,11 +148,11 @@ SCHEDULES = {
     },
     "20260816": {
         "keirin": {
-            "松山": {"desc": "GI オールスター競輪ナイター🌙 💛 決勝戦", "start": "15:15", "end": "20:50"},
-            "前橋": {"desc": "FII ミッドナイト⭐ 💛 2日目", "start": "20:40", "end": "23:40"},
-            "京王閣": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30"},
-            "静岡": {"desc": "FII ミッドナイト⭐ 💛 2日目", "start": "20:40", "end": "23:40"},
-            "奈良": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30"}
+            "松山": {"desc": "GI オールスター競輪ナイター🌙 決勝戦", "start": "15:15", "end": "20:50", "is_girls": True},
+            "前橋": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
+            "京王閣": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "静岡": {"desc": "FII ミッドナイト⭐ 2日目", "start": "20:40", "end": "23:40", "is_girls": False},
+            "奈良": {"desc": "FI デイ☀ 最終日", "start": "10:30", "end": "16:30", "is_girls": False}
         },
         "keiba": {
             "札幌": {"desc": "札幌記念 薄暮🌇", "start": "09:40", "end": "18:15"},
@@ -180,11 +168,11 @@ SCHEDULES = {
     },
     "20260817": {
         "keirin": {
-            "前橋": {"desc": "FII ミッドナイト⭐ 💛 最終日", "start": "20:40", "end": "23:40"},
-            "西武園": {"desc": "FII モーニング🌅 💛 2日目", "start": "08:30", "end": "11:55"},
-            "静岡": {"desc": "FII ミッドナイト⭐ 💛 最終日", "start": "20:40", "end": "23:40"},
-            "立川": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"},
-            "伊東": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30"}
+            "前橋": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "西武園": {"desc": "FII モーニング🌅 2日目", "start": "08:30", "end": "11:55", "is_girls": False},
+            "静岡": {"desc": "FII ミッドナイト⭐ 最終日", "start": "20:40", "end": "23:40", "is_girls": False},
+            "立川": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False},
+            "伊東": {"desc": "FI デイ☀ 初日", "start": "10:30", "end": "16:30", "is_girls": False}
         },
         "keiba": {
             "盛岡": {"desc": "薄暮🌇", "start": "11:40", "end": "18:10"},
@@ -196,6 +184,8 @@ SCHEDULES = {
         }
     }
 }
+
+ICON_MAP = {"keirin": "🚲", "keiba": "🏇", "auto": "🏍️"}
 
 def format_time_xml(dt):
     return dt.strftime("%Y%m%d%H%M%S +0900")
@@ -210,7 +200,6 @@ def build_epg_xml():
         channel = ET.SubElement(tv, "channel", id=tvg_id)
         ET.SubElement(channel, "display-name").text = v_name
 
-    # 10日〜17日までのループ
     for date_str in ["20260810", "20260811", "20260812", "20260813", "20260814", "20260815", "20260816", "20260817"]:
         day_schedules = SCHEDULES.get(date_str, {})
         dt_obj = datetime.datetime.strptime(date_str, "%Y%m%d")
@@ -224,38 +213,47 @@ def build_epg_xml():
 
                 if v_name in cat_data:
                     info = cat_data[v_name]
+                    is_girls = info.get("is_girls", False)
+                    girls_tag = "[ガールズ💛]" if is_girls else ""
+
+                    grade_list = ["GI", "GII", "GIII", "FI", "FII", "SG", "JpnI", "JpnII", "JpnIII"]
+                    grade_found = next((g for g in grade_list if g in info['desc']), "")
+                    grade_display = f"【{grade_found}】" if grade_found else ""
+
                     start_dt = datetime.datetime.strptime(f"{date_str} {info['start']}", "%Y%m%d %H:%M").replace(tzinfo=JST)
                     end_dt = datetime.datetime.strptime(f"{date_str} {info['end']}", "%Y%m%d %H:%M").replace(tzinfo=JST)
                     
-                    # 変更点: 30分前 → 10分前 に変更
                     pre_start = start_dt - datetime.timedelta(minutes=10)
                     post_end = end_dt + datetime.timedelta(minutes=10)
 
-                    # 1. 中継開始までの枠
+                    title_live = f"{grade_display} 🔴 LIVE {v_name} {girls_tag}"
+                    
+                    desc_text = (
+                        f"{ICON_MAP.get(category, '⭐')} 開催地: {v_name}\n"
+                        f"🏆 グレード: {grade_found if grade_found else '通常開催'}\n"
+                        f"✨ 特記事項: {'ガールズ開催💛' if is_girls else '通常開催'}\n"
+                        f"📢 内容: {info['desc']}\n"
+                        f"⏰ 時間: {info['start']} - {info['end']}\n"
+                        f"📅 日付: {today_display}"
+                    )
+
                     if day_start < pre_start:
                         prog1 = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(pre_start), channel=tvg_id)
-                        t1 = f"♦本日開催 実況中継前 第①レース{info['start']} 開始♦"
-                        ET.SubElement(prog1, "title", lang="ja").text = t1
-                        ET.SubElement(prog1, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t1}"
+                        ET.SubElement(prog1, "title", lang="ja").text = f"⏳ 待機 {v_name} (1R {info['start']}開始)"
+                        ET.SubElement(prog1, "desc", lang="ja").text = desc_text
 
-                    # 2. 実況放送枠
                     prog2 = ET.SubElement(tv, "programme", start=format_time_xml(pre_start), stop=format_time_xml(post_end), channel=tvg_id)
-                    t2 = f"♦{v_name} {info['desc']} 実況放送♦"
-                    ET.SubElement(prog2, "title", lang="ja").text = t2
-                    ET.SubElement(prog2, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t2}"
+                    ET.SubElement(prog2, "title", lang="ja").text = title_live
+                    ET.SubElement(prog2, "desc", lang="ja").text = desc_text
 
-                    # 3. 全レース終了後の枠
                     if post_end < day_end:
                         prog3 = ET.SubElement(tv, "programme", start=format_time_xml(post_end), stop=format_time_xml(day_end), channel=tvg_id)
-                        t3 = "♦本日 全レース終了♦"
-                        ET.SubElement(prog3, "title", lang="ja").text = t3
-                        ET.SubElement(prog3, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t3}"
+                        ET.SubElement(prog3, "title", lang="ja").text = f"🏁 終了 {v_name}"
+                        ET.SubElement(prog3, "desc", lang="ja").text = f"{v_name}の放送は終了しました。"
                 else:
-                    # 開催なし枠
                     prog = ET.SubElement(tv, "programme", start=format_time_xml(day_start), stop=format_time_xml(day_end), channel=tvg_id)
-                    t_none = "💎本日は開催しておりません💎"
-                    ET.SubElement(prog, "title", lang="ja").text = t_none
-                    ET.SubElement(prog, "desc", lang="ja").text = f"{today_display} {v_name} ステータス: {t_none}"
+                    ET.SubElement(prog, "title", lang="ja").text = f"💎 開催なし {v_name}"
+                    ET.SubElement(prog, "desc", lang="ja").text = f"本日は{v_name}での開催予定はありません。"
 
     tree = ET.ElementTree(tv)
     if hasattr(ET, "indent"): ET.indent(tree, space="    ")
