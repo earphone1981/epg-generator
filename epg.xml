@@ -207,34 +207,16 @@
         <title lang="ja">💎 開催なし いわき平</title>
         <desc lang="ja">本日はいわき平での開催予定はありません。</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810102000 +0900" channel="keirin.yahiko">
-        <title lang="ja">⏳ 待機 弥彦 (デイ 1R 10:30開始)</title>
-        <desc lang="ja">🚲 開催地: 弥彦 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI 初日
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月10日</desc>
-    </programme>
-    <programme start="20260810102000 +0900" stop="20260810164000 +0900" channel="keirin.yahiko">
-        <title lang="ja">【FI】 🔴 LIVE 弥彦 (デイ) </title>
-        <desc lang="ja">🚲 開催地: 弥彦 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI 初日
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月10日</desc>
-    </programme>
-    <programme start="20260810164000 +0900" stop="20260810235900 +0900" channel="keirin.yahiko">
-        <title lang="ja">🏁 終了 弥彦 (デイ)</title>
-        <desc lang="ja">弥彦 (デイ) の放送は終了しました。</desc>
+    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.yahiko">
+        <title lang="ja">💎 開催なし 弥彦</title>
+        <desc lang="ja">本日は弥彦での開催予定はありません。</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810145000 +0900" channel="keirin.maebashi">
         <title lang="ja">⏳ 待機 前橋 (ナイター 1R 15:00開始)</title>
         <desc lang="ja">🚲 開催地: 前橋 (ナイター)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII ティーネットエンタープライズC 2日目
 ⏰ 時間: 15:00 - 20:25
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -243,7 +225,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ナイター)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII ティーネットエンタープライズC 2日目
 ⏰ 時間: 15:00 - 20:25
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -271,9 +253,27 @@
         <title lang="ja">💎 開催なし 京王閣</title>
         <desc lang="ja">本日は京王閣での開催予定はありません。</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.tachikawa">
-        <title lang="ja">💎 開催なし 立川</title>
-        <desc lang="ja">本日は立川での開催予定はありません。</desc>
+    <programme start="20260810010000 +0900" stop="20260810102000 +0900" channel="keirin.tachikawa">
+        <title lang="ja">⏳ 待機 立川 (デイ 1R 10:30開始)</title>
+        <desc lang="ja">🚲 開催地: 立川 (デイ)
+🏆 グレード: FI
+✨ ガールズ: なし
+📢 内容: FI スポーツニッポン杯 最終日
+⏰ 時間: 10:30 - 16:30
+📅 日付: 2026年08月10日</desc>
+    </programme>
+    <programme start="20260810102000 +0900" stop="20260810164000 +0900" channel="keirin.tachikawa">
+        <title lang="ja">【FI】 🔴 LIVE 立川 (デイ) </title>
+        <desc lang="ja">🚲 開催地: 立川 (デイ)
+🏆 グレード: FI
+✨ ガールズ: なし
+📢 内容: FI スポーツニッポン杯 最終日
+⏰ 時間: 10:30 - 16:30
+📅 日付: 2026年08月10日</desc>
+    </programme>
+    <programme start="20260810164000 +0900" stop="20260810235900 +0900" channel="keirin.tachikawa">
+        <title lang="ja">🏁 終了 立川 (デイ)</title>
+        <desc lang="ja">立川 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.matsudo">
         <title lang="ja">💎 開催なし 松戸</title>
@@ -284,7 +284,7 @@
         <desc lang="ja">🚲 開催地: 川崎 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 2日目
+📢 内容: FII チャリロト杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -293,7 +293,7 @@
         <desc lang="ja">🚲 開催地: 川崎 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 2日目
+📢 内容: FII チャリロト杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -306,7 +306,7 @@
         <desc lang="ja">🚲 開催地: 平塚 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII 楽天Kドリームス杯 2日目
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -315,7 +315,7 @@
         <desc lang="ja">🚲 開催地: 平塚 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII 楽天Kドリームス杯 2日目
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -360,7 +360,7 @@
         <desc lang="ja">🚲 開催地: 四日市 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -369,7 +369,7 @@
         <desc lang="ja">🚲 開催地: 四日市 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -382,7 +382,7 @@
         <desc lang="ja">🚲 開催地: 富山 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI 仲間と繋がるTIPSTAR杯 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -391,7 +391,7 @@
         <desc lang="ja">🚲 開催地: 富山 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI 仲間と繋がるTIPSTAR杯 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月10日</desc>
     </programme>
@@ -467,27 +467,9 @@
         <title lang="ja">💎 開催なし 別府</title>
         <desc lang="ja">本日は別府での開催予定はありません。</desc>
     </programme>
-    <programme start="20260810010000 +0900" stop="20260810102000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">⏳ 待機 熊本 (デイ 1R 10:30開始)</title>
-        <desc lang="ja">🚲 開催地: 熊本 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI 初日
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月10日</desc>
-    </programme>
-    <programme start="20260810102000 +0900" stop="20260810164000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">【FI】 🔴 LIVE 熊本 (デイ) </title>
-        <desc lang="ja">🚲 開催地: 熊本 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI 初日
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月10日</desc>
-    </programme>
-    <programme start="20260810164000 +0900" stop="20260810235900 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🏁 終了 熊本 (デイ)</title>
-        <desc lang="ja">熊本 (デイ) の放送は終了しました。</desc>
+    <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.kumamoto">
+        <title lang="ja">💎 開催なし 熊本</title>
+        <desc lang="ja">本日は熊本での開催予定はありません。</desc>
     </programme>
     <programme start="20260810010000 +0900" stop="20260810235900 +0900" channel="keirin.pist6">
         <title lang="ja">💎 開催なし 千葉</title>
@@ -718,7 +700,7 @@
         <desc lang="ja">🚲 開催地: 弥彦 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -727,7 +709,7 @@
         <desc lang="ja">🚲 開催地: 弥彦 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -740,7 +722,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ナイター)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII ティーネットエンタープライズC 最終日
 ⏰ 時間: 15:00 - 20:25
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -749,7 +731,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ナイター)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII ティーネットエンタープライズC 最終日
 ⏰ 時間: 15:00 - 20:25
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -790,7 +772,7 @@
         <desc lang="ja">🚲 開催地: 川崎 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 最終日
+📢 内容: FII チャリロト杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -799,7 +781,7 @@
         <desc lang="ja">🚲 開催地: 川崎 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 最終日
+📢 内容: FII チャリロト杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -812,7 +794,7 @@
         <desc lang="ja">🚲 開催地: 平塚 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII 楽天Kドリームス杯 最終日
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -821,7 +803,7 @@
         <desc lang="ja">🚲 開催地: 平塚 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII 楽天Kドリームス杯 最終日
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -866,7 +848,7 @@
         <desc lang="ja">🚲 開催地: 四日市 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -875,7 +857,7 @@
         <desc lang="ja">🚲 開催地: 四日市 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -888,7 +870,7 @@
         <desc lang="ja">🚲 開催地: 富山 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI 仲間と繋がるTIPSTAR杯 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -897,7 +879,7 @@
         <desc lang="ja">🚲 開催地: 富山 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI 仲間と繋がるTIPSTAR杯 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -996,7 +978,7 @@
         <desc lang="ja">🚲 開催地: 熊本 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -1005,7 +987,7 @@
         <desc lang="ja">🚲 開催地: 熊本 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月11日</desc>
     </programme>
@@ -1252,7 +1234,7 @@
         <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII AI競輪も大人気チャリロト杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1261,7 +1243,7 @@
         <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII AI競輪も大人気チャリロト杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1278,7 +1260,7 @@
         <desc lang="ja">🚲 開催地: 弥彦 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1287,7 +1269,7 @@
         <desc lang="ja">🚲 開催地: 弥彦 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1356,7 +1338,7 @@
         <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII 前検日コメならウィンチケット杯 初日
 ⏰ 時間: 08:50 - 11:55
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1365,7 +1347,7 @@
         <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII 前検日コメならウィンチケット杯 初日
 ⏰ 時間: 08:50 - 11:55
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1389,27 +1371,27 @@
         <title lang="ja">💎 開催なし 四日市</title>
         <desc lang="ja">本日は四日市での開催予定はありません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812203000 +0900" channel="keirin.toyama">
-        <title lang="ja">⏳ 待機 富山 (ミッドナイト 1R 20:40開始)</title>
-        <desc lang="ja">🚲 開催地: 富山 (ミッドナイト)
+    <programme start="20260812010000 +0900" stop="20260812102000 +0900" channel="keirin.toyama">
+        <title lang="ja">⏳ 待機 富山 (デイ 1R 10:30開始)</title>
+        <desc lang="ja">🚲 開催地: 富山 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
-⏰ 時間: 20:40 - 23:40
+📢 内容: FI 仲間と繋がるTIPSTAR杯 最終日
+⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月12日</desc>
     </programme>
-    <programme start="20260812203000 +0900" stop="20260812235000 +0900" channel="keirin.toyama">
-        <title lang="ja">【FI】 🔴 LIVE 富山 (ミッドナイト) </title>
-        <desc lang="ja">🚲 開催地: 富山 (ミッドナイト)
+    <programme start="20260812102000 +0900" stop="20260812164000 +0900" channel="keirin.toyama">
+        <title lang="ja">【FI】 🔴 LIVE 富山 (デイ) </title>
+        <desc lang="ja">🚲 開催地: 富山 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
-⏰ 時間: 20:40 - 23:40
+📢 内容: FI 仲間と繋がるTIPSTAR杯 最終日
+⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月12日</desc>
     </programme>
-    <programme start="20260812235000 +0900" stop="20260812235900 +0900" channel="keirin.toyama">
-        <title lang="ja">🏁 終了 富山 (ミッドナイト)</title>
-        <desc lang="ja">富山 (ミッドナイト) の放送は終了しました。</desc>
+    <programme start="20260812164000 +0900" stop="20260812235900 +0900" channel="keirin.toyama">
+        <title lang="ja">🏁 終了 富山 (デイ)</title>
+        <desc lang="ja">富山 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.fukui">
         <title lang="ja">💎 開催なし 福井</title>
@@ -1448,7 +1430,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 2日目
+📢 内容: GI オールスター競輪 2日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1457,7 +1439,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 2日目
+📢 内容: GI オールスター競輪 2日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1490,7 +1472,7 @@
         <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 初日
+📢 内容: FII 前検日コメならウィンチケット杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1499,7 +1481,7 @@
         <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 初日
+📢 内容: FII 前検日コメならウィンチケット杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1520,7 +1502,7 @@
         <desc lang="ja">🚲 開催地: 熊本 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1529,7 +1511,7 @@
         <desc lang="ja">🚲 開催地: 熊本 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月12日</desc>
     </programme>
@@ -1776,7 +1758,7 @@
         <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII AI競輪も大人気チャリロト杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1785,7 +1767,7 @@
         <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII AI競輪も大人気チャリロト杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1797,9 +1779,27 @@
         <title lang="ja">💎 開催なし いわき平</title>
         <desc lang="ja">本日はいわき平での開催予定はありません。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="keirin.yahiko">
-        <title lang="ja">💎 開催なし 弥彦</title>
-        <desc lang="ja">本日は弥彦での開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813102000 +0900" channel="keirin.yahiko">
+        <title lang="ja">⏳ 待機 弥彦 (デイ 1R 10:30開始)</title>
+        <desc lang="ja">🚲 開催地: 弥彦 (デイ)
+🏆 グレード: FI
+✨ ガールズ: なし
+📢 内容: FI KEIRINライジングスターズ 最終日
+⏰ 時間: 10:30 - 16:30
+📅 日付: 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813102000 +0900" stop="20260813164000 +0900" channel="keirin.yahiko">
+        <title lang="ja">【FI】 🔴 LIVE 弥彦 (デイ) </title>
+        <desc lang="ja">🚲 開催地: 弥彦 (デイ)
+🏆 グレード: FI
+✨ ガールズ: なし
+📢 内容: FI KEIRINライジングスターズ 最終日
+⏰ 時間: 10:30 - 16:30
+📅 日付: 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813164000 +0900" stop="20260813235900 +0900" channel="keirin.yahiko">
+        <title lang="ja">🏁 終了 弥彦 (デイ)</title>
+        <desc lang="ja">弥彦 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="keirin.maebashi">
         <title lang="ja">💎 開催なし 前橋</title>
@@ -1822,7 +1822,7 @@
         <desc lang="ja">🚲 開催地: 西武園 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII オッズパーク杯 初日
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1831,7 +1831,7 @@
         <desc lang="ja">🚲 開催地: 西武園 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII オッズパーク杯 初日
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1880,7 +1880,7 @@
         <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 08:50 - 11:55
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1889,7 +1889,7 @@
         <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 08:50 - 11:55
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1954,7 +1954,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 3日目
+📢 内容: GI オールスター競輪 3日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1963,7 +1963,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 3日目
+📢 内容: GI オールスター競輪 3日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -1996,7 +1996,7 @@
         <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -2005,7 +2005,7 @@
         <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -2026,7 +2026,7 @@
         <desc lang="ja">🚲 開催地: 熊本 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 最終日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -2035,7 +2035,7 @@
         <desc lang="ja">🚲 開催地: 熊本 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 最終日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月13日</desc>
     </programme>
@@ -2282,7 +2282,7 @@
         <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII AI競輪も大人気チャリロト杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2291,7 +2291,7 @@
         <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII AI競輪も大人気チャリロト杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2328,7 +2328,7 @@
         <desc lang="ja">🚲 開催地: 西武園 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII オッズパーク杯 2日目
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2337,7 +2337,7 @@
         <desc lang="ja">🚲 開催地: 西武園 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII オッズパーク杯 2日目
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2350,7 +2350,7 @@
         <desc lang="ja">🚲 開催地: 京王閣 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2359,7 +2359,7 @@
         <desc lang="ja">🚲 開催地: 京王閣 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2404,7 +2404,7 @@
         <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 08:50 - 11:55
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2413,7 +2413,7 @@
         <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 08:50 - 11:55
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2450,7 +2450,7 @@
         <desc lang="ja">🚲 開催地: 奈良 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2459,7 +2459,7 @@
         <desc lang="ja">🚲 開催地: 奈良 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI KEIRINライジングスターズ 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2496,7 +2496,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 4日目
+📢 内容: GI オールスター競輪 4日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2505,7 +2505,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 4日目
+📢 内容: GI オールスター競輪 4日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2538,7 +2538,7 @@
         <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2547,7 +2547,7 @@
         <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月14日</desc>
     </programme>
@@ -2818,7 +2818,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 初日
+📢 内容: FII 前検日コメならウィンチケット杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2827,7 +2827,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 初日
+📢 内容: FII 前検日コメならウィンチケット杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2852,7 +2852,7 @@
         <desc lang="ja">🚲 開催地: 西武園 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII オッズパーク杯 最終日
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2861,7 +2861,7 @@
         <desc lang="ja">🚲 開催地: 西武園 (モーニング)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII オッズパーク杯 最終日
 ⏰ 時間: 08:30 - 11:55
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2874,7 +2874,7 @@
         <desc lang="ja">🚲 開催地: 京王閣 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2883,7 +2883,7 @@
         <desc lang="ja">🚲 開催地: 京王閣 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2920,7 +2920,7 @@
         <desc lang="ja">🚲 開催地: 静岡 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII オッズパーク杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2929,7 +2929,7 @@
         <desc lang="ja">🚲 開催地: 静岡 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 初日
+📢 内容: FII オッズパーク杯 初日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2974,7 +2974,7 @@
         <desc lang="ja">🚲 開催地: 奈良 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -2983,7 +2983,7 @@
         <desc lang="ja">🚲 開催地: 奈良 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI KEIRINライジングスターズ 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -3020,7 +3020,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 5日目
+📢 内容: GI オールスター競輪 5日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -3029,7 +3029,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 5日目
+📢 内容: GI オールスター競輪 5日目
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月15日</desc>
     </programme>
@@ -3192,78 +3192,114 @@
         <desc lang="ja">佐賀 (ナイター) の放送は終了しました。</desc>
     </programme>
     <programme start="20260815010000 +0900" stop="20260815093000 +0900" channel="jra.sapporo">
-        <title lang="ja">⏳ 待機 札幌 (薄暮 1R 09:40開始)</title>
-        <desc lang="ja">🏇 開催地: 札幌 (薄暮)
+        <title lang="ja">⏳ 待機 札幌 (デイ 1R 09:40開始)</title>
+        <desc lang="ja">🏇 開催地: 札幌 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 札幌開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815093000 +0900" stop="20260815182500 +0900" channel="jra.sapporo">
-        <title lang="ja"> 🔴 LIVE 札幌 (薄暮) </title>
-        <desc lang="ja">🏇 開催地: 札幌 (薄暮)
+    <programme start="20260815093000 +0900" stop="20260815171000 +0900" channel="jra.sapporo">
+        <title lang="ja"> 🔴 LIVE 札幌 (デイ) </title>
+        <desc lang="ja">🏇 開催地: 札幌 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 札幌開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815182500 +0900" stop="20260815235900 +0900" channel="jra.sapporo">
-        <title lang="ja">🏁 終了 札幌 (薄暮)</title>
-        <desc lang="ja">札幌 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260815171000 +0900" stop="20260815235900 +0900" channel="jra.sapporo">
+        <title lang="ja">🏁 終了 札幌 (デイ)</title>
+        <desc lang="ja">札幌 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260815010000 +0900" stop="20260815093000 +0900" channel="jra.niigata">
-        <title lang="ja">⏳ 待機 新潟 (薄暮 1R 09:40開始)</title>
-        <desc lang="ja">🏇 開催地: 新潟 (薄暮)
+        <title lang="ja">⏳ 待機 新潟 (デイ 1R 09:40開始)</title>
+        <desc lang="ja">🏇 開催地: 新潟 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: 新潟ジャンプS
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 新潟ジャンプS
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815093000 +0900" stop="20260815182500 +0900" channel="jra.niigata">
-        <title lang="ja"> 🔴 LIVE 新潟 (薄暮) </title>
-        <desc lang="ja">🏇 開催地: 新潟 (薄暮)
+    <programme start="20260815093000 +0900" stop="20260815171000 +0900" channel="jra.niigata">
+        <title lang="ja"> 🔴 LIVE 新潟 (デイ) </title>
+        <desc lang="ja">🏇 開催地: 新潟 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: 新潟ジャンプS
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 新潟ジャンプS
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815182500 +0900" stop="20260815235900 +0900" channel="jra.niigata">
-        <title lang="ja">🏁 終了 新潟 (薄暮)</title>
-        <desc lang="ja">新潟 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260815171000 +0900" stop="20260815235900 +0900" channel="jra.niigata">
+        <title lang="ja">🏁 終了 新潟 (デイ)</title>
+        <desc lang="ja">新潟 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260815010000 +0900" stop="20260815093000 +0900" channel="jra.chukyo">
-        <title lang="ja">⏳ 待機 中京 (薄暮 1R 09:40開始)</title>
-        <desc lang="ja">🏇 開催地: 中京 (薄暮)
+        <title lang="ja">⏳ 待機 中京 (デイ 1R 09:40開始)</title>
+        <desc lang="ja">🏇 開催地: 中京 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 中京開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815093000 +0900" stop="20260815182500 +0900" channel="jra.chukyo">
-        <title lang="ja"> 🔴 LIVE 中京 (薄暮) </title>
-        <desc lang="ja">🏇 開催地: 中京 (薄暮)
+    <programme start="20260815093000 +0900" stop="20260815171000 +0900" channel="jra.chukyo">
+        <title lang="ja"> 🔴 LIVE 中京 (デイ) </title>
+        <desc lang="ja">🏇 開催地: 中京 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 中京開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815182500 +0900" stop="20260815235900 +0900" channel="jra.chukyo">
-        <title lang="ja">🏁 終了 中京 (薄暮)</title>
-        <desc lang="ja">中京 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260815171000 +0900" stop="20260815235900 +0900" channel="jra.chukyo">
+        <title lang="ja">🏁 終了 中京 (デイ)</title>
+        <desc lang="ja">中京 (デイ) の放送は終了しました。</desc>
     </programme>
-    <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="jra.official">
-        <title lang="ja">💎 開催なし ＪＲＡ公式</title>
-        <desc lang="ja">本日はＪＲＡ公式での開催予定はありません。</desc>
+    <programme start="20260815010000 +0900" stop="20260815085000 +0900" channel="jra.official">
+        <title lang="ja">⏳ 待機 ＪＲＡ公式 (デイ 1R 09:00開始)</title>
+        <desc lang="ja">🏇 開催地: ＪＲＡ公式 (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: JRA公式中継
+⏰ 時間: 09:00 - 17:00
+📅 日付: 2026年08月15日</desc>
     </programme>
-    <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="jra.green">
-        <title lang="ja">💎 開催なし ＪＲＡグリーン</title>
-        <desc lang="ja">本日はＪＲＡグリーンでの開催予定はありません。</desc>
+    <programme start="20260815085000 +0900" stop="20260815171000 +0900" channel="jra.official">
+        <title lang="ja"> 🔴 LIVE ＪＲＡ公式 (デイ) </title>
+        <desc lang="ja">🏇 開催地: ＪＲＡ公式 (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: JRA公式中継
+⏰ 時間: 09:00 - 17:00
+📅 日付: 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815171000 +0900" stop="20260815235900 +0900" channel="jra.official">
+        <title lang="ja">🏁 終了 ＪＲＡ公式 (デイ)</title>
+        <desc lang="ja">ＪＲＡ公式 (デイ) の放送は終了しました。</desc>
+    </programme>
+    <programme start="20260815010000 +0900" stop="20260815085000 +0900" channel="jra.green">
+        <title lang="ja">⏳ 待機 ＪＲＡグリーン (デイ 1R 09:00開始)</title>
+        <desc lang="ja">🏇 開催地: ＪＲＡグリーン (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: グリーンチャンネル
+⏰ 時間: 09:00 - 21:00
+📅 日付: 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815085000 +0900" stop="20260815211000 +0900" channel="jra.green">
+        <title lang="ja"> 🔴 LIVE ＪＲＡグリーン (デイ) </title>
+        <desc lang="ja">🏇 開催地: ＪＲＡグリーン (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: グリーンチャンネル
+⏰ 時間: 09:00 - 21:00
+📅 日付: 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815211000 +0900" stop="20260815235900 +0900" channel="jra.green">
+        <title lang="ja">🏁 終了 ＪＲＡグリーン (デイ)</title>
+        <desc lang="ja">ＪＲＡグリーン (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="auto.kawaguchi">
         <title lang="ja">💎 開催なし 川口</title>
@@ -3342,7 +3378,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3351,7 +3387,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 2日目
+📢 内容: FII 前検日コメならウィンチケット杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3380,7 +3416,7 @@
         <desc lang="ja">🚲 開催地: 京王閣 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 最終日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3389,7 +3425,7 @@
         <desc lang="ja">🚲 開催地: 京王閣 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 最終日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3422,7 +3458,7 @@
         <desc lang="ja">🚲 開催地: 伊東 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI PayPay銀行杯 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3431,7 +3467,7 @@
         <desc lang="ja">🚲 開催地: 伊東 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI PayPay銀行杯 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3444,7 +3480,7 @@
         <desc lang="ja">🚲 開催地: 静岡 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII オッズパーク杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3453,7 +3489,7 @@
         <desc lang="ja">🚲 開催地: 静岡 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 2日目
+📢 内容: FII オッズパーク杯 2日目
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3498,7 +3534,7 @@
         <desc lang="ja">🚲 開催地: 奈良 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 最終日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3507,7 +3543,7 @@
         <desc lang="ja">🚲 開催地: 奈良 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 最終日
+📢 内容: FI KEIRINライジングスターズ 最終日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3544,7 +3580,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 決勝戦
+📢 内容: GI オールスター競輪 決勝戦
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3553,7 +3589,7 @@
         <desc lang="ja">🚲 開催地: 松山 (ナイター)
 🏆 グレード: GI
 ✨ ガールズ: あり 💛
-📢 内容: GI 決勝戦
+📢 内容: GI オールスター競輪 決勝戦
 ⏰ 時間: 15:15 - 20:50
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3594,7 +3630,7 @@
         <desc lang="ja">🚲 開催地: 別府 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI CTCは3分前杯 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3603,7 +3639,7 @@
         <desc lang="ja">🚲 開催地: 別府 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 初日
+📢 内容: FI CTCは3分前杯 初日
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月16日</desc>
     </programme>
@@ -3734,78 +3770,114 @@
         <desc lang="ja">佐賀 (ナイター) の放送は終了しました。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816093000 +0900" channel="jra.sapporo">
-        <title lang="ja">⏳ 待機 札幌 (薄暮 1R 09:40開始)</title>
-        <desc lang="ja">🏇 開催地: 札幌 (薄暮)
+        <title lang="ja">⏳ 待機 札幌 (デイ 1R 09:40開始)</title>
+        <desc lang="ja">🏇 開催地: 札幌 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
 📢 内容: 札幌記念 GⅡ
-⏰ 時間: 09:40 - 18:15
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816093000 +0900" stop="20260816182500 +0900" channel="jra.sapporo">
-        <title lang="ja"> 🔴 LIVE 札幌 (薄暮) </title>
-        <desc lang="ja">🏇 開催地: 札幌 (薄暮)
+    <programme start="20260816093000 +0900" stop="20260816171000 +0900" channel="jra.sapporo">
+        <title lang="ja"> 🔴 LIVE 札幌 (デイ) </title>
+        <desc lang="ja">🏇 開催地: 札幌 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
 📢 内容: 札幌記念 GⅡ
-⏰ 時間: 09:40 - 18:15
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816182500 +0900" stop="20260816235900 +0900" channel="jra.sapporo">
-        <title lang="ja">🏁 終了 札幌 (薄暮)</title>
-        <desc lang="ja">札幌 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260816171000 +0900" stop="20260816235900 +0900" channel="jra.sapporo">
+        <title lang="ja">🏁 終了 札幌 (デイ)</title>
+        <desc lang="ja">札幌 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816093000 +0900" channel="jra.niigata">
-        <title lang="ja">⏳ 待機 新潟 (薄暮 1R 09:40開始)</title>
-        <desc lang="ja">🏇 開催地: 新潟 (薄暮)
+        <title lang="ja">⏳ 待機 新潟 (デイ 1R 09:40開始)</title>
+        <desc lang="ja">🏇 開催地: 新潟 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 新潟開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816093000 +0900" stop="20260816182500 +0900" channel="jra.niigata">
-        <title lang="ja"> 🔴 LIVE 新潟 (薄暮) </title>
-        <desc lang="ja">🏇 開催地: 新潟 (薄暮)
+    <programme start="20260816093000 +0900" stop="20260816171000 +0900" channel="jra.niigata">
+        <title lang="ja"> 🔴 LIVE 新潟 (デイ) </title>
+        <desc lang="ja">🏇 開催地: 新潟 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 新潟開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816182500 +0900" stop="20260816235900 +0900" channel="jra.niigata">
-        <title lang="ja">🏁 終了 新潟 (薄暮)</title>
-        <desc lang="ja">新潟 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260816171000 +0900" stop="20260816235900 +0900" channel="jra.niigata">
+        <title lang="ja">🏁 終了 新潟 (デイ)</title>
+        <desc lang="ja">新潟 (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816093000 +0900" channel="jra.chukyo">
-        <title lang="ja">⏳ 待機 中京 (薄暮 1R 09:40開始)</title>
-        <desc lang="ja">🏇 開催地: 中京 (薄暮)
+        <title lang="ja">⏳ 待機 中京 (デイ 1R 09:40開始)</title>
+        <desc lang="ja">🏇 開催地: 中京 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 中京開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816093000 +0900" stop="20260816182500 +0900" channel="jra.chukyo">
-        <title lang="ja"> 🔴 LIVE 中京 (薄暮) </title>
-        <desc lang="ja">🏇 開催地: 中京 (薄暮)
+    <programme start="20260816093000 +0900" stop="20260816171000 +0900" channel="jra.chukyo">
+        <title lang="ja"> 🔴 LIVE 中京 (デイ) </title>
+        <desc lang="ja">🏇 開催地: 中京 (デイ)
 🏆 グレード: 通常開催
 ✨ ガールズ: なし
-📢 内容: デイ
-⏰ 時間: 09:40 - 18:15
+📢 内容: JRA 中京開催
+⏰ 時間: 09:40 - 17:00
 📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816182500 +0900" stop="20260816235900 +0900" channel="jra.chukyo">
-        <title lang="ja">🏁 終了 中京 (薄暮)</title>
-        <desc lang="ja">中京 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260816171000 +0900" stop="20260816235900 +0900" channel="jra.chukyo">
+        <title lang="ja">🏁 終了 中京 (デイ)</title>
+        <desc lang="ja">中京 (デイ) の放送は終了しました。</desc>
     </programme>
-    <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="jra.official">
-        <title lang="ja">💎 開催なし ＪＲＡ公式</title>
-        <desc lang="ja">本日はＪＲＡ公式での開催予定はありません。</desc>
+    <programme start="20260816010000 +0900" stop="20260816085000 +0900" channel="jra.official">
+        <title lang="ja">⏳ 待機 ＪＲＡ公式 (デイ 1R 09:00開始)</title>
+        <desc lang="ja">🏇 開催地: ＪＲＡ公式 (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: JRA公式中継
+⏰ 時間: 09:00 - 17:00
+📅 日付: 2026年08月16日</desc>
     </programme>
-    <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="jra.green">
-        <title lang="ja">💎 開催なし ＪＲＡグリーン</title>
-        <desc lang="ja">本日はＪＲＡグリーンでの開催予定はありません。</desc>
+    <programme start="20260816085000 +0900" stop="20260816171000 +0900" channel="jra.official">
+        <title lang="ja"> 🔴 LIVE ＪＲＡ公式 (デイ) </title>
+        <desc lang="ja">🏇 開催地: ＪＲＡ公式 (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: JRA公式中継
+⏰ 時間: 09:00 - 17:00
+📅 日付: 2026年08月16日</desc>
+    </programme>
+    <programme start="20260816171000 +0900" stop="20260816235900 +0900" channel="jra.official">
+        <title lang="ja">🏁 終了 ＪＲＡ公式 (デイ)</title>
+        <desc lang="ja">ＪＲＡ公式 (デイ) の放送は終了しました。</desc>
+    </programme>
+    <programme start="20260816010000 +0900" stop="20260816085000 +0900" channel="jra.green">
+        <title lang="ja">⏳ 待機 ＪＲＡグリーン (デイ 1R 09:00開始)</title>
+        <desc lang="ja">🏇 開催地: ＪＲＡグリーン (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: グリーンチャンネル
+⏰ 時間: 09:00 - 21:00
+📅 日付: 2026年08月16日</desc>
+    </programme>
+    <programme start="20260816085000 +0900" stop="20260816211000 +0900" channel="jra.green">
+        <title lang="ja"> 🔴 LIVE ＪＲＡグリーン (デイ) </title>
+        <desc lang="ja">🏇 開催地: ＪＲＡグリーン (デイ)
+🏆 グレード: 通常開催
+✨ ガールズ: なし
+📢 内容: グリーンチャンネル
+⏰ 時間: 09:00 - 21:00
+📅 日付: 2026年08月16日</desc>
+    </programme>
+    <programme start="20260816211000 +0900" stop="20260816235900 +0900" channel="jra.green">
+        <title lang="ja">🏁 終了 ＪＲＡグリーン (デイ)</title>
+        <desc lang="ja">ＪＲＡグリーン (デイ) の放送は終了しました。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="auto.kawaguchi">
         <title lang="ja">💎 開催なし 川口</title>
@@ -3866,7 +3938,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -3875,7 +3947,7 @@
         <desc lang="ja">🚲 開催地: 前橋 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: あり 💛
-📢 内容: FII 最終日
+📢 内容: FII 前検日コメならウィンチケット杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -3964,7 +4036,7 @@
         <desc lang="ja">🚲 開催地: 伊東 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI PayPay銀行杯 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -3973,7 +4045,7 @@
         <desc lang="ja">🚲 開催地: 伊東 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI PayPay銀行杯 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -3986,7 +4058,7 @@
         <desc lang="ja">🚲 開催地: 静岡 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII オッズパーク杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -3995,7 +4067,7 @@
         <desc lang="ja">🚲 開催地: 静岡 (ミッドナイト)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FII 最終日
+📢 内容: FII オッズパーク杯 最終日
 ⏰ 時間: 20:40 - 23:40
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -4100,7 +4172,7 @@
         <desc lang="ja">🚲 開催地: 別府 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI CTCは3分前杯 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月17日</desc>
     </programme>
@@ -4109,7 +4181,7 @@
         <desc lang="ja">🚲 開催地: 別府 (デイ)
 🏆 グレード: FI
 ✨ ガールズ: なし
-📢 内容: FI 2日目
+📢 内容: FI CTCは3分前杯 2日目
 ⏰ 時間: 10:30 - 16:30
 📅 日付: 2026年08月17日</desc>
     </programme>
