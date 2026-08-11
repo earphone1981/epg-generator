@@ -59,27 +59,6 @@ BOAT_TODAY_URL = (
 )
 
 SCHEDULES = {
-    "20260811": {
-        "keirin": {
-            "松山": {"desc": "GI オールスター競輪 初日", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "弥彦": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "熊本": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "富山": {"desc": "FI 仲間と繋がるTIPSTAR杯 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "前橋": {"desc": "FII ティーネットエンタープライズC 最終日", "start": "15:00", "end": "20:25", "is_girls": False, "day_type": "ナイター"},
-            "川崎": {"desc": "FII チャリロト杯 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "平塚": {"desc": "FII 楽天Kドリームス杯 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "四日市": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
-        },
-        "keiba": {
-            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
-            "盛岡": {"desc": "クラスターカップ JpnⅢ", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
-            "浦和": {"desc": "ルーキーズサマーC", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
-            "金沢": {"desc": "読売レディス杯", "start": "15:05", "end": "20:50", "day_type": "ナイター"},
-            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"}
-        },
-        "auto": {"伊勢崎": {"desc": "SG オートレースグランプリ 初日", "start": "18:00", "end": "21:30", "day_type": "ナイター"}}
-    },
     "20260812": {
         "keirin": {
             "松山": {"desc": "GI オールスター競輪 2日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
@@ -752,9 +731,12 @@ def build_keirin_race_epg(
                 desc_lines.append(f"📅 開催日次: {event_day}")
             if girls:
                 desc_lines.append("💛 ガールズ")
-            if race.get("is_semi"):
+            is_semi = bool(race.get("is_semi")) or "準決" in race_name
+            is_final = bool(race.get("is_final")) and not is_semi
+
+            if is_semi:
                 desc_lines.append("🔥 準決勝")
-            if race.get("is_final"):
+            if is_final:
                 desc_lines.append("🏆 決勝")
             if main:
                 desc_lines.append("🏆 メインレース")
@@ -897,9 +879,12 @@ def build_autorace_race_epg(
                 desc_lines.append(f"📢 開催名: {event_name}")
             if event_day:
                 desc_lines.append(f"📅 開催日次: {event_day}")
-            if race.get("is_semi"):
+            is_semi = bool(race.get("is_semi")) or "準決" in race_name
+            is_final = bool(race.get("is_final")) and not is_semi
+
+            if is_semi:
                 desc_lines.append("🔥 準決勝")
-            if race.get("is_final"):
+            if is_final:
                 desc_lines.append("🏆 優勝戦")
             if main:
                 desc_lines.append("🏆 メインレース")
