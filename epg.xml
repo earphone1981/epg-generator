@@ -583,193 +583,637 @@
         <title lang="ja">💤 本日非開催 千葉（競輪）</title>
         <desc lang="ja">本日は千葉での開催予定はありません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811141000 +0900" channel="chihou.obihiro">
-        <title lang="ja">⏳ 待機 帯広 (🌙ナイター 1R 14:20開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 帯広 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:20 - 20:40
-📅 日付: 2026年08月11日</desc>
+    <programme start="20260811010000 +0900" stop="20260811142000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">⏳ 待機 門別 🌙ナイター</title>
+        <desc lang="ja">地方競馬 門別
+1R発走予定 14:40
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811141000 +0900" stop="20260811205000 +0900" channel="chihou.obihiro">
-        <title lang="ja">🔴 LIVE 帯広 🌙ナイター （競馬）</title>
-        <desc lang="ja">🏇 開催地: 帯広 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:20 - 20:40
-📅 日付: 2026年08月11日</desc>
+    <programme start="20260811143000 +0900" stop="20260811150000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 1R 14:40 ２歳 未勝利</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 14:40
+🏷️ 種別: 一般
+📢 レース名: ２歳 未勝利
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811205000 +0900" stop="20260811235900 +0900" channel="chihou.obihiro">
-        <title lang="ja">🏁 終了 帯広 (🌙ナイター)（競馬）</title>
-        <desc lang="ja">帯広 (ナイター) の放送は終了しました。</desc>
+    <programme start="20260811150000 +0900" stop="20260811153500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 2R 15:10 ２歳 未勝利</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:10
+🏷️ 種別: 一般
+📢 レース名: ２歳 未勝利
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811135000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">⏳ 待機 門別 (🌙ナイター 1R 14:00開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 門別 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:00 - 20:40
-📅 日付: 2026年08月11日</desc>
+    <programme start="20260811153500 +0900" stop="20260811161000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 3R 15:45 公益社団法人日本軽種馬協会協賛</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:45
+🏷️ 種別: 一般
+📢 レース名: 公益社団法人日本軽種馬協会協賛
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811135000 +0900" stop="20260811205000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🔴 LIVE 門別 🌙ナイター （競馬）</title>
-        <desc lang="ja">🏇 開催地: 門別 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:00 - 20:40
-📅 日付: 2026年08月11日</desc>
+    <programme start="20260811161000 +0900" stop="20260811164000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 4R 16:20 ３歳以上 Ｃ４－３</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:20
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－３
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811205000 +0900" stop="20260811235900 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🏁 終了 門別 (🌙ナイター)（競馬）</title>
-        <desc lang="ja">門別 (ナイター) の放送は終了しました。</desc>
+    <programme start="20260811164000 +0900" stop="20260811171500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 5R 16:50 ３歳以上 Ｃ４－３</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:50
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－３
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811113000 +0900" channel="chihou.morioka">
-        <title lang="ja">⏳ 待機 盛岡 (🌇薄暮 1R 11:40開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 盛岡 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: クラスターカップ JpnⅢ
-⏰ 時間: 11:40 - 18:10
-📅 日付: 2026年08月11日</desc>
+    <programme start="20260811171500 +0900" stop="20260811175000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 6R 17:25 ３歳以上 Ｃ４－３</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:25
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－３
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811113000 +0900" stop="20260811182000 +0900" channel="chihou.morioka">
-        <title lang="ja">🔴 LIVE 盛岡 🌇薄暮 （競馬）</title>
-        <desc lang="ja">🏇 開催地: 盛岡 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: クラスターカップ JpnⅢ
-⏰ 時間: 11:40 - 18:10
-📅 日付: 2026年08月11日</desc>
+    <programme start="20260811175000 +0900" stop="20260811182500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 7R 18:00 ３歳以上 Ｃ４－２</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:00
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－２
+📋 条件: 火
+📅 2026年08月11日</desc>
     </programme>
-    <programme start="20260811182000 +0900" stop="20260811235900 +0900" channel="chihou.morioka">
-        <title lang="ja">🏁 終了 盛岡 (🌇薄暮)（競馬）</title>
-        <desc lang="ja">盛岡 (薄暮) の放送は終了しました。</desc>
+    <programme start="20260811182500 +0900" stop="20260811190000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 8R 18:35 ３歳以上 Ｃ４－２</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:35
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－２
+📋 条件: 火
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811190000 +0900" stop="20260811193000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 9R 19:10 千軍万馬オープン</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:10
+🏷️ 種別: 一般
+📢 レース名: 千軍万馬オープン
+📋 条件: 火
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811193000 +0900" stop="20260811200500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 10R 19:40 グランシャリオドリーム４４</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:40
+🏷️ 種別: 一般
+📢 レース名: グランシャリオドリーム４４
+📋 条件: 火
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811200500 +0900" stop="20260811204000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏇 門別 11R 20:15 テッポウユリ特別</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:15
+🏷️ 種別: 特別
+📢 レース名: テッポウユリ特別
+📋 条件: 火
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811204000 +0900" stop="20260811212000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏆 MAIN 🏇 門別 12R 20:50 ネモフィラ特別</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:50
+🏷️ 種別: 特別
+📢 レース名: ネモフィラ特別
+📋 条件: 火
+🏆 メインレース
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811212000 +0900" stop="20260811235900 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏁 終了 門別 🌙ナイター</title>
+        <desc lang="ja">門別の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811131000 +0900" channel="chihou.urawa">
+        <title lang="ja">⏳ 待機 浦和 🌙ナイター</title>
+        <desc lang="ja">地方競馬 浦和
+1R発走予定 13:30
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811132000 +0900" stop="20260811135000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 1R 13:30 ランチタイムＣ３選抜馬イ</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 13:30
+🏷️ 種別: 一般
+📢 レース名: ランチタイムＣ３選抜馬イ
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811135000 +0900" stop="20260811142000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 2R 14:00 ３歳三</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 14:00
+🏷️ 種別: 一般
+📢 レース名: ３歳三
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811142000 +0900" stop="20260811145000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 3R 14:30 ３歳二</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 14:30
+🏷️ 種別: 一般
+📢 レース名: ３歳二
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811145000 +0900" stop="20260811152500 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 4R 15:00 特選Ｃ２ウＣ３ア選抜馬</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:00
+🏷️ 種別: 一般
+📢 レース名: 特選Ｃ２ウＣ３ア選抜馬
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811152500 +0900" stop="20260811155500 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 5R 15:35 Ｃ２五</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:35
+🏷️ 種別: 一般
+📢 レース名: Ｃ２五
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811155500 +0900" stop="20260811162500 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 6R 16:05 若竹特別２歳一</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:05
+🏷️ 種別: 特別
+📢 レース名: 若竹特別２歳一
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811162500 +0900" stop="20260811170000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 7R 16:35 白岡美人で元気１００倍賞Ｃ１四</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:35
+🏷️ 種別: 特別
+📢 レース名: 白岡美人で元気１００倍賞Ｃ１四
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811170000 +0900" stop="20260811173500 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 8R 17:10 鳳仙花特別Ｂ３イＣ１ア選抜馬</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:10
+🏷️ 種別: 特別
+📢 レース名: 鳳仙花特別Ｂ３イＣ１ア選抜馬
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811173500 +0900" stop="20260811181000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 9R 17:45 納涼特別Ｂ２二Ｂ３一</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:45
+🏷️ 種別: 特別
+📢 レース名: 納涼特別Ｂ２二Ｂ３一
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811181000 +0900" stop="20260811184500 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 10R 18:20 山の日特別Ａ２Ｂ１一</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:20
+🏷️ 種別: 特別
+📢 レース名: 山の日特別Ａ２Ｂ１一
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811184500 +0900" stop="20260811192000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏆 MAIN 🏆 浦和 11R 18:55 ルーキーズサマーカップ２歳オープン</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:55
+🏷️ 種別: 重賞
+📢 レース名: ルーキーズサマーカップ２歳オープン
+🏆 メインレース
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811192000 +0900" stop="20260811200000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 12R 19:30 夏の星特別Ｃ２選抜馬イ</title>
+        <desc lang="ja">地方競馬 浦和
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:30
+🏷️ 種別: 特別
+📢 レース名: 夏の星特別Ｃ２選抜馬イ
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811200000 +0900" stop="20260811235900 +0900" channel="chihou.urawa">
+        <title lang="ja">🏁 終了 浦和 🌙ナイター</title>
+        <desc lang="ja">浦和の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811112000 +0900" channel="chihou.morioka">
+        <title lang="ja">⏳ 待機 盛岡 🌇薄暮</title>
+        <desc lang="ja">地方競馬 盛岡
+1R発走予定 11:40
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811113000 +0900" stop="20260811120500 +0900" channel="chihou.morioka">
+        <title lang="ja">🐎 盛岡 1R 11:40 Ｃ２三組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 11:40
+🏷️ 種別: 一般
+📢 レース名: Ｃ２三組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811120500 +0900" stop="20260811124000 +0900" channel="chihou.morioka">
+        <title lang="ja">🐎 盛岡 2R 12:15 Ｃ２二組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 12:15
+🏷️ 種別: 一般
+📢 レース名: Ｃ２二組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811124000 +0900" stop="20260811131500 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 3R 12:50 うまレター賞Ｃ２一組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 12:50
+🏷️ 種別: 特別
+📢 レース名: うまレター賞Ｃ２一組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811131500 +0900" stop="20260811135500 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 4R 13:25 ポイントたまる！楽天競馬賞３歳Ｃ１二組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 13:25
+🏷️ 種別: 特別
+📢 レース名: ポイントたまる！楽天競馬賞３歳Ｃ１二組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811135500 +0900" stop="20260811143000 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 5R 14:05 オッズパーク賞３歳Ｃ１一組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 14:05
+🏷️ 種別: 特別
+📢 レース名: オッズパーク賞３歳Ｃ１一組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811143000 +0900" stop="20260811150500 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 6R 14:40 いわてくじ山形村短角牛賞Ｂ２</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 14:40
+🏷️ 種別: 特別
+📢 レース名: いわてくじ山形村短角牛賞Ｂ２
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811150500 +0900" stop="20260811154000 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 7R 15:15 いわて北緯４０度岩手町賞Ｂ２</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 15:15
+🏷️ 種別: 特別
+📢 レース名: いわて北緯４０度岩手町賞Ｂ２
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811154000 +0900" stop="20260811162000 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 8R 15:50 いわて北緯４０度葛巻町賞Ｂ２</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 15:50
+🏷️ 種別: 特別
+📢 レース名: いわて北緯４０度葛巻町賞Ｂ２
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811162000 +0900" stop="20260811165500 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 9R 16:30 Ｊ交 オニキス賞３歳</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 16:30
+🏷️ 種別: 特別
+📢 レース名: Ｊ交 オニキス賞３歳
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811165500 +0900" stop="20260811173500 +0900" channel="chihou.morioka">
+        <title lang="ja">🏆 MAIN 🏆 盛岡 10R 17:05 クラスターカップJpnIII</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 17:05
+🏷️ 種別: ダートグレード
+📢 レース名: クラスターカップJpnIII
+🏆 メインレース
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811173500 +0900" stop="20260811181000 +0900" channel="chihou.morioka">
+        <title lang="ja">🏇 盛岡 11R 17:45 いわて北緯４０度八幡平市賞Ｂ１二組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 17:45
+🏷️ 種別: 特別
+📢 レース名: いわて北緯４０度八幡平市賞Ｂ１二組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811181000 +0900" stop="20260811185000 +0900" channel="chihou.morioka">
+        <title lang="ja">🐎 盛岡 12R 18:20 夢・希望 未来へ前進Ｂ１一組</title>
+        <desc lang="ja">地方競馬 盛岡
+🌇 開催区分: 薄暮
+⏰ 発走予定: 18:20
+🏷️ 種別: 一般
+📢 レース名: 夢・希望 未来へ前進Ｂ１一組
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811185000 +0900" stop="20260811235900 +0900" channel="chihou.morioka">
+        <title lang="ja">🏁 終了 盛岡 🌇薄暮</title>
+        <desc lang="ja">盛岡の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811144500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">⏳ 待機 金沢 🌙ナイター</title>
+        <desc lang="ja">地方競馬 金沢
+1R発走予定 15:05
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811145500 +0900" stop="20260811153000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🐎 金沢 1R 15:05 Ｃ１六</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:05
+🏷️ 種別: 一般
+📢 レース名: Ｃ１六
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811153000 +0900" stop="20260811160500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🐎 金沢 2R 15:40 Ｃ１五</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:40
+🏷️ 種別: 一般
+📢 レース名: Ｃ１五
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811160500 +0900" stop="20260811164000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🐎 金沢 3R 16:15 睦斗小学校入学＆紬ほし組おめでとうＣ１四</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:15
+🏷️ 種別: 一般
+📢 レース名: 睦斗小学校入学＆紬ほし組おめでとうＣ１四
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811164000 +0900" stop="20260811171500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🐎 金沢 4R 16:50 Ｃ１三</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:50
+🏷️ 種別: 一般
+📢 レース名: Ｃ１三
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811171500 +0900" stop="20260811175500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🏇 金沢 5R 17:25 超光速微粒子の可能性杯Ｃ１二</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:25
+🏷️ 種別: 特別
+📢 レース名: 超光速微粒子の可能性杯Ｃ１二
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811175500 +0900" stop="20260811183500 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🏇 金沢 6R 18:05 楽天ポイントが貯まる！楽天競馬特Ｃ１Ｃ２</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:05
+🏷️ 種別: 特別
+📢 レース名: 楽天ポイントが貯まる！楽天競馬特Ｃ１Ｃ２
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811183500 +0900" stop="20260811191000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🐎 金沢 7R 18:45 Ｂ２三</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:45
+🏷️ 種別: 一般
+📢 レース名: Ｂ２三
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811191000 +0900" stop="20260811195000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🐎 金沢 8R 19:20 智聡＆夏生☆結婚半年記念Ｂ２二</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:20
+🏷️ 種別: 一般
+📢 レース名: 智聡＆夏生☆結婚半年記念Ｂ２二
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811195000 +0900" stop="20260811203000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🏆 MAIN 🏆 金沢 9R 20:00 読売レディス杯３歳上牝馬（地方全国交流）</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:00
+🏷️ 種別: 重賞
+📢 レース名: 読売レディス杯３歳上牝馬（地方全国交流）
+🏆 メインレース
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811203000 +0900" stop="20260811211000 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🏇 金沢 10R 20:40 能登復興支援 木ノ浦海岸特別Ｂ２一</title>
+        <desc lang="ja">地方競馬 金沢
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:40
+🏷️ 種別: 特別
+📢 レース名: 能登復興支援 木ノ浦海岸特別Ｂ２一
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811211000 +0900" stop="20260811235900 +0900" channel="chihou.kanazawa">
+        <title lang="ja">🏁 終了 金沢 🌙ナイター</title>
+        <desc lang="ja">金沢の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811103500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">⏳ 待機 笠松 ☀️デイ</title>
+        <desc lang="ja">地方競馬 笠松
+1R発走予定 10:55
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811104500 +0900" stop="20260811111500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 1R 10:55 私の青春☆アクセル全開！杯Ｃ１４</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 10:55
+🏷️ 種別: 特別
+📢 レース名: 私の青春☆アクセル全開！杯Ｃ１４
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811111500 +0900" stop="20260811115000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 2R 11:25 岡崎忠史祝五十歳人生大逃げ競争Ｃ１５</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 11:25
+🏷️ 種別: 一般
+📢 レース名: 岡崎忠史祝五十歳人生大逃げ競争Ｃ１５
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811115000 +0900" stop="20260811122500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 3R 12:00 隼人＆結花☆結婚記念杯☆３歳１０</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:00
+🏷️ 種別: 特別
+📢 レース名: 隼人＆結花☆結婚記念杯☆３歳１０
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811122500 +0900" stop="20260811125500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 4R 12:35 ななさん、ききさん卒業記念３歳９</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:35
+🏷️ 種別: 一般
+📢 レース名: ななさん、ききさん卒業記念３歳９
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811125500 +0900" stop="20260811133000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 5R 13:05 アンダーグラフ来場記念Ｃ１３</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:05
+🏷️ 種別: 一般
+📢 レース名: アンダーグラフ来場記念Ｃ１３
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811133000 +0900" stop="20260811140500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 6R 13:40 ヤクルトマーケティング東海杯Ｃ１２</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:40
+🏷️ 種別: 特別
+📢 レース名: ヤクルトマーケティング東海杯Ｃ１２
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811140500 +0900" stop="20260811144000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 7R 14:15 サスケ来場記念Ｂ３</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 14:15
+🏷️ 種別: 一般
+📢 レース名: サスケ来場記念Ｂ３
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811144000 +0900" stop="20260811151000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 8R 14:50 スマホで投票！楽天競馬賞Ａ４Ｂ２特別</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 14:50
+🏷️ 種別: 特別
+📢 レース名: スマホで投票！楽天競馬賞Ａ４Ｂ２特別
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811151000 +0900" stop="20260811154500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 9R 15:20 蛍光特別Ｂ１－２</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 15:20
+🏷️ 種別: 特別
+📢 レース名: 蛍光特別Ｂ１－２
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811154500 +0900" stop="20260811161500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏆 MAIN 🏇 笠松 10R 15:55 蛍火特別Ｂ１－１</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 15:55
+🏷️ 種別: 特別
+📢 レース名: 蛍火特別Ｂ１－１
+🏆 メインレース
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811161500 +0900" stop="20260811165500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 11R 16:25 Ｂ級サバイバル選抜</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 16:25
+🏷️ 種別: 一般
+📢 レース名: Ｂ級サバイバル選抜
+📅 2026年08月11日</desc>
+    </programme>
+    <programme start="20260811165500 +0900" stop="20260811235900 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏁 終了 笠松 ☀️デイ</title>
+        <desc lang="ja">笠松の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.obihiro">
+        <title lang="ja">💤 本日非開催 帯広（競馬）</title>
+        <desc lang="ja">本日は帯広のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.mizusawa">
         <title lang="ja">💤 本日非開催 水沢（競馬）</title>
-        <desc lang="ja">本日は水沢での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811132000 +0900" channel="chihou.urawa">
-        <title lang="ja">⏳ 待機 浦和 (🌇薄暮 1R 13:30開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 浦和 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ルーキーズサマーC
-⏰ 時間: 13:30 - 19:30
-📅 日付: 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811132000 +0900" stop="20260811194000 +0900" channel="chihou.urawa">
-        <title lang="ja">🔴 LIVE 浦和 🌇薄暮 （競馬）</title>
-        <desc lang="ja">🏇 開催地: 浦和 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ルーキーズサマーC
-⏰ 時間: 13:30 - 19:30
-📅 日付: 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811194000 +0900" stop="20260811235900 +0900" channel="chihou.urawa">
-        <title lang="ja">🏁 終了 浦和 (🌇薄暮)（競馬）</title>
-        <desc lang="ja">浦和 (薄暮) の放送は終了しました。</desc>
+        <desc lang="ja">本日は水沢のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.funabashi">
         <title lang="ja">💤 本日非開催 船橋（競馬）</title>
-        <desc lang="ja">本日は船橋での開催予定はありません。</desc>
+        <desc lang="ja">本日は船橋のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.oi">
         <title lang="ja">💤 本日非開催 大井（競馬）</title>
-        <desc lang="ja">本日は大井での開催予定はありません。</desc>
+        <desc lang="ja">本日は大井のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.kawasaki_keiba">
         <title lang="ja">💤 本日非開催 川崎（競馬）</title>
-        <desc lang="ja">本日は川崎での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811145500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">⏳ 待機 金沢 (🌙ナイター 1R 15:05開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 金沢 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 読売レディス杯
-⏰ 時間: 15:05 - 20:50
-📅 日付: 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811145500 +0900" stop="20260811210000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🔴 LIVE 金沢 🌙ナイター （競馬）</title>
-        <desc lang="ja">🏇 開催地: 金沢 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 読売レディス杯
-⏰ 時間: 15:05 - 20:50
-📅 日付: 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811210000 +0900" stop="20260811235900 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏁 終了 金沢 (🌙ナイター)（競馬）</title>
-        <desc lang="ja">金沢 (ナイター) の放送は終了しました。</desc>
+        <desc lang="ja">本日は川崎のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.nagoya_keiba">
         <title lang="ja">💤 本日非開催 名古屋（競馬）</title>
-        <desc lang="ja">本日は名古屋での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811110500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">⏳ 待機 笠松 (🌇薄暮 1R 11:15開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 笠松 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 11:15 - 18:00
-📅 日付: 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811110500 +0900" stop="20260811181000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🔴 LIVE 笠松 🌇薄暮 （競馬）</title>
-        <desc lang="ja">🏇 開催地: 笠松 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 11:15 - 18:00
-📅 日付: 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811181000 +0900" stop="20260811235900 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏁 終了 笠松 (🌇薄暮)（競馬）</title>
-        <desc lang="ja">笠松 (薄暮) の放送は終了しました。</desc>
+        <desc lang="ja">本日は名古屋のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.sonoda">
         <title lang="ja">💤 本日非開催 園田（競馬）</title>
-        <desc lang="ja">本日は園田での開催予定はありません。</desc>
+        <desc lang="ja">本日は園田のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.himeji">
         <title lang="ja">💤 本日非開催 姫路（競馬）</title>
-        <desc lang="ja">本日は姫路での開催予定はありません。</desc>
+        <desc lang="ja">本日は姫路のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.kochi_keiba">
         <title lang="ja">💤 本日非開催 高知（競馬）</title>
-        <desc lang="ja">本日は高知での開催予定はありません。</desc>
+        <desc lang="ja">本日は高知のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.saga">
         <title lang="ja">💤 本日非開催 佐賀（競馬）</title>
-        <desc lang="ja">本日は佐賀での開催予定はありません。</desc>
+        <desc lang="ja">本日は佐賀のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.sapporo">
         <title lang="ja">💤 本日非開催 札幌（競馬）</title>
-        <desc lang="ja">本日は札幌での開催予定はありません。</desc>
+        <desc lang="ja">本日は札幌のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.niigata">
         <title lang="ja">💤 本日非開催 新潟（競馬）</title>
-        <desc lang="ja">本日は新潟での開催予定はありません。</desc>
+        <desc lang="ja">本日は新潟のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.chukyo">
         <title lang="ja">💤 本日非開催 中京（競馬）</title>
-        <desc lang="ja">本日は中京での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.official">
-        <title lang="ja">💤 本日非開催 ＪＲＡ公式（競馬）</title>
-        <desc lang="ja">本日はＪＲＡ公式での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.green">
-        <title lang="ja">💤 本日非開催 ＪＲＡグリーン（競馬）</title>
-        <desc lang="ja">本日はＪＲＡグリーンでの開催予定はありません。</desc>
+        <desc lang="ja">本日は中京のレース情報を取得していません。</desc>
     </programme>
     <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="auto.kawaguchi">
         <title lang="ja">💤 本日非開催 川口（オートレース）</title>
