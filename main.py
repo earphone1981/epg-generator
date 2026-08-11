@@ -228,6 +228,17 @@ KEIBA_SCHEDULE_URL = (
 )
 
 
+KEIRIN_SCHEDULE_URL = (
+    "https://raw.githubusercontent.com/"
+    "earphone1981/ganble/main/keirin_schedule.json"
+)
+
+AUTORACE_SCHEDULE_URL = (
+    "https://raw.githubusercontent.com/"
+    "earphone1981/ganble/main/autorace_schedule.json"
+)
+
+
 def format_time_xml(dt):
     return dt.strftime("%Y%m%d%H%M%S +0900")
 
@@ -257,6 +268,14 @@ def load_boatrace_today():
 
 def load_keiba_schedule():
     return fetch_json(KEIBA_SCHEDULE_URL, "KEIBA JSON")
+
+
+def load_keirin_schedule():
+    return fetch_json(KEIRIN_SCHEDULE_URL, "KEIRIN JSON")
+
+
+def load_autorace_schedule():
+    return fetch_json(AUTORACE_SCHEDULE_URL, "AUTORACE JSON")
 
 
 def add_programme(tv, channel, start_dt, stop_dt, title, desc=""):
@@ -610,6 +629,302 @@ def build_keiba_race_epg(
     return True
 
 
+
+def build_keirin_race_epg(
+    tv,
+    date_str,
+    keirin_data,
+    JST,
+    today_display,
+):
+    if not keirin_data or keirin_data.get("date") != date_str:
+        return False
+
+    venues = keirin_data.get("venues", {})
+    if not venues:
+        return False
+
+    handled = set()
+
+    for venue, info in venues.items():
+        tvg_id = KEIRIN_MAP.get(venue) or info.get("tvg_id", "")
+        if not tvg_id:
+            print(f"KEIRIN: tvg-id未登録: {venue}")
+            continue
+
+        races = info.get("races", [])
+        if not races:
+            continue
+
+        race_times = []
+        for race in races:
+            try:
+                dt = datetime.datetime.strptime(
+                    f"{date_str} {race.get('time','')}",
+                    "%Y%m%d %H:%M",
+                ).replace(tzinfo=JST)
+            except Exception:
+                continue
+            race_times.append((race, dt))
+
+        if not race_times:
+            continue
+
+        handled.add(venue)
+
+        day_type = info.get("day_type", "デイ")
+        day_icon = info.get("day_emoji", day_emoji(day_type))
+        grade = info.get("grade", "")
+        event_name = info.get("event_name", "")
+        event_day = info.get("event_day", "")
+
+        day_start = datetime.datetime.strptime(
+            f"{date_str} 01:00", "%Y%m%d %H:%M"
+        ).replace(tzinfo=JST)
+        day_end = datetime.datetime.strptime(
+            f"{date_str} 23:59", "%Y%m%d %H:%M"
+        ).replace(tzinfo=JST)
+
+        pre_start = max(
+            day_start,
+            race_times[0][1] - datetime.timedelta(minutes=20),
+        )
+
+        if day_start < pre_start:
+            add_programme(
+                tv, tvg_id, day_start, pre_start,
+                f"⏳ 待機 {venue} {day_icon}{day_type}",
+                "\n".join(
+                    x for x in [
+                        f"🚲 競輪 {venue}",
+                        f"{grade} {event_name}".strip(),
+                        event_day,
+                        f"1R発走予定 {race_times[0][0].get('time','')}",
+                        f"📅 {today_display}",
+                    ] if x
+                ),
+            )
+
+        for idx, (race, start_time) in enumerate(race_times):
+            block_start = max(
+                pre_start,
+                start_time - datetime.timedelta(minutes=8),
+            )
+
+            if idx + 1 < len(race_times):
+                next_time = race_times[idx + 1][1]
+                block_stop = next_time - datetime.timedelta(minutes=8)
+            else:
+                block_stop = start_time + datetime.timedelta(minutes=25)
+
+            if block_stop <= block_start:
+                block_stop = start_time + datetime.timedelta(minutes=12)
+
+            race_name = race.get("name", "").strip() or "競走"
+            race_no = race.get("race", "")
+            main = bool(race.get("main"))
+            girls = bool(race.get("girls"))
+
+            title_parts = []
+            if main:
+                title_parts.append("🏆 MAIN")
+            if girls:
+                title_parts.append("💛")
+            else:
+                title_parts.append("🚲")
+            if grade and main:
+                title_parts.append(f"【{grade}】")
+            title_parts.append(f"{venue} {race_no}R")
+            title_parts.append(race.get("time", ""))
+            title_parts.append(race_name)
+
+            desc_lines = [
+                f"🚲 競輪 {venue}",
+                f"{day_icon} 開催区分: {day_type}",
+                f"⏰ 発走予定: {race.get('time','')}",
+                f"🏷️ {race.get('race_class','競輪')}",
+            ]
+            if grade:
+                desc_lines.append(f"🏆 グレード: {grade}")
+            if event_name:
+                desc_lines.append(f"📢 開催名: {event_name}")
+            if event_day:
+                desc_lines.append(f"📅 開催日次: {event_day}")
+            if girls:
+                desc_lines.append("💛 ガールズ")
+            if race.get("is_semi"):
+                desc_lines.append("🔥 準決勝")
+            if race.get("is_final"):
+                desc_lines.append("🏆 決勝")
+            if main:
+                desc_lines.append("🏆 メインレース")
+
+            add_programme(
+                tv,
+                tvg_id,
+                block_start,
+                min(block_stop, day_end),
+                " ".join(x for x in title_parts if x),
+                "\n".join(desc_lines),
+            )
+
+        finish = race_times[-1][1] + datetime.timedelta(minutes=25)
+        if finish < day_end:
+            add_programme(
+                tv, tvg_id, finish, day_end,
+                f"🏁 終了 {venue} {day_icon}{day_type}",
+                f"{venue}の本日の競輪は終了しました。",
+            )
+
+    print(f"KEIRIN EPG: {len(handled)}場を各R単位で生成")
+    return True
+
+
+def build_autorace_race_epg(
+    tv,
+    date_str,
+    autorace_data,
+    JST,
+    today_display,
+):
+    if not autorace_data or autorace_data.get("date") != date_str:
+        return False
+
+    venues = autorace_data.get("venues", {})
+    if not venues:
+        return False
+
+    handled = set()
+
+    for venue, info in venues.items():
+        tvg_id = AUTO_MAP.get(venue) or info.get("tvg_id", "")
+        if not tvg_id:
+            print(f"AUTORACE: tvg-id未登録: {venue}")
+            continue
+
+        races = info.get("races", [])
+        if not races:
+            continue
+
+        race_times = []
+        for race in races:
+            try:
+                dt = datetime.datetime.strptime(
+                    f"{date_str} {race.get('time','')}",
+                    "%Y%m%d %H:%M",
+                ).replace(tzinfo=JST)
+            except Exception:
+                continue
+            race_times.append((race, dt))
+
+        if not race_times:
+            continue
+
+        handled.add(venue)
+
+        day_type = info.get("day_type", "デイ")
+        day_icon = info.get("day_emoji", day_emoji(day_type))
+        grade = info.get("grade", "")
+        event_name = info.get("event_name", "")
+        event_day = info.get("event_day", "")
+
+        day_start = datetime.datetime.strptime(
+            f"{date_str} 01:00", "%Y%m%d %H:%M"
+        ).replace(tzinfo=JST)
+        day_end = datetime.datetime.strptime(
+            f"{date_str} 23:59", "%Y%m%d %H:%M"
+        ).replace(tzinfo=JST)
+
+        pre_start = max(
+            day_start,
+            race_times[0][1] - datetime.timedelta(minutes=20),
+        )
+
+        if day_start < pre_start:
+            add_programme(
+                tv, tvg_id, day_start, pre_start,
+                f"⏳ 待機 {venue} {day_icon}{day_type}",
+                "\n".join(
+                    x for x in [
+                        f"🏍️ オートレース {venue}",
+                        f"{grade} {event_name}".strip(),
+                        event_day,
+                        f"1R発走予定 {race_times[0][0].get('time','')}",
+                        f"📅 {today_display}",
+                    ] if x
+                ),
+            )
+
+        for idx, (race, start_time) in enumerate(race_times):
+            block_start = max(
+                pre_start,
+                start_time - datetime.timedelta(minutes=8),
+            )
+
+            if idx + 1 < len(race_times):
+                next_time = race_times[idx + 1][1]
+                block_stop = next_time - datetime.timedelta(minutes=8)
+            else:
+                block_stop = start_time + datetime.timedelta(minutes=25)
+
+            if block_stop <= block_start:
+                block_stop = start_time + datetime.timedelta(minutes=12)
+
+            race_no = race.get("race", "")
+            race_name = race.get("name", "").strip() or race.get("race_type", "競走")
+            main = bool(race.get("main"))
+            icon = race.get("icon", "🏍️")
+
+            title_parts = []
+            if main:
+                title_parts.append("🏆 MAIN")
+            title_parts.append(icon)
+            if grade and main:
+                title_parts.append(f"【{grade}】")
+            title_parts.append(f"{venue} {race_no}R")
+            title_parts.append(race.get("time", ""))
+            title_parts.append(race_name)
+
+            desc_lines = [
+                f"🏍️ オートレース {venue}",
+                f"{day_icon} 開催区分: {day_type}",
+                f"⏰ 発走予定: {race.get('time','')}",
+                f"🏷️ 種別: {race.get('race_type','')}",
+            ]
+            if grade:
+                desc_lines.append(f"🏆 グレード: {grade}")
+            if event_name:
+                desc_lines.append(f"📢 開催名: {event_name}")
+            if event_day:
+                desc_lines.append(f"📅 開催日次: {event_day}")
+            if race.get("is_semi"):
+                desc_lines.append("🔥 準決勝")
+            if race.get("is_final"):
+                desc_lines.append("🏆 優勝戦")
+            if main:
+                desc_lines.append("🏆 メインレース")
+
+            add_programme(
+                tv,
+                tvg_id,
+                block_start,
+                min(block_stop, day_end),
+                " ".join(x for x in title_parts if x),
+                "\n".join(desc_lines),
+            )
+
+        finish = race_times[-1][1] + datetime.timedelta(minutes=25)
+        if finish < day_end:
+            add_programme(
+                tv, tvg_id, finish, day_end,
+                f"🏁 終了 {venue} {day_icon}{day_type}",
+                f"{venue}の本日のオートレースは終了しました。",
+            )
+
+    print(f"AUTORACE EPG: {len(handled)}場を各R単位で生成")
+    return True
+
+
 def build_boat_epg(
     tv,
     date_str,
@@ -739,6 +1054,8 @@ def build_epg_xml():
 
     boat_today = load_boatrace_today()
     keiba_schedule = load_keiba_schedule()
+    keirin_schedule = load_keirin_schedule()
+    autorace_schedule = load_autorace_schedule()
 
     today_str = datetime.datetime.now(JST).strftime("%Y%m%d")
 
@@ -758,16 +1075,26 @@ def build_epg_xml():
         dt_obj = datetime.datetime.strptime(date_str, "%Y%m%d")
         today_display = dt_obj.strftime("%Y年%m月%d日")
 
-        # 競輪は従来手入力
-        build_manual_category(
+        # 競輪はJSONの日付一致なら各R自動EPG。
+        # JSONが無い日だけ従来手入力へフォールバック。
+        used_auto_keirin = build_keirin_race_epg(
             tv,
             date_str,
-            "keirin",
-            KEIRIN_MAP,
-            day_schedules.get("keirin", {}),
+            keirin_schedule,
             JST,
             today_display,
         )
+
+        if not used_auto_keirin:
+            build_manual_category(
+                tv,
+                date_str,
+                "keirin",
+                KEIRIN_MAP,
+                day_schedules.get("keirin", {}),
+                JST,
+                today_display,
+            )
 
         # 競馬はJSONの日付が一致すれば各R自動EPG。
         # 一致しなければ従来の手入力へフォールバック。
@@ -814,16 +1141,25 @@ def build_epg_xml():
                     today_display,
                 )
 
-        # オートは従来手入力
-        build_manual_category(
+        # オートもJSONの日付一致なら各R自動EPG。
+        used_auto_autorace = build_autorace_race_epg(
             tv,
             date_str,
-            "auto",
-            AUTO_MAP,
-            day_schedules.get("auto", {}),
+            autorace_schedule,
             JST,
             today_display,
         )
+
+        if not used_auto_autorace:
+            build_manual_category(
+                tv,
+                date_str,
+                "auto",
+                AUTO_MAP,
+                day_schedules.get("auto", {}),
+                JST,
+                today_display,
+            )
 
         # ボートJSON
         build_boat_epg(
@@ -857,6 +1193,8 @@ def build_epg_xml():
     print("EPG生成完了")
     print(f"ボートLIVE: {boat_live_count} / 24")
     print("競馬: keiba_schedule.json 優先")
+    print("競輪: keirin_schedule.json 優先")
+    print("オート: autorace_schedule.json 優先")
     print("出力: epg.xml")
     print("============================")
 
