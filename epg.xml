@@ -267,2507 +267,1632 @@
     <channel id="boat.omura">
         <display-name>24 大村</display-name>
     </channel>
-    <programme start="20260811010000 +0900" stop="20260811102500 +0900" channel="keirin.yahiko">
+    <programme start="20260812010000 +0900" stop="20260812203000 +0900" channel="keirin.aomori">
+        <title lang="ja">⏳ 待機 青森 ⭐ミッドナイト</title>
+        <desc lang="ja">🚲 競輪 青森
+Ｆ２ ＡＩ競輪も大人気チャリロト杯
+初日
+1R発走予定 20:50
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812204200 +0900" stop="20260812210200 +0900" channel="keirin.aomori">
+        <title lang="ja">💛 青森 1R 20:50 Ｌ級ガ予１</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 20:50
+🏷️ ガールズ
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日
+💛 ガールズ</desc>
+    </programme>
+    <programme start="20260812210200 +0900" stop="20260812212200 +0900" channel="keirin.aomori">
+        <title lang="ja">💛 青森 2R 21:10 Ｌ級ガ予１</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 21:10
+🏷️ ガールズ
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日
+💛 ガールズ</desc>
+    </programme>
+    <programme start="20260812212200 +0900" stop="20260812214200 +0900" channel="keirin.aomori">
+        <title lang="ja">🚲 青森 3R 21:30 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 21:30
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日</desc>
+    </programme>
+    <programme start="20260812214200 +0900" stop="20260812220200 +0900" channel="keirin.aomori">
+        <title lang="ja">🚲 青森 4R 21:50 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 21:50
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日</desc>
+    </programme>
+    <programme start="20260812220200 +0900" stop="20260812222200 +0900" channel="keirin.aomori">
+        <title lang="ja">🚲 青森 5R 22:10 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 22:10
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日</desc>
+    </programme>
+    <programme start="20260812222200 +0900" stop="20260812224200 +0900" channel="keirin.aomori">
+        <title lang="ja">🚲 青森 6R 22:30 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 22:30
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日</desc>
+    </programme>
+    <programme start="20260812224200 +0900" stop="20260812230200 +0900" channel="keirin.aomori">
+        <title lang="ja">🚲 青森 7R 22:50 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 22:50
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日</desc>
+    </programme>
+    <programme start="20260812230200 +0900" stop="20260812232200 +0900" channel="keirin.aomori">
+        <title lang="ja">🚲 青森 8R 23:10 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 23:10
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日</desc>
+    </programme>
+    <programme start="20260812232200 +0900" stop="20260812235500 +0900" channel="keirin.aomori">
+        <title lang="ja">🏆 MAIN 🚲 青森 9R 23:30 Ａ級初特選</title>
+        <desc lang="ja">🚲 競輪 青森
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 23:30
+🏷️ A級
+📢 開催名: Ｆ２ ＡＩ競輪も大人気チャリロト杯
+📅 開催日次: 初日
+🏆 メインレース</desc>
+    </programme>
+    <programme start="20260812235500 +0900" stop="20260812235900 +0900" channel="keirin.aomori">
+        <title lang="ja">🏁 終了 青森 ⭐ミッドナイト</title>
+        <desc lang="ja">青森の本日の競輪は終了しました。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812102500 +0900" channel="keirin.yahiko">
         <title lang="ja">⏳ 待機 弥彦 ☀️デイ</title>
         <desc lang="ja">🚲 競輪 弥彦
 Ｆ１ ＫＥＩＲＩＮライジングスターズ
-初日
+2日目
 1R発走予定 10:45
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811103700 +0900" stop="20260811105900 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 1R 10:45 Ａ級予選</title>
+    <programme start="20260812103700 +0900" stop="20260812105900 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 1R 10:45 Ａ級一般</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 10:45
 🏷️ A級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811105900 +0900" stop="20260811112100 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 2R 11:07 Ａ級予選</title>
+    <programme start="20260812105900 +0900" stop="20260812112100 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 2R 11:07 Ａ級一般</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 11:07
 🏷️ A級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811112100 +0900" stop="20260811114300 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 3R 11:29 Ａ級予選</title>
+    <programme start="20260812112100 +0900" stop="20260812114300 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 3R 11:29 Ａ級準決勝</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 11:29
 🏷️ A級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目
+🔥 準決勝</desc>
     </programme>
-    <programme start="20260811114300 +0900" stop="20260811120500 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 4R 11:51 Ａ級予選</title>
+    <programme start="20260812114300 +0900" stop="20260812120500 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 4R 11:51 Ａ級準決勝</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 11:51
 🏷️ A級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目
+🔥 準決勝</desc>
     </programme>
-    <programme start="20260811120500 +0900" stop="20260811122700 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 5R 12:13 Ａ級初特選</title>
+    <programme start="20260812120500 +0900" stop="20260812122700 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 5R 12:13 Ａ級準決勝</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 12:13
 🏷️ A級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目
+🔥 準決勝</desc>
     </programme>
-    <programme start="20260811122700 +0900" stop="20260811124900 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 6R 12:35 Ｓ級予選</title>
+    <programme start="20260812122700 +0900" stop="20260812124900 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 6R 12:35 Ｓ級一般</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 12:35
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811124900 +0900" stop="20260811131100 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 7R 12:57 Ｓ級予選</title>
+    <programme start="20260812124900 +0900" stop="20260812131100 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 7R 12:57 Ｓ級一般</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 12:57
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811131100 +0900" stop="20260811133300 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 8R 13:19 Ｓ級予選</title>
+    <programme start="20260812131100 +0900" stop="20260812133300 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 8R 13:19 Ｓ級選抜</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 13:19
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811133300 +0900" stop="20260811135600 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 9R 13:41 Ｓ級予選</title>
+    <programme start="20260812133300 +0900" stop="20260812135600 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 9R 13:41 Ｓ級選抜</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 13:41
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811135600 +0900" stop="20260811141900 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 10R 14:04 Ｓ級予選</title>
+    <programme start="20260812135600 +0900" stop="20260812141900 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 10R 14:04 Ｓ級準決勝</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:04
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目
+🔥 準決勝</desc>
     </programme>
-    <programme start="20260811141900 +0900" stop="20260811144600 +0900" channel="keirin.yahiko">
-        <title lang="ja">🚲 弥彦 11R 14:27 Ｓ級予選</title>
+    <programme start="20260812141900 +0900" stop="20260812144600 +0900" channel="keirin.yahiko">
+        <title lang="ja">🚲 弥彦 11R 14:27 Ｓ級準決勝</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:27
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目
+🔥 準決勝</desc>
     </programme>
-    <programme start="20260811144600 +0900" stop="20260811151900 +0900" channel="keirin.yahiko">
-        <title lang="ja">🏆 MAIN 🚲 弥彦 12R 14:54 Ｓ級初特選</title>
+    <programme start="20260812144600 +0900" stop="20260812151900 +0900" channel="keirin.yahiko">
+        <title lang="ja">🏆 MAIN 🚲 弥彦 12R 14:54 Ｓ級準決勝</title>
         <desc lang="ja">🚲 競輪 弥彦
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:54
 🏷️ S級
 📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日
+📅 開催日次: 2日目
+🔥 準決勝
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811151900 +0900" stop="20260811235900 +0900" channel="keirin.yahiko">
+    <programme start="20260812151900 +0900" stop="20260812235900 +0900" channel="keirin.yahiko">
         <title lang="ja">🏁 終了 弥彦 ☀️デイ</title>
         <desc lang="ja">弥彦の本日の競輪は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811150700 +0900" channel="keirin.maebashi">
-        <title lang="ja">⏳ 待機 前橋 🌙ナイター</title>
-        <desc lang="ja">🚲 競輪 前橋
-Ｆ２ ティーネットエンタープライズＣ
-最終日
-1R発走予定 15:27
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811151900 +0900" stop="20260811155100 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 1R 15:27 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 15:27
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811155100 +0900" stop="20260811162300 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 2R 15:59 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 15:59
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811162300 +0900" stop="20260811165200 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 3R 16:31 Ａ級チ選抜</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 16:31
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811165200 +0900" stop="20260811172100 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 4R 17:00 Ａ級チ選抜</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 17:00
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811172100 +0900" stop="20260811175000 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 5R 17:29 Ａ級特一般</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 17:29
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811175000 +0900" stop="20260811181900 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 6R 17:58 Ａ級特一般</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 17:58
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811181900 +0900" stop="20260811184800 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 7R 18:27 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:27
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811184800 +0900" stop="20260811191700 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 8R 18:56 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:56
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811191700 +0900" stop="20260811194500 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 9R 19:25 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 19:25
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811194500 +0900" stop="20260811201200 +0900" channel="keirin.maebashi">
-        <title lang="ja">🚲 前橋 10R 19:53 Ａ級チ決勝</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 19:53
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日
-🏆 決勝</desc>
-    </programme>
-    <programme start="20260811201200 +0900" stop="20260811204500 +0900" channel="keirin.maebashi">
-        <title lang="ja">🏆 MAIN 🚲 前橋 11R 20:20 Ａ級決勝</title>
-        <desc lang="ja">🚲 競輪 前橋
-🌙 開催区分: ナイター
-⏰ 発走予定: 20:20
-🏷️ A級
-📢 開催名: Ｆ２ ティーネットエンタープライズＣ
-📅 開催日次: 最終日
-🏆 決勝
-🏆 メインレース</desc>
-    </programme>
-    <programme start="20260811204500 +0900" stop="20260811235900 +0900" channel="keirin.maebashi">
-        <title lang="ja">🏁 終了 前橋 🌙ナイター</title>
-        <desc lang="ja">前橋の本日の競輪は終了しました。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811202000 +0900" channel="keirin.kawasaki">
-        <title lang="ja">⏳ 待機 川崎 ⭐ミッドナイト</title>
-        <desc lang="ja">🚲 競輪 川崎
-Ｆ２ チャリロト杯
-最終日
-1R発走予定 20:40
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811203200 +0900" stop="20260811205200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">💛 川崎 1R 20:40 Ｌ級ガ一般</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 20:40
-🏷️ ガールズ
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日
-💛 ガールズ</desc>
-    </programme>
-    <programme start="20260811205200 +0900" stop="20260811211200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🚲 川崎 2R 21:00 Ａ級一般</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 21:00
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811211200 +0900" stop="20260811213200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🚲 川崎 3R 21:20 Ａ級一般</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 21:20
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811213200 +0900" stop="20260811215200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🚲 川崎 4R 21:40 Ａ級一般</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 21:40
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811215200 +0900" stop="20260811221200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🚲 川崎 5R 22:00 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 22:00
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811221200 +0900" stop="20260811223200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🚲 川崎 6R 22:20 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 22:20
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811223200 +0900" stop="20260811225200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🚲 川崎 7R 22:40 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 22:40
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811225200 +0900" stop="20260811231200 +0900" channel="keirin.kawasaki">
-        <title lang="ja">💛 川崎 8R 23:00 Ｌ級ガ決勝</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 23:00
-🏷️ ガールズ
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日
-💛 ガールズ
-🏆 決勝</desc>
-    </programme>
-    <programme start="20260811231200 +0900" stop="20260811234500 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🏆 MAIN 🚲 川崎 9R 23:20 Ａ級決勝</title>
-        <desc lang="ja">🚲 競輪 川崎
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 23:20
-🏷️ A級
-📢 開催名: Ｆ２ チャリロト杯
-📅 開催日次: 最終日
-🏆 決勝
-🏆 メインレース</desc>
-    </programme>
-    <programme start="20260811234500 +0900" stop="20260811235900 +0900" channel="keirin.kawasaki">
-        <title lang="ja">🏁 終了 川崎 ⭐ミッドナイト</title>
-        <desc lang="ja">川崎の本日の競輪は終了しました。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811081000 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">⏳ 待機 平塚 🌅モーニング</title>
-        <desc lang="ja">🚲 競輪 平塚
-Ｆ２ 楽天Ｋドリームス杯
-最終日
+    <programme start="20260812010000 +0900" stop="20260812081000 +0900" channel="keirin.gifu">
+        <title lang="ja">⏳ 待機 岐阜 🌅モーニング</title>
+        <desc lang="ja">🚲 競輪 岐阜
+Ｆ２ ウィンチケット杯
+初日
 1R発走予定 08:30
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811082200 +0900" stop="20260811084200 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🚲 平塚 1R 08:30 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812082200 +0900" stop="20260812084200 +0900" channel="keirin.gifu">
+        <title lang="ja">🚲 岐阜 1R 08:30 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 08:30
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日</desc>
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811084200 +0900" stop="20260811090300 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🚲 平塚 2R 08:50 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812084200 +0900" stop="20260812090300 +0900" channel="keirin.gifu">
+        <title lang="ja">🚲 岐阜 2R 08:50 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 08:50
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日</desc>
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811090300 +0900" stop="20260811092400 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🚲 平塚 3R 09:11 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812090300 +0900" stop="20260812092400 +0900" channel="keirin.gifu">
+        <title lang="ja">🚲 岐阜 3R 09:11 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 09:11
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日</desc>
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811092400 +0900" stop="20260811094500 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🚲 平塚 4R 09:32 Ａ級チ選抜</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812092400 +0900" stop="20260812094500 +0900" channel="keirin.gifu">
+        <title lang="ja">🚲 岐阜 4R 09:32 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 09:32
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日</desc>
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811094500 +0900" stop="20260811100600 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🚲 平塚 5R 09:53 Ａ級チ選抜</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812094500 +0900" stop="20260812100600 +0900" channel="keirin.gifu">
+        <title lang="ja">🚲 岐阜 5R 09:53 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 09:53
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日</desc>
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811100600 +0900" stop="20260811102700 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🚲 平塚 6R 10:14 Ａ級チ選抜</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812100600 +0900" stop="20260812102700 +0900" channel="keirin.gifu">
+        <title lang="ja">🚲 岐阜 6R 10:14 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 10:14
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日</desc>
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811102700 +0900" stop="20260811110000 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🏆 MAIN 🚲 平塚 7R 10:35 Ａ級チ決勝</title>
-        <desc lang="ja">🚲 競輪 平塚
+    <programme start="20260812102700 +0900" stop="20260812110000 +0900" channel="keirin.gifu">
+        <title lang="ja">🏆 MAIN 🚲 岐阜 7R 10:35 Ａ級初特選</title>
+        <desc lang="ja">🚲 競輪 岐阜
 🌅 開催区分: モーニング
 ⏰ 発走予定: 10:35
 🏷️ A級
-📢 開催名: Ｆ２ 楽天Ｋドリームス杯
-📅 開催日次: 最終日
-🏆 決勝
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811110000 +0900" stop="20260811235900 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">🏁 終了 平塚 🌅モーニング</title>
-        <desc lang="ja">平塚の本日の競輪は終了しました。</desc>
+    <programme start="20260812110000 +0900" stop="20260812235900 +0900" channel="keirin.gifu">
+        <title lang="ja">🏁 終了 岐阜 🌅モーニング</title>
+        <desc lang="ja">岐阜の本日の競輪は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811103900 +0900" channel="keirin.toyama">
+    <programme start="20260812010000 +0900" stop="20260812103900 +0900" channel="keirin.toyama">
         <title lang="ja">⏳ 待機 富山 ☀️デイ</title>
         <desc lang="ja">🚲 競輪 富山
 Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-2日目
+最終日
 1R発走予定 10:59
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811105100 +0900" stop="20260811111500 +0900" channel="keirin.toyama">
+    <programme start="20260812105100 +0900" stop="20260812111500 +0900" channel="keirin.toyama">
         <title lang="ja">🚲 富山 1R 10:59 Ａ級チ一般</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 10:59
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811111500 +0900" stop="20260811114800 +0900" channel="keirin.toyama">
+    <programme start="20260812111500 +0900" stop="20260812114800 +0900" channel="keirin.toyama">
         <title lang="ja">🚲 富山 2R 11:23 Ａ級チ一般</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 11:23
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811114800 +0900" stop="20260811122100 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 3R 11:56 Ａ級チ準決</title>
+    <programme start="20260812114800 +0900" stop="20260812122100 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 3R 11:56 Ａ級チ選抜</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 11:56
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目
-🔥 準決勝</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811122100 +0900" stop="20260811125400 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 4R 12:29 Ａ級チ準決</title>
+    <programme start="20260812122100 +0900" stop="20260812125400 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 4R 12:29 Ａ級チ選抜</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 12:29
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目
-🔥 準決勝</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811125400 +0900" stop="20260811132700 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 5R 13:02 Ａ級チ準決</title>
+    <programme start="20260812125400 +0900" stop="20260812132700 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 5R 13:02 Ａ級特一般</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 13:02
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目
-🔥 準決勝</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811132700 +0900" stop="20260811140100 +0900" channel="keirin.toyama">
+    <programme start="20260812132700 +0900" stop="20260812140100 +0900" channel="keirin.toyama">
         <title lang="ja">🚲 富山 6R 13:35 Ａ級特一般</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 13:35
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811140100 +0900" stop="20260811143600 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 7R 14:09 Ａ級特一般</title>
+    <programme start="20260812140100 +0900" stop="20260812143600 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 7R 14:09 Ａ級特選</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:09
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811143600 +0900" stop="20260811151200 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 8R 14:44 Ａ級特一般</title>
+    <programme start="20260812143600 +0900" stop="20260812151200 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 8R 14:44 Ａ級特選</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:44
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811151200 +0900" stop="20260811154400 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 9R 15:20 Ａ級準決勝</title>
+    <programme start="20260812151200 +0900" stop="20260812154400 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 9R 15:20 Ａ級特選</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 15:20
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目
-🔥 準決勝
-🏆 決勝</desc>
+📅 開催日次: 最終日</desc>
     </programme>
-    <programme start="20260811154400 +0900" stop="20260811161700 +0900" channel="keirin.toyama">
-        <title lang="ja">🚲 富山 10R 15:52 Ａ級準決勝</title>
+    <programme start="20260812154400 +0900" stop="20260812161700 +0900" channel="keirin.toyama">
+        <title lang="ja">🚲 富山 10R 15:52 Ａ級チ決勝</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 15:52
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目
-🔥 準決勝
+📅 開催日次: 最終日
 🏆 決勝</desc>
     </programme>
-    <programme start="20260811161700 +0900" stop="20260811165000 +0900" channel="keirin.toyama">
-        <title lang="ja">🏆 MAIN 🚲 富山 11R 16:25 Ａ級準決勝</title>
+    <programme start="20260812161700 +0900" stop="20260812165000 +0900" channel="keirin.toyama">
+        <title lang="ja">🏆 MAIN 🚲 富山 11R 16:25 Ａ級決勝</title>
         <desc lang="ja">🚲 競輪 富山
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 16:25
 🏷️ A級
 📢 開催名: Ｆ２ 仲間と繋がるＴＩＰＳＴＡＲ杯
-📅 開催日次: 2日目
-🔥 準決勝
+📅 開催日次: 最終日
 🏆 決勝
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811165000 +0900" stop="20260811235900 +0900" channel="keirin.toyama">
+    <programme start="20260812165000 +0900" stop="20260812235900 +0900" channel="keirin.toyama">
         <title lang="ja">🏁 終了 富山 ☀️デイ</title>
         <desc lang="ja">富山の本日の競輪は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811203000 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">⏳ 待機 四日市 ⭐ミッドナイト</title>
-        <desc lang="ja">🚲 競輪 四日市
-Ｆ２ ウィンチケット杯
-最終日
-1R発走予定 20:50
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811204200 +0900" stop="20260811210200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 1R 20:50 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 20:50
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811210200 +0900" stop="20260811212200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 2R 21:10 Ａ級チ一般</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 21:10
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811212200 +0900" stop="20260811214200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 3R 21:30 Ａ級チ選抜</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 21:30
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811214200 +0900" stop="20260811220200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 4R 21:50 Ａ級特一般</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 21:50
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811220200 +0900" stop="20260811222200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 5R 22:10 Ａ級特一般</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 22:10
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811222200 +0900" stop="20260811224200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 6R 22:30 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 22:30
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811224200 +0900" stop="20260811230200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 7R 22:50 Ａ級特選</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 22:50
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日</desc>
-    </programme>
-    <programme start="20260811230200 +0900" stop="20260811232200 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🚲 四日市 8R 23:10 Ａ級チ決勝</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 23:10
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日
-🏆 決勝</desc>
-    </programme>
-    <programme start="20260811232200 +0900" stop="20260811235500 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🏆 MAIN 🚲 四日市 9R 23:30 Ａ級決勝</title>
-        <desc lang="ja">🚲 競輪 四日市
-⭐ 開催区分: ミッドナイト
-⏰ 発走予定: 23:30
-🏷️ A級
-📢 開催名: Ｆ２ ウィンチケット杯
-📅 開催日次: 最終日
-🏆 決勝
-🏆 メインレース</desc>
-    </programme>
-    <programme start="20260811235500 +0900" stop="20260811235900 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">🏁 終了 四日市 ⭐ミッドナイト</title>
-        <desc lang="ja">四日市の本日の競輪は終了しました。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811145500 +0900" channel="keirin.matsuyama">
+    <programme start="20260812010000 +0900" stop="20260812145500 +0900" channel="keirin.matsuyama">
         <title lang="ja">⏳ 待機 松山 🌙ナイター</title>
         <desc lang="ja">🚲 競輪 松山
 Ｇ１ オールスター競輪
-初日
+2日目
 1R発走予定 15:15
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811150700 +0900" stop="20260811153300 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🚲 松山 1R 15:15 Ｓ級一予選</title>
+    <programme start="20260812150700 +0900" stop="20260812153300 +0900" channel="keirin.matsuyama">
+        <title lang="ja">🚲 松山 1R 15:15 Ｓ級選抜二</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 15:15
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811153300 +0900" stop="20260811160300 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🚲 松山 2R 15:41 Ｓ級一予選</title>
+    <programme start="20260812153300 +0900" stop="20260812160300 +0900" channel="keirin.matsuyama">
+        <title lang="ja">🚲 松山 2R 15:41 Ｓ級選抜二</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 15:41
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811160300 +0900" stop="20260811163400 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🚲 松山 3R 16:11 Ｓ級一予選</title>
+    <programme start="20260812160300 +0900" stop="20260812163400 +0900" channel="keirin.matsuyama">
+        <title lang="ja">🚲 松山 3R 16:11 Ｓ級選抜二</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 16:11
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811163400 +0900" stop="20260811170500 +0900" channel="keirin.matsuyama">
+    <programme start="20260812163400 +0900" stop="20260812170500 +0900" channel="keirin.matsuyama">
         <title lang="ja">🚲 松山 4R 16:42 Ｓ級一予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 16:42
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811170500 +0900" stop="20260811173600 +0900" channel="keirin.matsuyama">
+    <programme start="20260812170500 +0900" stop="20260812173600 +0900" channel="keirin.matsuyama">
         <title lang="ja">🚲 松山 5R 17:13 Ｓ級一予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 17:13
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811173600 +0900" stop="20260811180700 +0900" channel="keirin.matsuyama">
+    <programme start="20260812173600 +0900" stop="20260812180700 +0900" channel="keirin.matsuyama">
         <title lang="ja">🚲 松山 6R 17:44 Ｓ級一予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 17:44
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811180700 +0900" stop="20260811183800 +0900" channel="keirin.matsuyama">
+    <programme start="20260812180700 +0900" stop="20260812183800 +0900" channel="keirin.matsuyama">
         <title lang="ja">🚲 松山 7R 18:15 Ｓ級一予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 18:15
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811183800 +0900" stop="20260811190900 +0900" channel="keirin.matsuyama">
+    <programme start="20260812183800 +0900" stop="20260812190900 +0900" channel="keirin.matsuyama">
         <title lang="ja">🚲 松山 8R 18:46 Ｓ級一予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 18:46
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811190900 +0900" stop="20260811194000 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🚲 松山 9R 19:17 Ｓ級一予選</title>
+    <programme start="20260812190900 +0900" stop="20260812194000 +0900" channel="keirin.matsuyama">
+        <title lang="ja">🚲 松山 9R 19:17 Ｓ級二予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 19:17
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811194000 +0900" stop="20260811202200 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🚲 松山 10R 19:48 Ｓ級一予選</title>
+    <programme start="20260812194000 +0900" stop="20260812202200 +0900" channel="keirin.matsuyama">
+        <title lang="ja">🚲 松山 10R 19:48 Ｓ級二予選</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 19:48
 🏷️ S級
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日</desc>
+📅 開催日次: 2日目</desc>
     </programme>
-    <programme start="20260811202200 +0900" stop="20260811205500 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🏆 MAIN 🚲 松山 11R 20:30 オリオン賞レース</title>
+    <programme start="20260812202200 +0900" stop="20260812205500 +0900" channel="keirin.matsuyama">
+        <title lang="ja">🏆 MAIN 🚲 松山 11R 20:30 ドリームレース</title>
         <desc lang="ja">🚲 競輪 松山
 🌙 開催区分: ナイター
 ⏰ 発走予定: 20:30
 🏷️ 競輪
 📢 開催名: Ｇ１ オールスター競輪
-📅 開催日次: 初日
+📅 開催日次: 2日目
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811205500 +0900" stop="20260811235900 +0900" channel="keirin.matsuyama">
+    <programme start="20260812205500 +0900" stop="20260812235900 +0900" channel="keirin.matsuyama">
         <title lang="ja">🏁 終了 松山 🌙ナイター</title>
         <desc lang="ja">松山の本日の競輪は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811103200 +0900" channel="keirin.kumamoto">
-        <title lang="ja">⏳ 待機 熊本 🌅モーニング</title>
-        <desc lang="ja">🚲 競輪 熊本
-Ｆ１ ＫＥＩＲＩＮライジングスターズ
+    <programme start="20260812010000 +0900" stop="20260812202000 +0900" channel="keirin.takeo">
+        <title lang="ja">⏳ 待機 武雄 ⭐ミッドナイト</title>
+        <desc lang="ja">🚲 競輪 武雄
+Ｆ２ ウィンチケット杯
 初日
-1R発走予定 10:52
-📅 2026年08月11日</desc>
+1R発走予定 20:40
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811104400 +0900" stop="20260811110800 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 1R 10:52 Ａ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 10:52
+    <programme start="20260812203200 +0900" stop="20260812205200 +0900" channel="keirin.takeo">
+        <title lang="ja">💛 武雄 1R 20:40 Ｌ級ガ予１</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 20:40
+🏷️ ガールズ
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日
+💛 ガールズ</desc>
+    </programme>
+    <programme start="20260812205200 +0900" stop="20260812211200 +0900" channel="keirin.takeo">
+        <title lang="ja">💛 武雄 2R 21:00 Ｌ級ガ予１</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 21:00
+🏷️ ガールズ
+📢 開催名: Ｆ２ ウィンチケット杯
+📅 開催日次: 初日
+💛 ガールズ</desc>
+    </programme>
+    <programme start="20260812211200 +0900" stop="20260812213200 +0900" channel="keirin.takeo">
+        <title lang="ja">🚲 武雄 3R 21:20 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 21:20
 🏷️ A級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811110800 +0900" stop="20260811113100 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 2R 11:16 Ａ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 11:16
+    <programme start="20260812213200 +0900" stop="20260812215200 +0900" channel="keirin.takeo">
+        <title lang="ja">🚲 武雄 4R 21:40 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 21:40
 🏷️ A級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811113100 +0900" stop="20260811115400 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 3R 11:39 Ａ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 11:39
+    <programme start="20260812215200 +0900" stop="20260812221200 +0900" channel="keirin.takeo">
+        <title lang="ja">🚲 武雄 5R 22:00 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 22:00
 🏷️ A級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811115400 +0900" stop="20260811121600 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 4R 12:02 Ａ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 12:02
+    <programme start="20260812221200 +0900" stop="20260812223200 +0900" channel="keirin.takeo">
+        <title lang="ja">🚲 武雄 6R 22:20 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 22:20
 🏷️ A級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811121600 +0900" stop="20260811123800 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 5R 12:24 Ａ級初特選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 12:24
+    <programme start="20260812223200 +0900" stop="20260812225200 +0900" channel="keirin.takeo">
+        <title lang="ja">🚲 武雄 7R 22:40 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 22:40
 🏷️ A級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811123800 +0900" stop="20260811130000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 6R 12:46 Ｓ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 12:46
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+    <programme start="20260812225200 +0900" stop="20260812231200 +0900" channel="keirin.takeo">
+        <title lang="ja">🚲 武雄 8R 23:00 Ａ級予選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 23:00
+🏷️ A級
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811130000 +0900" stop="20260811132200 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 7R 13:08 Ｓ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 13:08
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
-    </programme>
-    <programme start="20260811132200 +0900" stop="20260811134400 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 8R 13:30 Ｓ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 13:30
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
-    </programme>
-    <programme start="20260811134400 +0900" stop="20260811140700 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 9R 13:52 Ｓ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 13:52
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
-    </programme>
-    <programme start="20260811140700 +0900" stop="20260811143100 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 10R 14:15 Ｓ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 14:15
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
-    </programme>
-    <programme start="20260811143100 +0900" stop="20260811145700 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🚲 熊本 11R 14:39 Ｓ級予選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 14:39
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
-📅 開催日次: 初日</desc>
-    </programme>
-    <programme start="20260811145700 +0900" stop="20260811153000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🏆 MAIN 🚲 熊本 12R 15:05 Ｓ級初特選</title>
-        <desc lang="ja">🚲 競輪 熊本
-🌅 開催区分: モーニング
-⏰ 発走予定: 15:05
-🏷️ S級
-📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+    <programme start="20260812231200 +0900" stop="20260812234500 +0900" channel="keirin.takeo">
+        <title lang="ja">🏆 MAIN 🚲 武雄 9R 23:20 Ａ級初特選</title>
+        <desc lang="ja">🚲 競輪 武雄
+⭐ 開催区分: ミッドナイト
+⏰ 発走予定: 23:20
+🏷️ A級
+📢 開催名: Ｆ２ ウィンチケット杯
 📅 開催日次: 初日
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811153000 +0900" stop="20260811235900 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🏁 終了 熊本 🌅モーニング</title>
+    <programme start="20260812234500 +0900" stop="20260812235900 +0900" channel="keirin.takeo">
+        <title lang="ja">🏁 終了 武雄 ⭐ミッドナイト</title>
+        <desc lang="ja">武雄の本日の競輪は終了しました。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812103200 +0900" channel="keirin.kumamoto">
+        <title lang="ja">⏳ 待機 熊本 ☀️デイ</title>
+        <desc lang="ja">🚲 競輪 熊本
+Ｆ１ ＫＥＩＲＩＮライジングスターズ
+2日目
+1R発走予定 10:52
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812104400 +0900" stop="20260812110800 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 1R 10:52 Ａ級一般</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 10:52
+🏷️ A級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目</desc>
+    </programme>
+    <programme start="20260812110800 +0900" stop="20260812113100 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 2R 11:16 Ａ級一般</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 11:16
+🏷️ A級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目</desc>
+    </programme>
+    <programme start="20260812113100 +0900" stop="20260812115400 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 3R 11:39 Ａ級準決勝</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 11:39
+🏷️ A級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目
+🔥 準決勝</desc>
+    </programme>
+    <programme start="20260812115400 +0900" stop="20260812121600 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 4R 12:02 Ａ級準決勝</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:02
+🏷️ A級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目
+🔥 準決勝</desc>
+    </programme>
+    <programme start="20260812121600 +0900" stop="20260812123800 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 5R 12:24 Ａ級準決勝</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:24
+🏷️ A級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目
+🔥 準決勝</desc>
+    </programme>
+    <programme start="20260812123800 +0900" stop="20260812130000 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 6R 12:46 Ｓ級一般</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:46
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目</desc>
+    </programme>
+    <programme start="20260812130000 +0900" stop="20260812132200 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 7R 13:08 Ｓ級一般</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:08
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目</desc>
+    </programme>
+    <programme start="20260812132200 +0900" stop="20260812134400 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 8R 13:30 Ｓ級選抜</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:30
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目</desc>
+    </programme>
+    <programme start="20260812134400 +0900" stop="20260812140700 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 9R 13:52 Ｓ級選抜</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:52
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目</desc>
+    </programme>
+    <programme start="20260812140700 +0900" stop="20260812143100 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 10R 14:15 Ｓ級準決勝</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 14:15
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目
+🔥 準決勝</desc>
+    </programme>
+    <programme start="20260812143100 +0900" stop="20260812145700 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🚲 熊本 11R 14:39 Ｓ級準決勝</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 14:39
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目
+🔥 準決勝</desc>
+    </programme>
+    <programme start="20260812145700 +0900" stop="20260812153000 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🏆 MAIN 🚲 熊本 12R 15:05 Ｓ級準決勝</title>
+        <desc lang="ja">🚲 競輪 熊本
+☀️ 開催区分: デイ
+⏰ 発走予定: 15:05
+🏷️ S級
+📢 開催名: Ｆ１ ＫＥＩＲＩＮライジングスターズ
+📅 開催日次: 2日目
+🔥 準決勝
+🏆 メインレース</desc>
+    </programme>
+    <programme start="20260812153000 +0900" stop="20260812235900 +0900" channel="keirin.kumamoto">
+        <title lang="ja">🏁 終了 熊本 ☀️デイ</title>
         <desc lang="ja">熊本の本日の競輪は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811142000 +0900" channel="chihou.mombetsu">
+    <programme start="20260812010000 +0900" stop="20260812141000 +0900" channel="chihou.mombetsu">
         <title lang="ja">⏳ 待機 門別 🌙ナイター</title>
         <desc lang="ja">地方競馬 門別
-1R発走予定 14:40
-📅 2026年08月11日</desc>
+1R発走予定 14:30
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811143000 +0900" stop="20260811150000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 1R 14:40 ２歳 未勝利</title>
+    <programme start="20260812142000 +0900" stop="20260812145500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 1R 14:30 ２歳 未勝利</title>
         <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 14:40
-🏷️ 種別: 一般
-📢 レース名: ２歳 未勝利
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811150000 +0900" stop="20260811153500 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 2R 15:10 ２歳 未勝利</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 15:10
-🏷️ 種別: 一般
-📢 レース名: ２歳 未勝利
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811153500 +0900" stop="20260811161000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 3R 15:45 公益社団法人日本軽種馬協会協賛</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 15:45
-🏷️ 種別: 一般
-📢 レース名: 公益社団法人日本軽種馬協会協賛
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811161000 +0900" stop="20260811164000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 4R 16:20 ３歳以上 Ｃ４－３</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 16:20
-🏷️ 種別: 一般
-📢 レース名: ３歳以上 Ｃ４－３
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811164000 +0900" stop="20260811171500 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 5R 16:50 ３歳以上 Ｃ４－３</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 16:50
-🏷️ 種別: 一般
-📢 レース名: ３歳以上 Ｃ４－３
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811171500 +0900" stop="20260811175000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 6R 17:25 ３歳以上 Ｃ４－３</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 17:25
-🏷️ 種別: 一般
-📢 レース名: ３歳以上 Ｃ４－３
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811175000 +0900" stop="20260811182500 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 7R 18:00 ３歳以上 Ｃ４－２</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:00
-🏷️ 種別: 一般
-📢 レース名: ３歳以上 Ｃ４－２
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811182500 +0900" stop="20260811190000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 8R 18:35 ３歳以上 Ｃ４－２</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:35
-🏷️ 種別: 一般
-📢 レース名: ３歳以上 Ｃ４－２
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811190000 +0900" stop="20260811193000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 9R 19:10 千軍万馬オープン</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 19:10
-🏷️ 種別: 一般
-📢 レース名: 千軍万馬オープン
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811193000 +0900" stop="20260811200500 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🐎 門別 10R 19:40 グランシャリオドリーム４４</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 19:40
-🏷️ 種別: 一般
-📢 レース名: グランシャリオドリーム４４
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811200500 +0900" stop="20260811204000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🏇 門別 11R 20:15 テッポウユリ特別</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 20:15
-🏷️ 種別: 特別
-📢 レース名: テッポウユリ特別
-📋 条件: 火
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811204000 +0900" stop="20260811212000 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🏆 MAIN 🏇 門別 12R 20:50 ネモフィラ特別</title>
-        <desc lang="ja">地方競馬 門別
-🌙 開催区分: ナイター
-⏰ 発走予定: 20:50
-🏷️ 種別: 特別
-📢 レース名: ネモフィラ特別
-📋 条件: 火
-🏆 メインレース
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811212000 +0900" stop="20260811235900 +0900" channel="chihou.mombetsu">
-        <title lang="ja">🏁 終了 門別 🌙ナイター</title>
-        <desc lang="ja">門別の本日の競馬は終了しました。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811131000 +0900" channel="chihou.urawa">
-        <title lang="ja">⏳ 待機 浦和 🌙ナイター</title>
-        <desc lang="ja">地方競馬 浦和
-1R発走予定 13:30
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811132000 +0900" stop="20260811135000 +0900" channel="chihou.urawa">
-        <title lang="ja">🐎 浦和 1R 13:30 ランチタイムＣ３選抜馬イ</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 13:30
-🏷️ 種別: 一般
-📢 レース名: ランチタイムＣ３選抜馬イ
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811135000 +0900" stop="20260811142000 +0900" channel="chihou.urawa">
-        <title lang="ja">🐎 浦和 2R 14:00 ３歳三</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 14:00
-🏷️ 種別: 一般
-📢 レース名: ３歳三
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811142000 +0900" stop="20260811145000 +0900" channel="chihou.urawa">
-        <title lang="ja">🐎 浦和 3R 14:30 ３歳二</title>
-        <desc lang="ja">地方競馬 浦和
 🌙 開催区分: ナイター
 ⏰ 発走予定: 14:30
 🏷️ 種別: 一般
-📢 レース名: ３歳二
-📅 2026年08月11日</desc>
+📢 レース名: ２歳 未勝利
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811145000 +0900" stop="20260811152500 +0900" channel="chihou.urawa">
-        <title lang="ja">🐎 浦和 4R 15:00 特選Ｃ２ウＣ３ア選抜馬</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 15:00
-🏷️ 種別: 一般
-📢 レース名: 特選Ｃ２ウＣ３ア選抜馬
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811152500 +0900" stop="20260811155500 +0900" channel="chihou.urawa">
-        <title lang="ja">🐎 浦和 5R 15:35 Ｃ２五</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 15:35
-🏷️ 種別: 一般
-📢 レース名: Ｃ２五
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811155500 +0900" stop="20260811162500 +0900" channel="chihou.urawa">
-        <title lang="ja">🏇 浦和 6R 16:05 若竹特別２歳一</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 16:05
-🏷️ 種別: 特別
-📢 レース名: 若竹特別２歳一
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811162500 +0900" stop="20260811170000 +0900" channel="chihou.urawa">
-        <title lang="ja">🏇 浦和 7R 16:35 白岡美人で元気１００倍賞Ｃ１四</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 16:35
-🏷️ 種別: 特別
-📢 レース名: 白岡美人で元気１００倍賞Ｃ１四
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811170000 +0900" stop="20260811173500 +0900" channel="chihou.urawa">
-        <title lang="ja">🏇 浦和 8R 17:10 鳳仙花特別Ｂ３イＣ１ア選抜馬</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 17:10
-🏷️ 種別: 特別
-📢 レース名: 鳳仙花特別Ｂ３イＣ１ア選抜馬
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811173500 +0900" stop="20260811181000 +0900" channel="chihou.urawa">
-        <title lang="ja">🏇 浦和 9R 17:45 納涼特別Ｂ２二Ｂ３一</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 17:45
-🏷️ 種別: 特別
-📢 レース名: 納涼特別Ｂ２二Ｂ３一
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811181000 +0900" stop="20260811184500 +0900" channel="chihou.urawa">
-        <title lang="ja">🏇 浦和 10R 18:20 山の日特別Ａ２Ｂ１一</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:20
-🏷️ 種別: 特別
-📢 レース名: 山の日特別Ａ２Ｂ１一
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811184500 +0900" stop="20260811192000 +0900" channel="chihou.urawa">
-        <title lang="ja">🏆 MAIN 🏆 浦和 11R 18:55 ルーキーズサマーカップ２歳オープン</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:55
-🏷️ 種別: 重賞
-📢 レース名: ルーキーズサマーカップ２歳オープン
-🏆 メインレース
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811192000 +0900" stop="20260811200000 +0900" channel="chihou.urawa">
-        <title lang="ja">🏇 浦和 12R 19:30 夏の星特別Ｃ２選抜馬イ</title>
-        <desc lang="ja">地方競馬 浦和
-🌙 開催区分: ナイター
-⏰ 発走予定: 19:30
-🏷️ 種別: 特別
-📢 レース名: 夏の星特別Ｃ２選抜馬イ
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811200000 +0900" stop="20260811235900 +0900" channel="chihou.urawa">
-        <title lang="ja">🏁 終了 浦和 🌙ナイター</title>
-        <desc lang="ja">浦和の本日の競馬は終了しました。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811112000 +0900" channel="chihou.morioka">
-        <title lang="ja">⏳ 待機 盛岡 🌇薄暮</title>
-        <desc lang="ja">地方競馬 盛岡
-1R発走予定 11:40
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811113000 +0900" stop="20260811120500 +0900" channel="chihou.morioka">
-        <title lang="ja">🐎 盛岡 1R 11:40 Ｃ２三組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 11:40
-🏷️ 種別: 一般
-📢 レース名: Ｃ２三組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811120500 +0900" stop="20260811124000 +0900" channel="chihou.morioka">
-        <title lang="ja">🐎 盛岡 2R 12:15 Ｃ２二組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 12:15
-🏷️ 種別: 一般
-📢 レース名: Ｃ２二組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811124000 +0900" stop="20260811131500 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 3R 12:50 うまレター賞Ｃ２一組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 12:50
-🏷️ 種別: 特別
-📢 レース名: うまレター賞Ｃ２一組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811131500 +0900" stop="20260811135500 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 4R 13:25 ポイントたまる！楽天競馬賞３歳Ｃ１二組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 13:25
-🏷️ 種別: 特別
-📢 レース名: ポイントたまる！楽天競馬賞３歳Ｃ１二組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811135500 +0900" stop="20260811143000 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 5R 14:05 オッズパーク賞３歳Ｃ１一組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 14:05
-🏷️ 種別: 特別
-📢 レース名: オッズパーク賞３歳Ｃ１一組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811143000 +0900" stop="20260811150500 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 6R 14:40 いわてくじ山形村短角牛賞Ｂ２</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 14:40
-🏷️ 種別: 特別
-📢 レース名: いわてくじ山形村短角牛賞Ｂ２
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811150500 +0900" stop="20260811154000 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 7R 15:15 いわて北緯４０度岩手町賞Ｂ２</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 15:15
-🏷️ 種別: 特別
-📢 レース名: いわて北緯４０度岩手町賞Ｂ２
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811154000 +0900" stop="20260811162000 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 8R 15:50 いわて北緯４０度葛巻町賞Ｂ２</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 15:50
-🏷️ 種別: 特別
-📢 レース名: いわて北緯４０度葛巻町賞Ｂ２
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811162000 +0900" stop="20260811165500 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 9R 16:30 Ｊ交 オニキス賞３歳</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 16:30
-🏷️ 種別: 特別
-📢 レース名: Ｊ交 オニキス賞３歳
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811165500 +0900" stop="20260811173500 +0900" channel="chihou.morioka">
-        <title lang="ja">🏆 MAIN 🏆 盛岡 10R 17:05 クラスターカップJpnIII</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 17:05
-🏷️ 種別: ダートグレード
-📢 レース名: クラスターカップJpnIII
-🏆 メインレース
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811173500 +0900" stop="20260811181000 +0900" channel="chihou.morioka">
-        <title lang="ja">🏇 盛岡 11R 17:45 いわて北緯４０度八幡平市賞Ｂ１二組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 17:45
-🏷️ 種別: 特別
-📢 レース名: いわて北緯４０度八幡平市賞Ｂ１二組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811181000 +0900" stop="20260811185000 +0900" channel="chihou.morioka">
-        <title lang="ja">🐎 盛岡 12R 18:20 夢・希望 未来へ前進Ｂ１一組</title>
-        <desc lang="ja">地方競馬 盛岡
-🌇 開催区分: 薄暮
-⏰ 発走予定: 18:20
-🏷️ 種別: 一般
-📢 レース名: 夢・希望 未来へ前進Ｂ１一組
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811185000 +0900" stop="20260811235900 +0900" channel="chihou.morioka">
-        <title lang="ja">🏁 終了 盛岡 🌇薄暮</title>
-        <desc lang="ja">盛岡の本日の競馬は終了しました。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811144500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">⏳ 待機 金沢 🌙ナイター</title>
-        <desc lang="ja">地方競馬 金沢
-1R発走予定 15:05
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811145500 +0900" stop="20260811153000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🐎 金沢 1R 15:05 Ｃ１六</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812145500 +0900" stop="20260812152500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 2R 15:05 公益社団法人日本軽種馬協会協賛</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
 ⏰ 発走予定: 15:05
 🏷️ 種別: 一般
-📢 レース名: Ｃ１六
-📅 2026年08月11日</desc>
+📢 レース名: 公益社団法人日本軽種馬協会協賛
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811153000 +0900" stop="20260811160500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🐎 金沢 2R 15:40 Ｃ１五</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812152500 +0900" stop="20260812160000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 3R 15:35 ２歳 未勝利</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
-⏰ 発走予定: 15:40
+⏰ 発走予定: 15:35
 🏷️ 種別: 一般
-📢 レース名: Ｃ１五
-📅 2026年08月11日</desc>
+📢 レース名: ２歳 未勝利
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811160500 +0900" stop="20260811164000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🐎 金沢 3R 16:15 睦斗小学校入学＆紬ほし組おめでとうＣ１四</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812160000 +0900" stop="20260812163500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 4R 16:10 ３歳以上 Ｃ４－３</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
-⏰ 発走予定: 16:15
+⏰ 発走予定: 16:10
 🏷️ 種別: 一般
-📢 レース名: 睦斗小学校入学＆紬ほし組おめでとうＣ１四
-📅 2026年08月11日</desc>
+📢 レース名: ３歳以上 Ｃ４－３
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811164000 +0900" stop="20260811171500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🐎 金沢 4R 16:50 Ｃ１三</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812163500 +0900" stop="20260812171000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 5R 16:45 ＪＲＡ認定競走アタックチャレンジ競走</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
-⏰ 発走予定: 16:50
+⏰ 発走予定: 16:45
 🏷️ 種別: 一般
-📢 レース名: Ｃ１三
-📅 2026年08月11日</desc>
+📢 レース名: ＪＲＡ認定競走アタックチャレンジ競走
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811171500 +0900" stop="20260811175500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏇 金沢 5R 17:25 超光速微粒子の可能性杯Ｃ１二</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812171000 +0900" stop="20260812174000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🆕 門別 6R 17:20 ＪＲＡ認定競走フレッシュチャレンジ競走</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
-⏰ 発走予定: 17:25
+⏰ 発走予定: 17:20
+🏷️ 種別: 新馬
+📢 レース名: ＪＲＡ認定競走フレッシュチャレンジ競走
+📋 条件: 水
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812174000 +0900" stop="20260812181000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 7R 17:50 ３歳以上 Ｃ４－２</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:50
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－２
+📋 条件: 水
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812181000 +0900" stop="20260812184500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 8R 18:20 ３歳以上 Ｃ４－２</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:20
+🏷️ 種別: 一般
+📢 レース名: ３歳以上 Ｃ４－２
+📋 条件: 水
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812184500 +0900" stop="20260812192000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏇 門別 9R 18:55 クレオメ特別</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:55
 🏷️ 種別: 特別
-📢 レース名: 超光速微粒子の可能性杯Ｃ１二
-📅 2026年08月11日</desc>
+📢 レース名: クレオメ特別
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811175500 +0900" stop="20260811183500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏇 金沢 6R 18:05 楽天ポイントが貯まる！楽天競馬特Ｃ１Ｃ２</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812192000 +0900" stop="20260812195500 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🐎 門別 10R 19:30 グランシャリオドリーム４５</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
-⏰ 発走予定: 18:05
+⏰ 発走予定: 19:30
+🏷️ 種別: 一般
+📢 レース名: グランシャリオドリーム４５
+📋 条件: 水
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812195500 +0900" stop="20260812203000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏇 門別 11R 20:05 マリーゴールド特別</title>
+        <desc lang="ja">地方競馬 門別
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:05
 🏷️ 種別: 特別
-📢 レース名: 楽天ポイントが貯まる！楽天競馬特Ｃ１Ｃ２
-📅 2026年08月11日</desc>
+📢 レース名: マリーゴールド特別
+📋 条件: 水
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811183500 +0900" stop="20260811191000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🐎 金沢 7R 18:45 Ｂ２三</title>
-        <desc lang="ja">地方競馬 金沢
-🌙 開催区分: ナイター
-⏰ 発走予定: 18:45
-🏷️ 種別: 一般
-📢 レース名: Ｂ２三
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811191000 +0900" stop="20260811195000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🐎 金沢 8R 19:20 智聡＆夏生☆結婚半年記念Ｂ２二</title>
-        <desc lang="ja">地方競馬 金沢
-🌙 開催区分: ナイター
-⏰ 発走予定: 19:20
-🏷️ 種別: 一般
-📢 レース名: 智聡＆夏生☆結婚半年記念Ｂ２二
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811195000 +0900" stop="20260811203000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏆 MAIN 🏆 金沢 9R 20:00 読売レディス杯３歳上牝馬（地方全国交流）</title>
-        <desc lang="ja">地方競馬 金沢
-🌙 開催区分: ナイター
-⏰ 発走予定: 20:00
-🏷️ 種別: 重賞
-📢 レース名: 読売レディス杯３歳上牝馬（地方全国交流）
-🏆 メインレース
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811203000 +0900" stop="20260811211000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏇 金沢 10R 20:40 能登復興支援 木ノ浦海岸特別Ｂ２一</title>
-        <desc lang="ja">地方競馬 金沢
+    <programme start="20260812203000 +0900" stop="20260812211000 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏆 MAIN 🏇 門別 12R 20:40 リンドウ特別</title>
+        <desc lang="ja">地方競馬 門別
 🌙 開催区分: ナイター
 ⏰ 発走予定: 20:40
 🏷️ 種別: 特別
-📢 レース名: 能登復興支援 木ノ浦海岸特別Ｂ２一
-📅 2026年08月11日</desc>
+📢 レース名: リンドウ特別
+📋 条件: 水
+🏆 メインレース
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811211000 +0900" stop="20260811235900 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏁 終了 金沢 🌙ナイター</title>
-        <desc lang="ja">金沢の本日の競馬は終了しました。</desc>
+    <programme start="20260812211000 +0900" stop="20260812235900 +0900" channel="chihou.mombetsu">
+        <title lang="ja">🏁 終了 門別 🌙ナイター</title>
+        <desc lang="ja">門別の本日の競馬は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811103500 +0900" channel="chihou.kasamatsu">
+    <programme start="20260812010000 +0900" stop="20260812125000 +0900" channel="chihou.urawa">
+        <title lang="ja">⏳ 待機 浦和 🌇薄暮</title>
+        <desc lang="ja">地方競馬 浦和
+1R発走予定 13:10
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812130000 +0900" stop="20260812133000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 1R 13:10 サマードリームリレースタート賞３歳六</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 13:10
+🏷️ 種別: 特別
+📢 レース名: サマードリームリレースタート賞３歳六
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812133000 +0900" stop="20260812140000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 2R 13:40 ３歳五</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 13:40
+🏷️ 種別: 一般
+📢 レース名: ３歳五
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812140000 +0900" stop="20260812143000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 3R 14:10 ３歳四</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 14:10
+🏷️ 種別: 一般
+📢 レース名: ３歳四
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812143000 +0900" stop="20260812150500 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 4R 14:40 特選Ｃ３二 三</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 14:40
+🏷️ 種別: 一般
+📢 レース名: 特選Ｃ３二 三
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812150500 +0900" stop="20260812154000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 5R 15:15 特選Ｃ３二 三</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 15:15
+🏷️ 種別: 一般
+📢 レース名: 特選Ｃ３二 三
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812154000 +0900" stop="20260812161500 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 6R 15:50 Ｃ２選抜馬イ</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 15:50
+🏷️ 種別: 一般
+📢 レース名: Ｃ２選抜馬イ
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812161500 +0900" stop="20260812165000 +0900" channel="chihou.urawa">
+        <title lang="ja">🐎 浦和 7R 16:25 浦和×大井 サマードリームリＣ１イＣ２ア</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 16:25
+🏷️ 種別: 一般
+📢 レース名: 浦和×大井 サマードリームリＣ１イＣ２ア
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812165000 +0900" stop="20260812172500 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 8R 17:00 夕涼み特別Ｃ３選抜馬イ</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 17:00
+🏷️ 種別: 特別
+📢 レース名: 夕涼み特別Ｃ３選抜馬イ
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812172500 +0900" stop="20260812180000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 9R 17:35 ほおずき特別Ｃ２一</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 17:35
+🏷️ 種別: 特別
+📢 レース名: ほおずき特別Ｃ２一
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812180000 +0900" stop="20260812183500 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 10R 18:10 秋風月特別Ｂ３三Ｃ１一</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 18:10
+🏷️ 種別: 特別
+📢 レース名: 秋風月特別Ｂ３三Ｃ１一
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812183500 +0900" stop="20260812191000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏆 MAIN ⭐ 浦和 11R 18:45 ’２６ヴィーナスサマースプリント３上牝馬</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 18:45
+🏷️ 種別: 準重賞
+📢 レース名: ’２６ヴィーナスサマースプリント３上牝馬
+🏆 メインレース
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812191000 +0900" stop="20260812195000 +0900" channel="chihou.urawa">
+        <title lang="ja">🏇 浦和 12R 19:20 盆の月特別Ｂ２Ｂ３選抜馬</title>
+        <desc lang="ja">地方競馬 浦和
+🌇 開催区分: 薄暮
+⏰ 発走予定: 19:20
+🏷️ 種別: 特別
+📢 レース名: 盆の月特別Ｂ２Ｂ３選抜馬
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812195000 +0900" stop="20260812235900 +0900" channel="chihou.urawa">
+        <title lang="ja">🏁 終了 浦和 🌇薄暮</title>
+        <desc lang="ja">浦和の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812151000 +0900" channel="chihou.oi">
+        <title lang="ja">⏳ 待機 大井 🌙ナイター</title>
+        <desc lang="ja">地方競馬 大井
+1R発走予定 15:30
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812152000 +0900" stop="20260812155500 +0900" channel="chihou.oi">
+        <title lang="ja">🐎 大井 1R 15:30 ３歳九 十１１</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:30
+🏷️ 種別: 一般
+📢 レース名: ３歳九 十１１
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812155500 +0900" stop="20260812163000 +0900" channel="chihou.oi">
+        <title lang="ja">🆕 大井 2R 16:05 ２歳新馬</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:05
+🏷️ 種別: 新馬
+📢 レース名: ２歳新馬
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812163000 +0900" stop="20260812170500 +0900" channel="chihou.oi">
+        <title lang="ja">🆕 大井 3R 16:40 ２歳新馬</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:40
+🏷️ 種別: 新馬
+📢 レース名: ２歳新馬
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812170500 +0900" stop="20260812174000 +0900" channel="chihou.oi">
+        <title lang="ja">🐎 大井 4R 17:15 ３歳九 十１１</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:15
+🏷️ 種別: 一般
+📢 レース名: ３歳九 十１１
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812174000 +0900" stop="20260812181500 +0900" channel="chihou.oi">
+        <title lang="ja">🐎 大井 5R 17:50 ３歳九 十１１</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:50
+🏷️ 種別: 一般
+📢 レース名: ３歳九 十１１
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812181500 +0900" stop="20260812185000 +0900" channel="chihou.oi">
+        <title lang="ja">🏇 大井 6R 18:25 ブラック・ベルベット賞Ｃ１七 八</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:25
+🏷️ 種別: 特別
+📢 レース名: ブラック・ベルベット賞Ｃ１七 八
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812185000 +0900" stop="20260812192500 +0900" channel="chihou.oi">
+        <title lang="ja">🏇 大井 7R 19:00 はくちょう座特別Ｃ２選抜牝馬</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:00
+🏷️ 種別: 特別
+📢 レース名: はくちょう座特別Ｃ２選抜牝馬
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812192500 +0900" stop="20260812200000 +0900" channel="chihou.oi">
+        <title lang="ja">🐎 大井 8R 19:35 Ｃ１七 八</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:35
+🏷️ 種別: 一般
+📢 レース名: Ｃ１七 八
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812200000 +0900" stop="20260812204000 +0900" channel="chihou.oi">
+        <title lang="ja">🏇 大井 9R 20:10 武蔵野オープン３上特別</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:10
+🏷️ 種別: 特別
+📢 レース名: 武蔵野オープン３上特別
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812204000 +0900" stop="20260812212000 +0900" channel="chihou.oi">
+        <title lang="ja">🏆 MAIN 🏇 大井 10R 20:50 トゥインクルバースデー賞Ｂ３三選抜特別</title>
+        <desc lang="ja">地方競馬 大井
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:50
+🏷️ 種別: 特別
+📢 レース名: トゥインクルバースデー賞Ｂ３三選抜特別
+🏆 メインレース
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812212000 +0900" stop="20260812235900 +0900" channel="chihou.oi">
+        <title lang="ja">🏁 終了 大井 🌙ナイター</title>
+        <desc lang="ja">大井の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812103500 +0900" channel="chihou.kasamatsu">
         <title lang="ja">⏳ 待機 笠松 ☀️デイ</title>
         <desc lang="ja">地方競馬 笠松
 1R発走予定 10:55
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811104500 +0900" stop="20260811111500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏇 笠松 1R 10:55 私の青春☆アクセル全開！杯Ｃ１４</title>
+    <programme start="20260812104500 +0900" stop="20260812111500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 1R 10:55 ３歳未勝利３歳１１</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 10:55
-🏷️ 種別: 特別
-📢 レース名: 私の青春☆アクセル全開！杯Ｃ１４
-📅 2026年08月11日</desc>
+🏷️ 種別: 一般
+📢 レース名: ３歳未勝利３歳１１
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811111500 +0900" stop="20260811115000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🐎 笠松 2R 11:25 岡崎忠史祝五十歳人生大逃げ競争Ｃ１５</title>
+    <programme start="20260812111500 +0900" stop="20260812114500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 2R 11:25 好きです笠松競馬３歳８</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 11:25
 🏷️ 種別: 一般
-📢 レース名: 岡崎忠史祝五十歳人生大逃げ競争Ｃ１５
-📅 2026年08月11日</desc>
+📢 レース名: 好きです笠松競馬３歳８
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811115000 +0900" stop="20260811122500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏇 笠松 3R 12:00 隼人＆結花☆結婚記念杯☆３歳１０</title>
+    <programme start="20260812114500 +0900" stop="20260812122000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 3R 11:55 佐々木英文生誕記念３歳７</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
-⏰ 発走予定: 12:00
-🏷️ 種別: 特別
-📢 レース名: 隼人＆結花☆結婚記念杯☆３歳１０
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811122500 +0900" stop="20260811125500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🐎 笠松 4R 12:35 ななさん、ききさん卒業記念３歳９</title>
-        <desc lang="ja">地方競馬 笠松
-☀️ 開催区分: デイ
-⏰ 発走予定: 12:35
+⏰ 発走予定: 11:55
 🏷️ 種別: 一般
-📢 レース名: ななさん、ききさん卒業記念３歳９
-📅 2026年08月11日</desc>
+📢 レース名: 佐々木英文生誕記念３歳７
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811125500 +0900" stop="20260811133000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🐎 笠松 5R 13:05 アンダーグラフ来場記念Ｃ１３</title>
+    <programme start="20260812122000 +0900" stop="20260812125000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 4R 12:30 第１回水田帰省記念３歳６</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
-⏰ 発走予定: 13:05
+⏰ 発走予定: 12:30
 🏷️ 種別: 一般
-📢 レース名: アンダーグラフ来場記念Ｃ１３
-📅 2026年08月11日</desc>
+📢 レース名: 第１回水田帰省記念３歳６
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811133000 +0900" stop="20260811140500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏇 笠松 6R 13:40 ヤクルトマーケティング東海杯Ｃ１２</title>
+    <programme start="20260812125000 +0900" stop="20260812132500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 5R 13:00 第２１回岡田みなも生誕記念３歳５</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
-⏰ 発走予定: 13:40
-🏷️ 種別: 特別
-📢 レース名: ヤクルトマーケティング東海杯Ｃ１２
-📅 2026年08月11日</desc>
+⏰ 発走予定: 13:00
+🏷️ 種別: 一般
+📢 レース名: 第２１回岡田みなも生誕記念３歳５
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811140500 +0900" stop="20260811144000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🐎 笠松 7R 14:15 サスケ来場記念Ｂ３</title>
+    <programme start="20260812132500 +0900" stop="20260812140500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 6R 13:35 くろゆり賞抽選会実施記念Ｂ６</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:35
+🏷️ 種別: 特別
+📢 レース名: くろゆり賞抽選会実施記念Ｂ６
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812140500 +0900" stop="20260812144000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🐎 笠松 7R 14:15 亜咲花ミニライブ記念Ｂ５</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:15
 🏷️ 種別: 一般
-📢 レース名: サスケ来場記念Ｂ３
-📅 2026年08月11日</desc>
+📢 レース名: 亜咲花ミニライブ記念Ｂ５
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811144000 +0900" stop="20260811151000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏇 笠松 8R 14:50 スマホで投票！楽天競馬賞Ａ４Ｂ２特別</title>
+    <programme start="20260812144000 +0900" stop="20260812151500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 8R 14:50 ＷＥＢ特別番組配信中Ｂ４</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
 ⏰ 発走予定: 14:50
 🏷️ 種別: 特別
-📢 レース名: スマホで投票！楽天競馬賞Ａ４Ｂ２特別
-📅 2026年08月11日</desc>
+📢 レース名: ＷＥＢ特別番組配信中Ｂ４
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811151000 +0900" stop="20260811154500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏇 笠松 9R 15:20 蛍光特別Ｂ１－２</title>
+    <programme start="20260812151500 +0900" stop="20260812155000 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 9R 15:25 ささゆり特別Ａ３</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:20
+⏰ 発走予定: 15:25
 🏷️ 種別: 特別
-📢 レース名: 蛍光特別Ｂ１－２
-📅 2026年08月11日</desc>
+📢 レース名: ささゆり特別Ａ３
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811154500 +0900" stop="20260811161500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏆 MAIN 🏇 笠松 10R 15:55 蛍火特別Ｂ１－１</title>
+    <programme start="20260812155000 +0900" stop="20260812162500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏇 笠松 10R 16:00 岐阜美少女図鑑しろゆり賞Ａ２特別</title>
         <desc lang="ja">地方競馬 笠松
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:55
+⏰ 発走予定: 16:00
 🏷️ 種別: 特別
-📢 レース名: 蛍火特別Ｂ１－１
+📢 レース名: 岐阜美少女図鑑しろゆり賞Ａ２特別
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812162500 +0900" stop="20260812170500 +0900" channel="chihou.kasamatsu">
+        <title lang="ja">🏆 MAIN 🏆 笠松 11R 16:35 くろゆり賞３歳以上・オープン</title>
+        <desc lang="ja">地方競馬 笠松
+☀️ 開催区分: デイ
+⏰ 発走予定: 16:35
+🏷️ 種別: 重賞
+📢 レース名: くろゆり賞３歳以上・オープン
 🏆 メインレース
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811161500 +0900" stop="20260811165500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🐎 笠松 11R 16:25 Ｂ級サバイバル選抜</title>
-        <desc lang="ja">地方競馬 笠松
-☀️ 開催区分: デイ
-⏰ 発走予定: 16:25
-🏷️ 種別: 一般
-📢 レース名: Ｂ級サバイバル選抜
-📅 2026年08月11日</desc>
-    </programme>
-    <programme start="20260811165500 +0900" stop="20260811235900 +0900" channel="chihou.kasamatsu">
+    <programme start="20260812170500 +0900" stop="20260812235900 +0900" channel="chihou.kasamatsu">
         <title lang="ja">🏁 終了 笠松 ☀️デイ</title>
         <desc lang="ja">笠松の本日の競馬は終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.obihiro">
+    <programme start="20260812010000 +0900" stop="20260812102500 +0900" channel="chihou.sonoda">
+        <title lang="ja">⏳ 待機 園田 ☀️デイ</title>
+        <desc lang="ja">地方競馬 園田
+1R発走予定 10:45
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812103500 +0900" stop="20260812110500 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 1R 10:45 Ｃ３三３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 10:45
+🏷️ 種別: 一般
+📢 レース名: Ｃ３三３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812110500 +0900" stop="20260812113500 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 2R 11:15 Ｃ３二３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 11:15
+🏷️ 種別: 一般
+📢 レース名: Ｃ３二３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812113500 +0900" stop="20260812120500 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 3R 11:45 Ｃ３一３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 11:45
+🏷️ 種別: 一般
+📢 レース名: Ｃ３一３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812120500 +0900" stop="20260812124000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 4R 12:15 莇原８．５ハロンＣ３ ３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:15
+🏷️ 種別: 一般
+📢 レース名: 莇原８．５ハロンＣ３ ３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812124000 +0900" stop="20260812131000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 5R 12:50 芝田７ハロンＣ２二３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 12:50
+🏷️ 種別: 一般
+📢 レース名: 芝田７ハロンＣ２二３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812131000 +0900" stop="20260812134000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 6R 13:20 Ｃ２一３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:20
+🏷️ 種別: 一般
+📢 レース名: Ｃ２一３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812134000 +0900" stop="20260812141500 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 7R 13:50 Ｃ１三３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 13:50
+🏷️ 種別: 一般
+📢 レース名: Ｃ１三３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812141500 +0900" stop="20260812145000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🏇 園田 8R 14:25 Ｊ認 アッパートライ２歳特別</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 14:25
+🏷️ 種別: 特別
+📢 レース名: Ｊ認 アッパートライ２歳特別
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812145000 +0900" stop="20260812153000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 9R 15:00 Ｃ１二３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 15:00
+🏷️ 種別: 一般
+📢 レース名: Ｃ１二３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812153000 +0900" stop="20260812160500 +0900" channel="chihou.sonoda">
+        <title lang="ja">🐎 園田 10R 15:40 Ｃ１一３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 15:40
+🏷️ 種別: 一般
+📢 レース名: Ｃ１一３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812160500 +0900" stop="20260812164000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🏇 園田 11R 16:15 たつの赤とんぼ特別Ｂ１ ３歳以上</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 16:15
+🏷️ 種別: 特別
+📢 レース名: たつの赤とんぼ特別Ｂ１ ３歳以上
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812164000 +0900" stop="20260812172000 +0900" channel="chihou.sonoda">
+        <title lang="ja">🏆 MAIN 🏇 園田 12R 16:50 Ｃ２ ３歳以上特別</title>
+        <desc lang="ja">地方競馬 園田
+☀️ 開催区分: デイ
+⏰ 発走予定: 16:50
+🏷️ 種別: 特別
+📢 レース名: Ｃ２ ３歳以上特別
+🏆 メインレース
+📅 2026年08月12日</desc>
+    </programme>
+    <programme start="20260812172000 +0900" stop="20260812235900 +0900" channel="chihou.sonoda">
+        <title lang="ja">🏁 終了 園田 ☀️デイ</title>
+        <desc lang="ja">園田の本日の競馬は終了しました。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.obihiro">
         <title lang="ja">💤 本日非開催 帯広（競馬）</title>
         <desc lang="ja">本日は帯広のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.mizusawa">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.morioka">
+        <title lang="ja">💤 本日非開催 盛岡（競馬）</title>
+        <desc lang="ja">本日は盛岡のレース情報を取得していません。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.mizusawa">
         <title lang="ja">💤 本日非開催 水沢（競馬）</title>
         <desc lang="ja">本日は水沢のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.funabashi">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.funabashi">
         <title lang="ja">💤 本日非開催 船橋（競馬）</title>
         <desc lang="ja">本日は船橋のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.oi">
-        <title lang="ja">💤 本日非開催 大井（競馬）</title>
-        <desc lang="ja">本日は大井のレース情報を取得していません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.kawasaki_keiba">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.kawasaki_keiba">
         <title lang="ja">💤 本日非開催 川崎（競馬）</title>
         <desc lang="ja">本日は川崎のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.nagoya_keiba">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.kanazawa">
+        <title lang="ja">💤 本日非開催 金沢（競馬）</title>
+        <desc lang="ja">本日は金沢のレース情報を取得していません。</desc>
+    </programme>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.nagoya_keiba">
         <title lang="ja">💤 本日非開催 名古屋（競馬）</title>
         <desc lang="ja">本日は名古屋のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.sonoda">
-        <title lang="ja">💤 本日非開催 園田（競馬）</title>
-        <desc lang="ja">本日は園田のレース情報を取得していません。</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.himeji">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.himeji">
         <title lang="ja">💤 本日非開催 姫路（競馬）</title>
         <desc lang="ja">本日は姫路のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.kochi_keiba">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.kochi_keiba">
         <title lang="ja">💤 本日非開催 高知（競馬）</title>
         <desc lang="ja">本日は高知のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="chihou.saga">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.saga">
         <title lang="ja">💤 本日非開催 佐賀（競馬）</title>
         <desc lang="ja">本日は佐賀のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.sapporo">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.sapporo">
         <title lang="ja">💤 本日非開催 札幌（競馬）</title>
         <desc lang="ja">本日は札幌のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.niigata">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.niigata">
         <title lang="ja">💤 本日非開催 新潟（競馬）</title>
         <desc lang="ja">本日は新潟のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="jra.chukyo">
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.chukyo">
         <title lang="ja">💤 本日非開催 中京（競馬）</title>
         <desc lang="ja">本日は中京のレース情報を取得していません。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811140100 +0900" channel="auto.isesaki">
+    <programme start="20260812010000 +0900" stop="20260812140100 +0900" channel="auto.isesaki">
         <title lang="ja">⏳ 待機 伊勢崎 🌙ナイター</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
-開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+）
 初日
 1R発走予定 14:21
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811141300 +0900" stop="20260811144300 +0900" channel="auto.isesaki">
-        <title lang="ja">🏍️ 伊勢崎 1R 14:21 オートレースＧＰ開幕戦</title>
+    <programme start="20260812141300 +0900" stop="20260812144300 +0900" channel="auto.isesaki">
+        <title lang="ja">🏍️ 伊勢崎 1R 14:21 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 14:21
-🏷️ 種別: 一般戦
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+🏷️ 種別: 予選
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811144300 +0900" stop="20260811151400 +0900" channel="auto.isesaki">
+    <programme start="20260812144300 +0900" stop="20260812151400 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 2R 14:51 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 14:51
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811151400 +0900" stop="20260811154500 +0900" channel="auto.isesaki">
+    <programme start="20260812151400 +0900" stop="20260812154500 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 3R 15:22 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 15:22
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811154500 +0900" stop="20260811161700 +0900" channel="auto.isesaki">
+    <programme start="20260812154500 +0900" stop="20260812161700 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 4R 15:53 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 15:53
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811161700 +0900" stop="20260811164900 +0900" channel="auto.isesaki">
+    <programme start="20260812161700 +0900" stop="20260812164900 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 5R 16:25 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 16:25
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811164900 +0900" stop="20260811172200 +0900" channel="auto.isesaki">
+    <programme start="20260812164900 +0900" stop="20260812172200 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 6R 16:57 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 16:57
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811172200 +0900" stop="20260811175500 +0900" channel="auto.isesaki">
+    <programme start="20260812172200 +0900" stop="20260812175500 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 7R 17:30 グレードレース７</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 17:30
 🏷️ 種別: 一般戦
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811175500 +0900" stop="20260811183100 +0900" channel="auto.isesaki">
+    <programme start="20260812175500 +0900" stop="20260812183100 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 8R 18:03 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 18:03
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811183100 +0900" stop="20260811190700 +0900" channel="auto.isesaki">
+    <programme start="20260812183100 +0900" stop="20260812190700 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 9R 18:39 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 18:39
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811190700 +0900" stop="20260811194400 +0900" channel="auto.isesaki">
+    <programme start="20260812190700 +0900" stop="20260812194400 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 10R 19:15 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 19:15
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811194400 +0900" stop="20260811202200 +0900" channel="auto.isesaki">
+    <programme start="20260812194400 +0900" stop="20260812202200 +0900" channel="auto.isesaki">
         <title lang="ja">🏍️ 伊勢崎 11R 19:52 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 19:52
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811202200 +0900" stop="20260811205500 +0900" channel="auto.isesaki">
+    <programme start="20260812202200 +0900" stop="20260812205500 +0900" channel="auto.isesaki">
         <title lang="ja">🏆 MAIN 🏍️ 伊勢崎 12R 20:30 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 20:30
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811205500 +0900" stop="20260811235900 +0900" channel="auto.isesaki">
+    <programme start="20260812205500 +0900" stop="20260812235900 +0900" channel="auto.isesaki">
         <title lang="ja">🏁 終了 伊勢崎 🌙ナイター</title>
         <desc lang="ja">伊勢崎の本日のオートレースは終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811091400 +0900" channel="auto.hamamatsu">
+    <programme start="20260812010000 +0900" stop="20260812091400 +0900" channel="auto.hamamatsu">
         <title lang="ja">⏳ 待機 浜松 🌅アーリー</title>
         <desc lang="ja">🏍️ オートレース 浜松
-開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+）
 初日
 1R発走予定 09:34
-📅 2026年08月11日</desc>
+📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260811092600 +0900" stop="20260811095400 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 1R 09:34 予選</title>
+    <programme start="20260812092600 +0900" stop="20260812095400 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 1R 09:34 二次予選Ｂ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 09:34
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811095400 +0900" stop="20260811102200 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 2R 10:02 予選</title>
+    <programme start="20260812095400 +0900" stop="20260812102200 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 2R 10:02 二次予選Ｂ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 10:02
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811102200 +0900" stop="20260811105000 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 3R 10:30 予選</title>
+    <programme start="20260812102200 +0900" stop="20260812105000 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 3R 10:30 二次予選Ｂ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 10:30
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811105000 +0900" stop="20260811111800 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 4R 10:58 予選</title>
+    <programme start="20260812105000 +0900" stop="20260812111800 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 4R 10:58 二次予選Ｂ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 10:58
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811111800 +0900" stop="20260811114700 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 5R 11:26 予選</title>
+    <programme start="20260812111800 +0900" stop="20260812114700 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 5R 11:26 二次予選Ａ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 11:26
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811114700 +0900" stop="20260811121700 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 6R 11:55 予選</title>
+    <programme start="20260812114700 +0900" stop="20260812121700 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 6R 11:55 二次予選Ａ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 11:55
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811121700 +0900" stop="20260811124900 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 7R 12:25 予選</title>
+    <programme start="20260812121700 +0900" stop="20260812124900 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 7R 12:25 二次予選Ａ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 12:25
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811124900 +0900" stop="20260811132200 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏍️ 浜松 8R 12:57 予選</title>
+    <programme start="20260812124900 +0900" stop="20260812132200 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏍️ 浜松 8R 12:57 二次予選Ａ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 12:57
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日</desc>
     </programme>
-    <programme start="20260811132200 +0900" stop="20260811135500 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏆 MAIN 🏍️ 浜松 9R 13:30 予選</title>
+    <programme start="20260812132200 +0900" stop="20260812135500 +0900" channel="auto.hamamatsu">
+        <title lang="ja">🏆 MAIN 🏍️ 浜松 9R 13:30 二次予選Ａ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 13:30
 🏷️ 種別: 予選
-📢 開催名: 開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース
+📢 開催名: ）
 📅 開催日次: 初日
 🏆 メインレース</desc>
     </programme>
-    <programme start="20260811135500 +0900" stop="20260811235900 +0900" channel="auto.hamamatsu">
+    <programme start="20260812135500 +0900" stop="20260812235900 +0900" channel="auto.hamamatsu">
         <title lang="ja">🏁 終了 浜松 🌅アーリー</title>
         <desc lang="ja">浜松の本日のオートレースは終了しました。</desc>
     </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.kiryu">
-        <title lang="ja">📅 01 桐生 ボートレース</title>
-        <desc lang="ja">2026年08月11日 01 桐生 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.toda">
-        <title lang="ja">📅 02 戸田 ボートレース</title>
-        <desc lang="ja">2026年08月11日 02 戸田 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.edogawa">
-        <title lang="ja">📅 03 江戸川 ボートレース</title>
-        <desc lang="ja">2026年08月11日 03 江戸川 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.heiwajima">
-        <title lang="ja">📅 04 平和島 ボートレース</title>
-        <desc lang="ja">2026年08月11日 04 平和島 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.tamagawa">
-        <title lang="ja">📅 05 多摩川 ボートレース</title>
-        <desc lang="ja">2026年08月11日 05 多摩川 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.hamanako">
-        <title lang="ja">📅 06 浜名湖 ボートレース</title>
-        <desc lang="ja">2026年08月11日 06 浜名湖 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.gamagori">
-        <title lang="ja">📅 07 蒲郡 ボートレース</title>
-        <desc lang="ja">2026年08月11日 07 蒲郡 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.tokoname">
-        <title lang="ja">📅 08 常滑 ボートレース</title>
-        <desc lang="ja">2026年08月11日 08 常滑 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.tsu">
-        <title lang="ja">📅 09 津 ボートレース</title>
-        <desc lang="ja">2026年08月11日 09 津 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.mikuni">
-        <title lang="ja">📅 10 三国 ボートレース</title>
-        <desc lang="ja">2026年08月11日 10 三国 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.biwako">
-        <title lang="ja">📅 11 びわこ ボートレース</title>
-        <desc lang="ja">2026年08月11日 11 びわこ ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.suminoe">
-        <title lang="ja">📅 12 住之江 ボートレース</title>
-        <desc lang="ja">2026年08月11日 12 住之江 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.amagasaki">
-        <title lang="ja">📅 13 尼崎 ボートレース</title>
-        <desc lang="ja">2026年08月11日 13 尼崎 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.naruto">
-        <title lang="ja">📅 14 鳴門 ボートレース</title>
-        <desc lang="ja">2026年08月11日 14 鳴門 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.marugame">
-        <title lang="ja">📅 15 丸亀 ボートレース</title>
-        <desc lang="ja">2026年08月11日 15 丸亀 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.kojima">
-        <title lang="ja">📅 16 児島 ボートレース</title>
-        <desc lang="ja">2026年08月11日 16 児島 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.miyajima">
-        <title lang="ja">📅 17 宮島 ボートレース</title>
-        <desc lang="ja">2026年08月11日 17 宮島 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.tokuyama">
-        <title lang="ja">📅 18 徳山 ボートレース</title>
-        <desc lang="ja">2026年08月11日 18 徳山 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">📅 19 下関 ボートレース</title>
-        <desc lang="ja">2026年08月11日 19 下関 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.wakamatsu">
-        <title lang="ja">📅 20 若松 ボートレース</title>
-        <desc lang="ja">2026年08月11日 20 若松 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.ashiya">
-        <title lang="ja">📅 21 芦屋 ボートレース</title>
-        <desc lang="ja">2026年08月11日 21 芦屋 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.fukuoka">
-        <title lang="ja">📅 22 福岡 ボートレース</title>
-        <desc lang="ja">2026年08月11日 22 福岡 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.karatsu">
-        <title lang="ja">📅 23 唐津 ボートレース</title>
-        <desc lang="ja">2026年08月11日 23 唐津 ボートレース</desc>
-    </programme>
-    <programme start="20260811010000 +0900" stop="20260811235900 +0900" channel="boat.omura">
-        <title lang="ja">📅 24 大村 ボートレース</title>
-        <desc lang="ja">2026年08月11日 24 大村 ボートレース</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.hakodate">
-        <title lang="ja">💤 本日非開催 函館（競輪）</title>
-        <desc lang="ja">本日は函館での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812203000 +0900" channel="keirin.aomori">
-        <title lang="ja">⏳ 待機 青森 (⭐ミッドナイト 1R 20:40開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
-🏆 グレード: FII
-✨ ガールズ: なし
-📢 内容: FII AI競輪も大人気チャリロト杯 初日
-⏰ 時間: 20:40 - 23:40
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812203000 +0900" stop="20260812235000 +0900" channel="keirin.aomori">
-        <title lang="ja">【FII】 🔴 LIVE 青森 ⭐ミッドナイト 初日 （競輪）</title>
-        <desc lang="ja">🚲 開催地: 青森 (ミッドナイト)
-🏆 グレード: FII
-✨ ガールズ: なし
-📢 内容: FII AI競輪も大人気チャリロト杯 初日
-⏰ 時間: 20:40 - 23:40
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812235000 +0900" stop="20260812235900 +0900" channel="keirin.aomori">
-        <title lang="ja">🏁 終了 青森 (⭐ミッドナイト)（競輪）</title>
-        <desc lang="ja">青森 (ミッドナイト) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.iwakitaira">
-        <title lang="ja">💤 本日非開催 いわき平（競輪）</title>
-        <desc lang="ja">本日はいわき平での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812102000 +0900" channel="keirin.yahiko">
-        <title lang="ja">⏳ 待機 弥彦 (☀️デイ 1R 10:30開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 弥彦 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI KEIRINライジングスターズ 2日目
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812102000 +0900" stop="20260812164000 +0900" channel="keirin.yahiko">
-        <title lang="ja">【FI】 🔴 LIVE 弥彦 ☀️デイ 2日目 （競輪）</title>
-        <desc lang="ja">🚲 開催地: 弥彦 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI KEIRINライジングスターズ 2日目
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812164000 +0900" stop="20260812235900 +0900" channel="keirin.yahiko">
-        <title lang="ja">🏁 終了 弥彦 (☀️デイ)（競輪）</title>
-        <desc lang="ja">弥彦 (デイ) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.maebashi">
-        <title lang="ja">💤 本日非開催 前橋（競輪）</title>
-        <desc lang="ja">本日は前橋での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.toride">
-        <title lang="ja">💤 本日非開催 取手（競輪）</title>
-        <desc lang="ja">本日は取手での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.utsunomiya">
-        <title lang="ja">💤 本日非開催 宇都宮（競輪）</title>
-        <desc lang="ja">本日は宇都宮での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.omiya">
-        <title lang="ja">💤 本日非開催 大宮（競輪）</title>
-        <desc lang="ja">本日は大宮での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.seibuen">
-        <title lang="ja">💤 本日非開催 西武園（競輪）</title>
-        <desc lang="ja">本日は西武園での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.keiogatsu">
-        <title lang="ja">💤 本日非開催 京王閣（競輪）</title>
-        <desc lang="ja">本日は京王閣での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.tachikawa">
-        <title lang="ja">💤 本日非開催 立川（競輪）</title>
-        <desc lang="ja">本日は立川での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.matsudo">
-        <title lang="ja">💤 本日非開催 松戸（競輪）</title>
-        <desc lang="ja">本日は松戸での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.kawasaki">
-        <title lang="ja">💤 本日非開催 川崎（競輪）</title>
-        <desc lang="ja">本日は川崎での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.hiratsuka">
-        <title lang="ja">💤 本日非開催 平塚（競輪）</title>
-        <desc lang="ja">本日は平塚での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.odawara">
-        <title lang="ja">💤 本日非開催 小田原（競輪）</title>
-        <desc lang="ja">本日は小田原での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.ito">
-        <title lang="ja">💤 本日非開催 伊東（競輪）</title>
-        <desc lang="ja">本日は伊東での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.shizuoka">
-        <title lang="ja">💤 本日非開催 静岡（競輪）</title>
-        <desc lang="ja">本日は静岡での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.nagoya">
-        <title lang="ja">💤 本日非開催 名古屋（競輪）</title>
-        <desc lang="ja">本日は名古屋での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812084000 +0900" channel="keirin.gifu">
-        <title lang="ja">⏳ 待機 岐阜 (🌅モーニング 1R 08:50開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
-🏆 グレード: FII
-✨ ガールズ: なし
-📢 内容: FII 前検日コメならウィンチケット杯 初日
-⏰ 時間: 08:50 - 11:55
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812084000 +0900" stop="20260812120500 +0900" channel="keirin.gifu">
-        <title lang="ja">【FII】 🔴 LIVE 岐阜 🌅モーニング 初日 （競輪）</title>
-        <desc lang="ja">🚲 開催地: 岐阜 (モーニング)
-🏆 グレード: FII
-✨ ガールズ: なし
-📢 内容: FII 前検日コメならウィンチケット杯 初日
-⏰ 時間: 08:50 - 11:55
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812120500 +0900" stop="20260812235900 +0900" channel="keirin.gifu">
-        <title lang="ja">🏁 終了 岐阜 (🌅モーニング)（競輪）</title>
-        <desc lang="ja">岐阜 (モーニング) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.ogaki">
-        <title lang="ja">💤 本日非開催 大垣（競輪）</title>
-        <desc lang="ja">本日は大垣での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.toyohashi">
-        <title lang="ja">💤 本日非開催 豊橋（競輪）</title>
-        <desc lang="ja">本日は豊橋での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.matsusaka">
-        <title lang="ja">💤 本日非開催 松阪（競輪）</title>
-        <desc lang="ja">本日は松阪での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.yokkaichi">
-        <title lang="ja">💤 本日非開催 四日市（競輪）</title>
-        <desc lang="ja">本日は四日市での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812102000 +0900" channel="keirin.toyama">
-        <title lang="ja">⏳ 待機 富山 (☀️デイ 1R 10:30開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 富山 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI 仲間と繋がるTIPSTAR杯 最終日
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812102000 +0900" stop="20260812164000 +0900" channel="keirin.toyama">
-        <title lang="ja">【FI】 🔴 LIVE 富山 ☀️デイ 最終日 （競輪）</title>
-        <desc lang="ja">🚲 開催地: 富山 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI 仲間と繋がるTIPSTAR杯 最終日
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812164000 +0900" stop="20260812235900 +0900" channel="keirin.toyama">
-        <title lang="ja">🏁 終了 富山 (☀️デイ)（競輪）</title>
-        <desc lang="ja">富山 (デイ) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.fukui">
-        <title lang="ja">💤 本日非開催 福井（競輪）</title>
-        <desc lang="ja">本日は福井での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.nara">
-        <title lang="ja">💤 本日非開催 奈良（競輪）</title>
-        <desc lang="ja">本日は奈良での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.kishiwada">
-        <title lang="ja">💤 本日非開催 岸和田（競輪）</title>
-        <desc lang="ja">本日は岸和田での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.wakayama">
-        <title lang="ja">💤 本日非開催 和歌山（競輪）</title>
-        <desc lang="ja">本日は和歌山での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.tamano">
-        <title lang="ja">💤 本日非開催 玉野（競輪）</title>
-        <desc lang="ja">本日は玉野での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.hiroshima">
-        <title lang="ja">💤 本日非開催 広島（競輪）</title>
-        <desc lang="ja">本日は広島での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.hofu">
-        <title lang="ja">💤 本日非開催 防府（競輪）</title>
-        <desc lang="ja">本日は防府での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.komatsushima">
-        <title lang="ja">💤 本日非開催 小松島（競輪）</title>
-        <desc lang="ja">本日は小松島での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812150500 +0900" channel="keirin.matsuyama">
-        <title lang="ja">⏳ 待機 松山 (🌙ナイター 1R 15:15開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 松山 (ナイター)
-🏆 グレード: GI
-✨ ガールズ: あり 💛
-📢 内容: GI オールスター競輪 2日目
-⏰ 時間: 15:15 - 20:50
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812150500 +0900" stop="20260812210000 +0900" channel="keirin.matsuyama">
-        <title lang="ja">【GI】 🔴 LIVE 松山 🌙ナイター 2日目 💛ガールズ （競輪）</title>
-        <desc lang="ja">🚲 開催地: 松山 (ナイター)
-🏆 グレード: GI
-✨ ガールズ: あり 💛
-📢 内容: GI オールスター競輪 2日目
-⏰ 時間: 15:15 - 20:50
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812210000 +0900" stop="20260812235900 +0900" channel="keirin.matsuyama">
-        <title lang="ja">🏁 終了 松山 (🌙ナイター)（競輪）</title>
-        <desc lang="ja">松山 (ナイター) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.kochi">
-        <title lang="ja">💤 本日非開催 高知（競輪）</title>
-        <desc lang="ja">本日は高知での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.takamatsu">
-        <title lang="ja">💤 本日非開催 高松（競輪）</title>
-        <desc lang="ja">本日は高松での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.mukomachi">
-        <title lang="ja">💤 本日非開催 向日町（競輪）</title>
-        <desc lang="ja">本日は向日町での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.kokura">
-        <title lang="ja">💤 本日非開催 小倉（競輪）</title>
-        <desc lang="ja">本日は小倉での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.kurume">
-        <title lang="ja">💤 本日非開催 久留米（競輪）</title>
-        <desc lang="ja">本日は久留米での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812203000 +0900" channel="keirin.takeo">
-        <title lang="ja">⏳ 待機 武雄 (⭐ミッドナイト 1R 20:40開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
-🏆 グレード: FII
-✨ ガールズ: あり 💛
-📢 内容: FII 前検日コメならウィンチケット杯 初日
-⏰ 時間: 20:40 - 23:40
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812203000 +0900" stop="20260812235000 +0900" channel="keirin.takeo">
-        <title lang="ja">【FII】 🔴 LIVE 武雄 ⭐ミッドナイト 初日 💛ガールズ （競輪）</title>
-        <desc lang="ja">🚲 開催地: 武雄 (ミッドナイト)
-🏆 グレード: FII
-✨ ガールズ: あり 💛
-📢 内容: FII 前検日コメならウィンチケット杯 初日
-⏰ 時間: 20:40 - 23:40
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812235000 +0900" stop="20260812235900 +0900" channel="keirin.takeo">
-        <title lang="ja">🏁 終了 武雄 (⭐ミッドナイト)（競輪）</title>
-        <desc lang="ja">武雄 (ミッドナイト) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.sasebo">
-        <title lang="ja">💤 本日非開催 佐世保（競輪）</title>
-        <desc lang="ja">本日は佐世保での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.beppu">
-        <title lang="ja">💤 本日非開催 別府（競輪）</title>
-        <desc lang="ja">本日は別府での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812102000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">⏳ 待機 熊本 (☀️デイ 1R 10:30開始)（競輪）</title>
-        <desc lang="ja">🚲 開催地: 熊本 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI KEIRINライジングスターズ 2日目
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812102000 +0900" stop="20260812164000 +0900" channel="keirin.kumamoto">
-        <title lang="ja">【FI】 🔴 LIVE 熊本 ☀️デイ 2日目 （競輪）</title>
-        <desc lang="ja">🚲 開催地: 熊本 (デイ)
-🏆 グレード: FI
-✨ ガールズ: なし
-📢 内容: FI KEIRINライジングスターズ 2日目
-⏰ 時間: 10:30 - 16:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812164000 +0900" stop="20260812235900 +0900" channel="keirin.kumamoto">
-        <title lang="ja">🏁 終了 熊本 (☀️デイ)（競輪）</title>
-        <desc lang="ja">熊本 (デイ) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="keirin.pist6">
-        <title lang="ja">💤 本日非開催 千葉（競輪）</title>
-        <desc lang="ja">本日は千葉での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812141000 +0900" channel="chihou.obihiro">
-        <title lang="ja">⏳ 待機 帯広 (🌙ナイター 1R 14:20開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 帯広 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:20 - 20:40
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812141000 +0900" stop="20260812205000 +0900" channel="chihou.obihiro">
-        <title lang="ja">🔴 LIVE 帯広 🌙ナイター （競馬）</title>
-        <desc lang="ja">🏇 開催地: 帯広 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:20 - 20:40
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812205000 +0900" stop="20260812235900 +0900" channel="chihou.obihiro">
-        <title lang="ja">🏁 終了 帯広 (🌙ナイター)（競馬）</title>
-        <desc lang="ja">帯広 (ナイター) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.mombetsu">
-        <title lang="ja">💤 本日非開催 門別（競馬）</title>
-        <desc lang="ja">本日は門別での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.morioka">
-        <title lang="ja">💤 本日非開催 盛岡（競馬）</title>
-        <desc lang="ja">本日は盛岡での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.mizusawa">
-        <title lang="ja">💤 本日非開催 水沢（競馬）</title>
-        <desc lang="ja">本日は水沢での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812132000 +0900" channel="chihou.urawa">
-        <title lang="ja">⏳ 待機 浦和 (🌇薄暮 1R 13:30開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 浦和 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 13:30 - 19:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812132000 +0900" stop="20260812194000 +0900" channel="chihou.urawa">
-        <title lang="ja">🔴 LIVE 浦和 🌇薄暮 （競馬）</title>
-        <desc lang="ja">🏇 開催地: 浦和 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 13:30 - 19:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812194000 +0900" stop="20260812235900 +0900" channel="chihou.urawa">
-        <title lang="ja">🏁 終了 浦和 (🌇薄暮)（競馬）</title>
-        <desc lang="ja">浦和 (薄暮) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.funabashi">
-        <title lang="ja">💤 本日非開催 船橋（競馬）</title>
-        <desc lang="ja">本日は船橋での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812141500 +0900" channel="chihou.oi">
-        <title lang="ja">⏳ 待機 大井 (🌙ナイター 1R 14:25開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 大井 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:25 - 20:50
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812141500 +0900" stop="20260812210000 +0900" channel="chihou.oi">
-        <title lang="ja">🔴 LIVE 大井 🌙ナイター （競馬）</title>
-        <desc lang="ja">🏇 開催地: 大井 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 14:25 - 20:50
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812210000 +0900" stop="20260812235900 +0900" channel="chihou.oi">
-        <title lang="ja">🏁 終了 大井 (🌙ナイター)（競馬）</title>
-        <desc lang="ja">大井 (ナイター) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.kawasaki_keiba">
-        <title lang="ja">💤 本日非開催 川崎（競馬）</title>
-        <desc lang="ja">本日は川崎での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812145500 +0900" channel="chihou.kanazawa">
-        <title lang="ja">⏳ 待機 金沢 (🌙ナイター 1R 15:05開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 金沢 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 15:05 - 20:50
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812145500 +0900" stop="20260812210000 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🔴 LIVE 金沢 🌙ナイター （競馬）</title>
-        <desc lang="ja">🏇 開催地: 金沢 (ナイター)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: ナイター
-⏰ 時間: 15:05 - 20:50
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812210000 +0900" stop="20260812235900 +0900" channel="chihou.kanazawa">
-        <title lang="ja">🏁 終了 金沢 (🌙ナイター)（競馬）</title>
-        <desc lang="ja">金沢 (ナイター) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.nagoya_keiba">
-        <title lang="ja">💤 本日非開催 名古屋（競馬）</title>
-        <desc lang="ja">本日は名古屋での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812110500 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">⏳ 待機 笠松 (🌇薄暮 1R 11:15開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 笠松 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 11:15 - 18:00
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812110500 +0900" stop="20260812181000 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🔴 LIVE 笠松 🌇薄暮 （競馬）</title>
-        <desc lang="ja">🏇 開催地: 笠松 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 11:15 - 18:00
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812181000 +0900" stop="20260812235900 +0900" channel="chihou.kasamatsu">
-        <title lang="ja">🏁 終了 笠松 (🌇薄暮)（競馬）</title>
-        <desc lang="ja">笠松 (薄暮) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812132000 +0900" channel="chihou.sonoda">
-        <title lang="ja">⏳ 待機 園田 (🌇薄暮 1R 13:30開始)（競馬）</title>
-        <desc lang="ja">🏇 開催地: 園田 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 13:30 - 19:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812132000 +0900" stop="20260812194000 +0900" channel="chihou.sonoda">
-        <title lang="ja">🔴 LIVE 園田 🌇薄暮 （競馬）</title>
-        <desc lang="ja">🏇 開催地: 園田 (薄暮)
-🏆 グレード: 通常開催
-✨ ガールズ: なし
-📢 内容: 薄暮
-⏰ 時間: 13:30 - 19:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812194000 +0900" stop="20260812235900 +0900" channel="chihou.sonoda">
-        <title lang="ja">🏁 終了 園田 (🌇薄暮)（競馬）</title>
-        <desc lang="ja">園田 (薄暮) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.himeji">
-        <title lang="ja">💤 本日非開催 姫路（競馬）</title>
-        <desc lang="ja">本日は姫路での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.kochi_keiba">
-        <title lang="ja">💤 本日非開催 高知（競馬）</title>
-        <desc lang="ja">本日は高知での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="chihou.saga">
-        <title lang="ja">💤 本日非開催 佐賀（競馬）</title>
-        <desc lang="ja">本日は佐賀での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.sapporo">
-        <title lang="ja">💤 本日非開催 札幌（競馬）</title>
-        <desc lang="ja">本日は札幌での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.niigata">
-        <title lang="ja">💤 本日非開催 新潟（競馬）</title>
-        <desc lang="ja">本日は新潟での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.chukyo">
-        <title lang="ja">💤 本日非開催 中京（競馬）</title>
-        <desc lang="ja">本日は中京での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.official">
-        <title lang="ja">💤 本日非開催 ＪＲＡ公式（競馬）</title>
-        <desc lang="ja">本日はＪＲＡ公式での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="jra.green">
-        <title lang="ja">💤 本日非開催 ＪＲＡグリーン（競馬）</title>
-        <desc lang="ja">本日はＪＲＡグリーンでの開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="auto.kawaguchi">
-        <title lang="ja">💤 本日非開催 川口（オートレース）</title>
-        <desc lang="ja">本日は川口での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812175000 +0900" channel="auto.isesaki">
-        <title lang="ja">⏳ 待機 伊勢崎 (🌙ナイター 1R 18:00開始)（オートレース）</title>
-        <desc lang="ja">🏍️ 開催地: 伊勢崎 (ナイター)
-🏆 グレード: SG
-✨ ガールズ: なし
-📢 内容: SG 2日目
-⏰ 時間: 18:00 - 21:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812175000 +0900" stop="20260812214000 +0900" channel="auto.isesaki">
-        <title lang="ja">【SG】 🔴 LIVE 伊勢崎 🌙ナイター 2日目 （オートレース）</title>
-        <desc lang="ja">🏍️ 開催地: 伊勢崎 (ナイター)
-🏆 グレード: SG
-✨ ガールズ: なし
-📢 内容: SG 2日目
-⏰ 時間: 18:00 - 21:30
-📅 日付: 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812214000 +0900" stop="20260812235900 +0900" channel="auto.isesaki">
-        <title lang="ja">🏁 終了 伊勢崎 (🌙ナイター)（オートレース）</title>
-        <desc lang="ja">伊勢崎 (ナイター) の放送は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="auto.hamamatsu">
-        <title lang="ja">💤 本日非開催 浜松（オートレース）</title>
-        <desc lang="ja">本日は浜松での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="auto.iizuka">
-        <title lang="ja">💤 本日非開催 飯塚（オートレース）</title>
-        <desc lang="ja">本日は飯塚での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="auto.sanyo">
-        <title lang="ja">💤 本日非開催 山陽（オートレース）</title>
-        <desc lang="ja">本日は山陽での開催予定はありません。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812143500 +0900" channel="boat.kiryu">
-        <title lang="ja">⏳ 待機 01 桐生 🌙ナイター 14:45開始</title>
-        <desc lang="ja">🚤 ボートレース 01 桐生
-⏰ 配信予定: 14:45～20:50
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812143500 +0900" stop="20260812144500 +0900" channel="boat.kiryu">
-        <title lang="ja">⏳ まもなく開始 01 桐生 🌙ナイター</title>
-        <desc lang="ja">🚤 ボートレース 01 桐生
-⏰ 配信予定: 14:45～20:50
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812144500 +0900" stop="20260812205000 +0900" channel="boat.kiryu">
-        <title lang="ja">🔴 LIVE 01 桐生 🌙ナイター 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 01 桐生
-⏰ 配信予定: 14:45～20:50
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812205000 +0900" stop="20260812235900 +0900" channel="boat.kiryu">
-        <title lang="ja">🏁 終了 01 桐生 🌙ナイター</title>
-        <desc lang="ja">01 桐生の本日のライブ配信は終了しました。</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.kiryu">
+        <title lang="ja">💤 本日非開催 01 桐生（ボートレース）</title>
+        <desc lang="ja">01 桐生のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.toda">
         <title lang="ja">💤 本日非開催 02 戸田（ボートレース）</title>
         <desc lang="ja">02 戸田のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812102900 +0900" channel="boat.edogawa">
-        <title lang="ja">⏳ 待機 03 江戸川 🌞デイ 10:39開始</title>
-        <desc lang="ja">🚤 ボートレース 03 江戸川
-⏰ 配信予定: 10:39～10:39
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.edogawa">
+        <title lang="ja">💤 本日非開催 03 江戸川（ボートレース）</title>
+        <desc lang="ja">03 江戸川のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812102900 +0900" stop="20260812103900 +0900" channel="boat.edogawa">
-        <title lang="ja">⏳ まもなく開始 03 江戸川 🌞デイ</title>
-        <desc lang="ja">🚤 ボートレース 03 江戸川
-⏰ 配信予定: 10:39～10:39
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.heiwajima">
+        <title lang="ja">💤 本日非開催 04 平和島（ボートレース）</title>
+        <desc lang="ja">04 平和島のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812103900 +0900" stop="20260813103900 +0900" channel="boat.edogawa">
-        <title lang="ja">🔴 LIVE 03 江戸川 🌞デイ 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 03 江戸川
-⏰ 配信予定: 10:39～10:39
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tamagawa">
+        <title lang="ja">💤 本日非開催 05 多摩川（ボートレース）</title>
+        <desc lang="ja">05 多摩川のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812095000 +0900" channel="boat.heiwajima">
-        <title lang="ja">⏳ 待機 04 平和島 🌇サマータイム 10:00開始</title>
-        <desc lang="ja">🚤 ボートレース 04 平和島
-⏰ 配信予定: 10:00～18:35
-🌇 開催区分: サマータイム
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.hamanako">
+        <title lang="ja">💤 本日非開催 06 浜名湖（ボートレース）</title>
+        <desc lang="ja">06 浜名湖のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812095000 +0900" stop="20260812100000 +0900" channel="boat.heiwajima">
-        <title lang="ja">⏳ まもなく開始 04 平和島 🌇サマータイム</title>
-        <desc lang="ja">🚤 ボートレース 04 平和島
-⏰ 配信予定: 10:00～18:35
-🌇 開催区分: サマータイム
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.gamagori">
+        <title lang="ja">💤 本日非開催 07 蒲郡（ボートレース）</title>
+        <desc lang="ja">07 蒲郡のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812100000 +0900" stop="20260812183500 +0900" channel="boat.heiwajima">
-        <title lang="ja">🔴 LIVE 04 平和島 🌇サマータイム 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 04 平和島
-⏰ 配信予定: 10:00～18:35
-🌇 開催区分: サマータイム
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812183500 +0900" stop="20260812235900 +0900" channel="boat.heiwajima">
-        <title lang="ja">🏁 終了 04 平和島 🌇サマータイム</title>
-        <desc lang="ja">04 平和島の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812104800 +0900" channel="boat.tamagawa">
-        <title lang="ja">⏳ 待機 05 多摩川 🌞デイ 10:58開始</title>
-        <desc lang="ja">🚤 ボートレース 05 多摩川
-⏰ 配信予定: 10:58～17:44
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812104800 +0900" stop="20260812105800 +0900" channel="boat.tamagawa">
-        <title lang="ja">⏳ まもなく開始 05 多摩川 🌞デイ</title>
-        <desc lang="ja">🚤 ボートレース 05 多摩川
-⏰ 配信予定: 10:58～17:44
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812105800 +0900" stop="20260812174400 +0900" channel="boat.tamagawa">
-        <title lang="ja">🔴 LIVE 05 多摩川 🌞デイ 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 05 多摩川
-⏰ 配信予定: 10:58～17:44
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812174400 +0900" stop="20260812235900 +0900" channel="boat.tamagawa">
-        <title lang="ja">🏁 終了 05 多摩川 🌞デイ</title>
-        <desc lang="ja">05 多摩川の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812104000 +0900" channel="boat.hamanako">
-        <title lang="ja">⏳ 待機 06 浜名湖 🌞デイ 10:50開始</title>
-        <desc lang="ja">🚤 ボートレース 06 浜名湖
-⏰ 配信予定: 10:50～17:22
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812104000 +0900" stop="20260812105000 +0900" channel="boat.hamanako">
-        <title lang="ja">⏳ まもなく開始 06 浜名湖 🌞デイ</title>
-        <desc lang="ja">🚤 ボートレース 06 浜名湖
-⏰ 配信予定: 10:50～17:22
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812105000 +0900" stop="20260812172200 +0900" channel="boat.hamanako">
-        <title lang="ja">🔴 LIVE 06 浜名湖 🌞デイ 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 06 浜名湖
-⏰ 配信予定: 10:50～17:22
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812172200 +0900" stop="20260812235900 +0900" channel="boat.hamanako">
-        <title lang="ja">🏁 終了 06 浜名湖 🌞デイ</title>
-        <desc lang="ja">06 浜名湖の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812140000 +0900" channel="boat.gamagori">
-        <title lang="ja">⏳ 待機 07 蒲郡 🌙ナイター 14:10開始</title>
-        <desc lang="ja">🚤 ボートレース 07 蒲郡
-⏰ 配信予定: 14:10～21:35
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812140000 +0900" stop="20260812141000 +0900" channel="boat.gamagori">
-        <title lang="ja">⏳ まもなく開始 07 蒲郡 🌙ナイター</title>
-        <desc lang="ja">🚤 ボートレース 07 蒲郡
-⏰ 配信予定: 14:10～21:35
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812141000 +0900" stop="20260812213500 +0900" channel="boat.gamagori">
-        <title lang="ja">🔴 LIVE 07 蒲郡 🌙ナイター 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 07 蒲郡
-⏰ 配信予定: 14:10～21:35
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812213500 +0900" stop="20260812235900 +0900" channel="boat.gamagori">
-        <title lang="ja">🏁 終了 07 蒲郡 🌙ナイター</title>
-        <desc lang="ja">07 蒲郡の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812094900 +0900" channel="boat.tokoname">
-        <title lang="ja">⏳ 待機 08 常滑 🌞デイ 09:59開始</title>
-        <desc lang="ja">🚤 ボートレース 08 常滑
-⏰ 配信予定: 09:59～16:25
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812094900 +0900" stop="20260812095900 +0900" channel="boat.tokoname">
-        <title lang="ja">⏳ まもなく開始 08 常滑 🌞デイ</title>
-        <desc lang="ja">🚤 ボートレース 08 常滑
-⏰ 配信予定: 09:59～16:25
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812095900 +0900" stop="20260812162500 +0900" channel="boat.tokoname">
-        <title lang="ja">🔴 LIVE 08 常滑 🌞デイ 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 08 常滑
-⏰ 配信予定: 09:59～16:25
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812162500 +0900" stop="20260812235900 +0900" channel="boat.tokoname">
-        <title lang="ja">🏁 終了 08 常滑 🌞デイ</title>
-        <desc lang="ja">08 常滑の本日のライブ配信は終了しました。</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tokoname">
+        <title lang="ja">💤 本日非開催 08 常滑（ボートレース）</title>
+        <desc lang="ja">08 常滑のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tsu">
         <title lang="ja">💤 本日非開催 09 津（ボートレース）</title>
@@ -2785,217 +1910,49 @@
         <title lang="ja">💤 本日非開催 12 住之江（ボートレース）</title>
         <desc lang="ja">12 住之江のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812095200 +0900" channel="boat.amagasaki">
-        <title lang="ja">⏳ 待機 13 尼崎 🌞デイ 10:02開始</title>
-        <desc lang="ja">🚤 ボートレース 13 尼崎
-⏰ 配信予定: 10:02～16:41
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812095200 +0900" stop="20260812100200 +0900" channel="boat.amagasaki">
-        <title lang="ja">⏳ まもなく開始 13 尼崎 🌞デイ</title>
-        <desc lang="ja">🚤 ボートレース 13 尼崎
-⏰ 配信予定: 10:02～16:41
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812100200 +0900" stop="20260812164100 +0900" channel="boat.amagasaki">
-        <title lang="ja">🔴 LIVE 13 尼崎 🌞デイ 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 13 尼崎
-⏰ 配信予定: 10:02～16:41
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812164100 +0900" stop="20260812235900 +0900" channel="boat.amagasaki">
-        <title lang="ja">🏁 終了 13 尼崎 🌞デイ</title>
-        <desc lang="ja">13 尼崎の本日のライブ配信は終了しました。</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.amagasaki">
+        <title lang="ja">💤 本日非開催 13 尼崎（ボートレース）</title>
+        <desc lang="ja">13 尼崎のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.naruto">
         <title lang="ja">💤 本日非開催 14 鳴門（ボートレース）</title>
         <desc lang="ja">14 鳴門のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812134500 +0900" channel="boat.marugame">
-        <title lang="ja">⏳ 待機 15 丸亀 🌙ナイター 13:55開始</title>
-        <desc lang="ja">🚤 ボートレース 15 丸亀
-⏰ 配信予定: 13:55～21:35
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.marugame">
+        <title lang="ja">💤 本日非開催 15 丸亀（ボートレース）</title>
+        <desc lang="ja">15 丸亀のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812134500 +0900" stop="20260812135500 +0900" channel="boat.marugame">
-        <title lang="ja">⏳ まもなく開始 15 丸亀 🌙ナイター</title>
-        <desc lang="ja">🚤 ボートレース 15 丸亀
-⏰ 配信予定: 13:55～21:35
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812135500 +0900" stop="20260812213500 +0900" channel="boat.marugame">
-        <title lang="ja">🔴 LIVE 15 丸亀 🌙ナイター 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 15 丸亀
-⏰ 配信予定: 13:55～21:35
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812213500 +0900" stop="20260812235900 +0900" channel="boat.marugame">
-        <title lang="ja">🏁 終了 15 丸亀 🌙ナイター</title>
-        <desc lang="ja">15 丸亀の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812093000 +0900" channel="boat.kojima">
-        <title lang="ja">⏳ 待機 16 児島 🌇サマータイム 09:40開始</title>
-        <desc lang="ja">🚤 ボートレース 16 児島
-⏰ 配信予定: 09:40～18:05
-🌇 開催区分: サマータイム
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812093000 +0900" stop="20260812094000 +0900" channel="boat.kojima">
-        <title lang="ja">⏳ まもなく開始 16 児島 🌇サマータイム</title>
-        <desc lang="ja">🚤 ボートレース 16 児島
-⏰ 配信予定: 09:40～18:05
-🌇 開催区分: サマータイム
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812094000 +0900" stop="20260812180500 +0900" channel="boat.kojima">
-        <title lang="ja">🔴 LIVE 16 児島 🌇サマータイム 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 16 児島
-⏰ 配信予定: 09:40～18:05
-🌇 開催区分: サマータイム
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812180500 +0900" stop="20260812235900 +0900" channel="boat.kojima">
-        <title lang="ja">🏁 終了 16 児島 🌇サマータイム</title>
-        <desc lang="ja">16 児島の本日のライブ配信は終了しました。</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.kojima">
+        <title lang="ja">💤 本日非開催 16 児島（ボートレース）</title>
+        <desc lang="ja">16 児島のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.miyajima">
         <title lang="ja">💤 本日非開催 17 宮島（ボートレース）</title>
         <desc lang="ja">17 宮島のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812095000 +0900" channel="boat.tokuyama">
-        <title lang="ja">⏳ 待機 18 徳山 🌞デイ 10:00開始</title>
-        <desc lang="ja">🚤 ボートレース 18 徳山
-⏰ 配信予定: 10:00～17:30
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tokuyama">
+        <title lang="ja">💤 本日非開催 18 徳山（ボートレース）</title>
+        <desc lang="ja">18 徳山のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812095000 +0900" stop="20260812100000 +0900" channel="boat.tokuyama">
-        <title lang="ja">⏳ まもなく開始 18 徳山 🌞デイ</title>
-        <desc lang="ja">🚤 ボートレース 18 徳山
-⏰ 配信予定: 10:00～17:30
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.shimonoseki">
+        <title lang="ja">💤 本日非開催 19 下関（ボートレース）</title>
+        <desc lang="ja">19 下関のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812100000 +0900" stop="20260812173000 +0900" channel="boat.tokuyama">
-        <title lang="ja">🔴 LIVE 18 徳山 🌞デイ 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 18 徳山
-⏰ 配信予定: 10:00～17:30
-🌞 開催区分: デイ
-📅 2026年08月12日</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.wakamatsu">
+        <title lang="ja">💤 本日非開催 20 若松（ボートレース）</title>
+        <desc lang="ja">20 若松のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812173000 +0900" stop="20260812235900 +0900" channel="boat.tokuyama">
-        <title lang="ja">🏁 終了 18 徳山 🌞デイ</title>
-        <desc lang="ja">18 徳山の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812105000 +0900" channel="boat.shimonoseki">
-        <title lang="ja">⏳ 待機 19 下関 🌙ナイター 11:00開始</title>
-        <desc lang="ja">🚤 ボートレース 19 下関
-⏰ 配信予定: 11:00～22:59
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812105000 +0900" stop="20260812110000 +0900" channel="boat.shimonoseki">
-        <title lang="ja">⏳ まもなく開始 19 下関 🌙ナイター</title>
-        <desc lang="ja">🚤 ボートレース 19 下関
-⏰ 配信予定: 11:00～22:59
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812110000 +0900" stop="20260812225900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">🔴 LIVE 19 下関 🌙ナイター 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 19 下関
-⏰ 配信予定: 11:00～22:59
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812225900 +0900" stop="20260812235900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">🏁 終了 19 下関 🌙ナイター</title>
-        <desc lang="ja">19 下関の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812143500 +0900" channel="boat.wakamatsu">
-        <title lang="ja">⏳ 待機 20 若松 🌙ナイター 14:45開始</title>
-        <desc lang="ja">🚤 ボートレース 20 若松
-⏰ 配信予定: 14:45～21:04
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812143500 +0900" stop="20260812144500 +0900" channel="boat.wakamatsu">
-        <title lang="ja">⏳ まもなく開始 20 若松 🌙ナイター</title>
-        <desc lang="ja">🚤 ボートレース 20 若松
-⏰ 配信予定: 14:45～21:04
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812144500 +0900" stop="20260812210400 +0900" channel="boat.wakamatsu">
-        <title lang="ja">🔴 LIVE 20 若松 🌙ナイター 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 20 若松
-⏰ 配信予定: 14:45～21:04
-🌙 開催区分: ナイター
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812210400 +0900" stop="20260812235900 +0900" channel="boat.wakamatsu">
-        <title lang="ja">🏁 終了 20 若松 🌙ナイター</title>
-        <desc lang="ja">20 若松の本日のライブ配信は終了しました。</desc>
-    </programme>
-    <programme start="20260812010000 +0900" stop="20260812074700 +0900" channel="boat.ashiya">
-        <title lang="ja">⏳ 待機 21 芦屋 🌅モーニング 07:57開始</title>
-        <desc lang="ja">🚤 ボートレース 21 芦屋
-⏰ 配信予定: 07:57～14:20
-🌅 開催区分: モーニング
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812074700 +0900" stop="20260812075700 +0900" channel="boat.ashiya">
-        <title lang="ja">⏳ まもなく開始 21 芦屋 🌅モーニング</title>
-        <desc lang="ja">🚤 ボートレース 21 芦屋
-⏰ 配信予定: 07:57～14:20
-🌅 開催区分: モーニング
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812075700 +0900" stop="20260812142000 +0900" channel="boat.ashiya">
-        <title lang="ja">🔴 LIVE 21 芦屋 🌅モーニング 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 21 芦屋
-⏰ 配信予定: 07:57～14:20
-🌅 開催区分: モーニング
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812142000 +0900" stop="20260812235900 +0900" channel="boat.ashiya">
-        <title lang="ja">🏁 終了 21 芦屋 🌅モーニング</title>
-        <desc lang="ja">21 芦屋の本日のライブ配信は終了しました。</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.ashiya">
+        <title lang="ja">💤 本日非開催 21 芦屋（ボートレース）</title>
+        <desc lang="ja">21 芦屋のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.fukuoka">
         <title lang="ja">💤 本日非開催 22 福岡（ボートレース）</title>
         <desc lang="ja">22 福岡のライブ配信URLは取得されていません。</desc>
     </programme>
-    <programme start="20260812010000 +0900" stop="20260812075900 +0900" channel="boat.karatsu">
-        <title lang="ja">⏳ 待機 23 唐津 🌅モーニング 08:09開始</title>
-        <desc lang="ja">🚤 ボートレース 23 唐津
-⏰ 配信予定: 08:09～14:48
-🌅 開催区分: モーニング
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812075900 +0900" stop="20260812080900 +0900" channel="boat.karatsu">
-        <title lang="ja">⏳ まもなく開始 23 唐津 🌅モーニング</title>
-        <desc lang="ja">🚤 ボートレース 23 唐津
-⏰ 配信予定: 08:09～14:48
-🌅 開催区分: モーニング
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812080900 +0900" stop="20260812144800 +0900" channel="boat.karatsu">
-        <title lang="ja">🔴 LIVE 23 唐津 🌅モーニング 🚤ボートレース</title>
-        <desc lang="ja">🚤 ボートレース 23 唐津
-⏰ 配信予定: 08:09～14:48
-🌅 開催区分: モーニング
-📅 2026年08月12日</desc>
-    </programme>
-    <programme start="20260812144800 +0900" stop="20260812235900 +0900" channel="boat.karatsu">
-        <title lang="ja">🏁 終了 23 唐津 🌅モーニング</title>
-        <desc lang="ja">23 唐津の本日のライブ配信は終了しました。</desc>
+    <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.karatsu">
+        <title lang="ja">💤 本日非開催 23 唐津（ボートレース）</title>
+        <desc lang="ja">23 唐津のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.omura">
         <title lang="ja">💤 本日非開催 24 大村（ボートレース）</title>
