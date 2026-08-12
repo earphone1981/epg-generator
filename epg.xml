@@ -1765,14 +1765,13 @@
 📅 開催日次: 初日</desc>
     </programme>
     <programme start="20260812202200 +0900" stop="20260812205500 +0900" channel="auto.isesaki">
-        <title lang="ja">🏆 MAIN 🏍️ 伊勢崎 12R 20:30発走 予選</title>
+        <title lang="ja">🏍️ 伊勢崎 12R 20:30発走 予選</title>
         <desc lang="ja">🏍️ オートレース 伊勢崎
 🌙 開催区分: ナイター
 ⏰ 発走予定: 20:30
 🏷️ 種別: 予選
 📢 開催名: ）
-📅 開催日次: 初日
-🏆 メインレース</desc>
+📅 開催日次: 初日</desc>
     </programme>
     <programme start="20260812205500 +0900" stop="20260812235900 +0900" channel="auto.isesaki">
         <title lang="ja">🏁 終了 伊勢崎 🌙ナイター</title>
@@ -1859,14 +1858,13 @@
 📅 開催日次: 初日</desc>
     </programme>
     <programme start="20260812132200 +0900" stop="20260812135500 +0900" channel="auto.hamamatsu">
-        <title lang="ja">🏆 MAIN 🏍️ 浜松 9R 13:30発走 二次予選Ａ</title>
+        <title lang="ja">🏍️ 浜松 9R 13:30発走 二次予選Ａ</title>
         <desc lang="ja">🏍️ オートレース 浜松
 🌅 開催区分: アーリー
 ⏰ 発走予定: 13:30
 🏷️ 種別: 予選
 📢 開催名: ）
-📅 開催日次: 初日
-🏆 メインレース</desc>
+📅 開催日次: 初日</desc>
     </programme>
     <programme start="20260812135500 +0900" stop="20260812235900 +0900" channel="auto.hamamatsu">
         <title lang="ja">🏁 終了 浜松 🌅アーリー</title>
@@ -2165,7 +2163,7 @@
 ⏰ 発走予定: 14:52
 📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260812151200 +0900" stop="20260812154300 +0900" channel="boat.edogawa">
+    <programme start="20260812151200 +0900" stop="20260812155000 +0900" channel="boat.edogawa">
         <title lang="ja">🚤 03 江戸川 10R 15:22発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
@@ -2173,23 +2171,23 @@
 ⏰ 発走予定: 15:22
 📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260812154300 +0900" stop="20260812161500 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 11R 15:53発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260812155000 +0900" stop="20260812162200 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 11R 16:00発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:53
+⏰ 発走予定: 16:00
 📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260812161500 +0900" stop="20260812165500 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 12R 16:25発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260812162200 +0900" stop="20260812170200 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 12R 16:32発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 16:25
+⏰ 発走予定: 16:32
 📅 2026年08月12日</desc>
     </programme>
-    <programme start="20260812165500 +0900" stop="20260812235900 +0900" channel="boat.edogawa">
+    <programme start="20260812170200 +0900" stop="20260812235900 +0900" channel="boat.edogawa">
         <title lang="ja">🏁 終了 03 江戸川 ☀️デイ</title>
         <desc lang="ja">03 江戸川の本日のボートレースは終了しました。</desc>
     </programme>
