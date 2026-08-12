@@ -447,11 +447,28 @@ def build_keiba_race_epg(
             main_mark = "🏆 MAIN " if main else ""
             display_name = race_name if race_name else race_type
 
-            title = (
-                f"{main_mark}{icon} {venue} "
-                f"{race_no}R {race.get('time', '')} "
-                f"{display_name}"
-            ).strip()
+            # Visible EPG title:
+            # venue / R / start / official race title / class or conditions.
+            title_parts = [
+                f"{main_mark}{icon}".strip(),
+                venue,
+                f"{race_no}R",
+                f"{race.get('time', '')}発走",
+                display_name,
+            ]
+
+            if race_type and race_type not in {"一般", display_name}:
+                title_parts.append(f"【{race_type}】")
+
+            if (
+                conditions
+                and conditions != race_name
+                and conditions != race_type
+                and conditions not in display_name
+            ):
+                title_parts.append(conditions)
+
+            title = " ".join(x for x in title_parts if x).strip()
 
             desc_lines = [
                 f"{category_name} {venue}",
@@ -627,8 +644,13 @@ def build_keirin_race_epg(
             if grade and main:
                 title_parts.append(f"【{grade}】")
             title_parts.append(f"{venue} {race_no}R")
-            title_parts.append(race.get("time", ""))
+            title_parts.append(f"{race.get('time', '')}発走")
+            # Keep the exact source race name, e.g. A級予選 / 一次予選 / 準決勝 / 決勝.
             title_parts.append(race_name)
+
+            race_class = race.get("race_class", "").strip()
+            if race_class and race_class not in race_name:
+                title_parts.append(f"【{race_class}】")
 
             desc_lines = [
                 f"🚲 競輪 {venue}",
@@ -777,8 +799,13 @@ def build_autorace_race_epg(
             if grade and main:
                 title_parts.append(f"【{grade}】")
             title_parts.append(f"{venue} {race_no}R")
-            title_parts.append(race.get("time", ""))
+            title_parts.append(f"{race.get('time', '')}発走")
+            # Keep the exact source race title/stage, e.g. 一次予選 / 準決勝 / 優勝戦.
             title_parts.append(race_name)
+
+            race_type = race.get("race_type", "").strip()
+            if race_type and race_type not in race_name:
+                title_parts.append(f"【{race_type}】")
 
             desc_lines = [
                 f"🏍️ オートレース {venue}",
@@ -1110,10 +1137,16 @@ def build_boat_race_epg(
             race_no = race.get("race", "")
             race_time = race.get("time", "")
 
-            title = (
-                f"🚤 {v_name} {race_no}R {race_time}発走 "
-                f"{emoji}{day_type}"
-            ).strip()
+            title_parts = [
+                "🚤",
+                v_name,
+                f"{race_no}R",
+                f"{race_time}発走",
+                f"{emoji}{day_type}",
+            ]
+            if event_title:
+                title_parts.append(event_title)
+            title = " ".join(x for x in title_parts if x).strip()
 
             desc_lines = [
                 f"🚤 ボートレース {v_name}",
