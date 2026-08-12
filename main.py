@@ -58,136 +58,9 @@ BOAT_TODAY_URL = (
     "earphone1981/ganble/main/boatrace_today.json"
 )
 
-SCHEDULES = {
-    "20260812": {
-        "keirin": {
-            "松山": {"desc": "GI オールスター競輪 2日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "弥彦": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "熊本": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "青森": {"desc": "FII AI競輪も大人気チャリロト杯 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "岐阜": {"desc": "FII 前検日コメならウィンチケット杯 初日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "富山": {"desc": "FI 仲間と繋がるTIPSTAR杯 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "武雄": {"desc": "FII 前検日コメならウィンチケット杯 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
-        },
-        "keiba": {
-            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "浦和": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
-            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
-            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"},
-            "園田": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
-            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
-        },
-        "auto": {"伊勢崎": {"desc": "SG 2日目", "start": "18:00", "end": "21:30", "day_type": "ナイター"}}
-    },
-    "20260813": {
-        "keirin": {
-            "松山": {"desc": "GI オールスター競輪 3日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "弥彦": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "熊本": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "青森": {"desc": "FII AI競輪も大人気チャリロト杯 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII オッズパーク杯 初日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "岐阜": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "武雄": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
-        },
-        "keiba": {
-            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "門別": {"desc": "北海道スプリントC JpnⅢ", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
-            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
-            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"},
-            "園田": {"desc": "薄暮", "start": "13:30", "end": "19:30", "day_type": "薄暮"},
-            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
-        },
-        "auto": {"伊勢崎": {"desc": "SG 3日目", "start": "18:00", "end": "21:30", "day_type": "ナイター"}}
-    },
-    "20260814": {
-        "keirin": {
-            "松山": {"desc": "GI オールスター競輪 4日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "京王閣": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "奈良": {"desc": "FI KEIRINライジングスターズ 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "青森": {"desc": "FII AI競輪も大人気チャリロト杯 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII オッズパーク杯 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "岐阜": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "08:50", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "武雄": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"}
-        },
-        "keiba": {
-            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
-            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
-            "笠松": {"desc": "薄暮", "start": "11:15", "end": "18:00", "day_type": "薄暮"},
-            "園田": {"desc": "その金ナイター (摂津盃)", "start": "15:00", "end": "20:30", "day_type": "ナイター"}
-        },
-        "auto": {
-            "伊勢崎": {"desc": "SG 4日目", "start": "18:00", "end": "21:30", "day_type": "ナイター"},
-            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
-        }
-    },
-    "20260815": {
-        "keirin": {
-            "松山": {"desc": "GI オールスター競輪 5日目", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "京王閣": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "奈良": {"desc": "FI KEIRINライジングスターズ 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "前橋": {"desc": "FII 前検日コメならウィンチケット杯 初日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII オッズパーク杯 最終日", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "静岡": {"desc": "FII オッズパーク杯 初日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"}
-        },
-        "keiba": {
-            "札幌": {"desc": "JRA 札幌開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
-            "新潟": {"desc": "JRA 新潟ジャンプS", "start": "09:40", "end": "17:00", "day_type": "デイ"},
-            "中京": {"desc": "JRA 中京開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
-            "ＪＲＡ公式": {"desc": "JRA公式中継", "start": "09:00", "end": "17:00", "day_type": "デイ"},
-            "ＪＲＡグリーン": {"desc": "グリーンチャンネル", "start": "09:00", "end": "21:00", "day_type": "デイ"},
-            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
-            "佐賀": {"desc": "ナイター", "start": "15:55", "end": "20:50", "day_type": "ナイター"}
-        },
-        "auto": {
-            "伊勢崎": {"desc": "SG 最終日", "start": "18:00", "end": "21:30", "day_type": "ナイター"},
-            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
-        }
-    },
-    "20260816": {
-        "keirin": {
-            "松山": {"desc": "GI オールスター競輪 決勝戦", "start": "15:15", "end": "20:50", "is_girls": True, "day_type": "ナイター"},
-            "京王閣": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "奈良": {"desc": "FI KEIRINライジングスターズ 最終日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "前橋": {"desc": "FII 前検日コメならウィンチケット杯 2日目", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "伊東": {"desc": "FI PayPay銀行杯 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "静岡": {"desc": "FII オッズパーク杯 2日目", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "別府": {"desc": "FI CTCは3分前杯 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
-        },
-        "keiba": {
-            "札幌": {"desc": "札幌記念 GⅡ", "start": "09:40", "end": "17:00", "day_type": "デイ"},
-            "新潟": {"desc": "JRA 新潟開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
-            "中京": {"desc": "JRA 中京開催", "start": "09:40", "end": "17:00", "day_type": "デイ"},
-            "ＪＲＡ公式": {"desc": "JRA公式中継", "start": "09:00", "end": "17:00", "day_type": "デイ"},
-            "ＪＲＡグリーン": {"desc": "グリーンチャンネル", "start": "09:00", "end": "21:00", "day_type": "デイ"},
-            "帯広": {"desc": "ナイター", "start": "14:20", "end": "20:40", "day_type": "ナイター"},
-            "大井": {"desc": "ナイター", "start": "14:25", "end": "20:50", "day_type": "ナイター"},
-            "佐賀": {"desc": "ナイター", "start": "15:55", "end": "20:50", "day_type": "ナイター"}
-        },
-        "auto": {
-            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
-        }
-    },
-    "20260817": {
-        "keirin": {
-            "前橋": {"desc": "FII 前検日コメならウィンチケット杯 最終日", "start": "20:40", "end": "23:40", "is_girls": True, "day_type": "ミッドナイト"},
-            "西武園": {"desc": "FII 2日目", "start": "08:30", "end": "11:55", "is_girls": False, "day_type": "モーニング"},
-            "静岡": {"desc": "FII オッズパーク杯 最終日", "start": "20:40", "end": "23:40", "is_girls": False, "day_type": "ミッドナイト"},
-            "立川": {"desc": "FI 初日", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "伊東": {"desc": "FI PayPay銀行杯 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"},
-            "別府": {"desc": "FI CTCは3分前杯 2日目", "start": "10:30", "end": "16:30", "is_girls": False, "day_type": "デイ"}
-        },
-        "keiba": {
-            "盛岡": {"desc": "薄暮", "start": "11:40", "end": "18:10", "day_type": "薄暮"},
-            "門別": {"desc": "ナイター", "start": "14:00", "end": "20:40", "day_type": "ナイター"},
-            "金沢": {"desc": "ナイター", "start": "15:05", "end": "20:50", "day_type": "ナイター"}
-        },
-        "auto": {
-            "飯塚": {"desc": "ミッドナイト", "start": "20:20", "end": "23:45", "day_type": "ミッドナイト"}
-        }
-    }
-}
+# EPG generation window.
+# Always generate from today through the next 6 days.
+EPG_DAYS = 7
 
 ICON_MAP = {
     "keirin": "🚲",
@@ -1029,6 +902,65 @@ def build_boat_epg(
             )
 
 
+def build_future_placeholder(
+    tv,
+    date_str,
+    target_map,
+    category_label,
+    category_icon,
+    JST,
+    today_display,
+):
+    """Future dates without race JSON: show a neutral schedule placeholder."""
+    day_start = datetime.datetime.strptime(
+        f"{date_str} 01:00", "%Y%m%d %H:%M"
+    ).replace(tzinfo=JST)
+    day_end = datetime.datetime.strptime(
+        f"{date_str} 23:59", "%Y%m%d %H:%M"
+    ).replace(tzinfo=JST)
+
+    for v_name, tvg_id in target_map.items():
+        add_programme(
+            tv,
+            tvg_id,
+            day_start,
+            day_end,
+            f"📅 {v_name}（{category_label}）",
+            f"{category_icon} {category_label} {v_name}\n"
+            f"📅 {today_display}\n"
+            "当日データ取得時に詳細EPGへ自動更新します。",
+        )
+
+
+def build_stream_channel_placeholder(
+    tv,
+    date_str,
+    channel_names,
+    JST,
+    today_display,
+):
+    """Channels such as JRA official/Green Channel that have no race JSON."""
+    day_start = datetime.datetime.strptime(
+        f"{date_str} 01:00", "%Y%m%d %H:%M"
+    ).replace(tzinfo=JST)
+    day_end = datetime.datetime.strptime(
+        f"{date_str} 23:59", "%Y%m%d %H:%M"
+    ).replace(tzinfo=JST)
+
+    for v_name in channel_names:
+        tvg_id = KEIBA_MAP.get(v_name)
+        if not tvg_id:
+            continue
+        add_programme(
+            tv,
+            tvg_id,
+            day_start,
+            day_end,
+            f"📺 {v_name}",
+            f"📺 {v_name}\n📅 {today_display}",
+        )
+
+
 def build_epg_xml():
     tv = ET.Element(
         "tv",
@@ -1055,93 +987,130 @@ def build_epg_xml():
         channel = ET.SubElement(tv, "channel", id=tvg_id)
         ET.SubElement(channel, "display-name").text = v_name
 
-    for date_str in SCHEDULES.keys():
-        day_schedules = SCHEDULES.get(date_str, {})
-        dt_obj = datetime.datetime.strptime(date_str, "%Y%m%d")
-        today_display = dt_obj.strftime("%Y年%m月%d日")
+    today_date = datetime.datetime.now(JST).date()
 
-        # 競輪はJSONの日付一致なら各R自動EPG。
-        # JSONが無い日だけ従来手入力へフォールバック。
-        used_auto_keirin = build_keirin_race_epg(
-            tv,
-            date_str,
-            keirin_schedule,
-            JST,
-            today_display,
-        )
+    for day_offset in range(EPG_DAYS):
+        target_date = today_date + datetime.timedelta(days=day_offset)
+        date_str = target_date.strftime("%Y%m%d")
+        today_display = target_date.strftime("%Y年%m月%d日")
+        is_today = (day_offset == 0)
 
-        if not used_auto_keirin:
-            build_manual_category(
+        # -------------------------------------------------
+        # 競輪
+        # 今日: JSONの日付一致なら各R自動EPG。
+        # 未来: 「非開催」と断定せず、当日更新待ちのプレースホルダー。
+        # -------------------------------------------------
+        if is_today:
+            used_auto_keirin = build_keirin_race_epg(
                 tv,
                 date_str,
-                "keirin",
+                keirin_schedule,
+                JST,
+                today_display,
+            )
+            if not used_auto_keirin:
+                build_manual_category(
+                    tv,
+                    date_str,
+                    "keirin",
+                    KEIRIN_MAP,
+                    {},
+                    JST,
+                    today_display,
+                )
+        else:
+            build_future_placeholder(
+                tv,
+                date_str,
                 KEIRIN_MAP,
-                day_schedules.get("keirin", {}),
+                "競輪",
+                "🚲",
                 JST,
                 today_display,
             )
 
-        # 競馬はJSONの日付が一致すれば各R自動EPG。
-        # 一致しなければ従来の手入力へフォールバック。
-        used_auto_keiba = build_keiba_race_epg(
-            tv,
-            date_str,
-            keiba_schedule,
-            JST,
-            today_display,
-        )
-
-        if not used_auto_keiba:
-            build_manual_category(
+        # -------------------------------------------------
+        # 競馬
+        # 今日: JSONの日付一致なら各R自動EPG。
+        # 未来: 決め打ちせずプレースホルダー。
+        # -------------------------------------------------
+        if is_today:
+            used_auto_keiba = build_keiba_race_epg(
                 tv,
                 date_str,
-                "keiba",
-                KEIBA_MAP,
-                day_schedules.get("keiba", {}),
+                keiba_schedule,
                 JST,
                 today_display,
             )
-
-        # JRA公式/グリーンだけは自動JSONにチャンネルが無いので
-        # 手入力がある日だけ追加
-        if used_auto_keiba:
-            extra_keiba = {}
-            for special in ("ＪＲＡ公式", "ＪＲＡグリーン"):
-                if special in day_schedules.get("keiba", {}):
-                    extra_keiba[special] = day_schedules["keiba"][special]
-
-            if extra_keiba:
-                special_map = {
-                    k: KEIBA_MAP[k]
-                    for k in extra_keiba
-                    if k in KEIBA_MAP
+            if not used_auto_keiba:
+                regular_keiba_map = {
+                    k: v
+                    for k, v in KEIBA_MAP.items()
+                    if k not in {"ＪＲＡ公式", "ＪＲＡグリーン"}
                 }
                 build_manual_category(
                     tv,
                     date_str,
                     "keiba",
-                    special_map,
-                    extra_keiba,
+                    regular_keiba_map,
+                    {},
                     JST,
                     today_display,
                 )
+        else:
+            regular_keiba_map = {
+                k: v
+                for k, v in KEIBA_MAP.items()
+                if k not in {"ＪＲＡ公式", "ＪＲＡグリーン"}
+            }
+            build_future_placeholder(
+                tv,
+                date_str,
+                regular_keiba_map,
+                "競馬",
+                "🏇",
+                JST,
+                today_display,
+            )
 
-        # オートもJSONの日付一致なら各R自動EPG。
-        used_auto_autorace = build_autorace_race_epg(
+        # JRA公式 / グリーンは race JSON の対象外なので、
+        # 固定時刻を持たせず毎日ニュートラルな表示を作る。
+        build_stream_channel_placeholder(
             tv,
             date_str,
-            autorace_schedule,
+            ("ＪＲＡ公式", "ＪＲＡグリーン"),
             JST,
             today_display,
         )
 
-        if not used_auto_autorace:
-            build_manual_category(
+        # -------------------------------------------------
+        # オートレース
+        # -------------------------------------------------
+        if is_today:
+            used_auto_autorace = build_autorace_race_epg(
                 tv,
                 date_str,
-                "auto",
+                autorace_schedule,
+                JST,
+                today_display,
+            )
+            if not used_auto_autorace:
+                build_manual_category(
+                    tv,
+                    date_str,
+                    "auto",
+                    AUTO_MAP,
+                    {},
+                    JST,
+                    today_display,
+                )
+        else:
+            build_future_placeholder(
+                tv,
+                date_str,
                 AUTO_MAP,
-                day_schedules.get("auto", {}),
+                "オートレース",
+                "🏍️",
                 JST,
                 today_display,
             )
