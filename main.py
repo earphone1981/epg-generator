@@ -1,5 +1,7 @@
 import datetime
+import html as html_lib
 import json
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -57,6 +59,44 @@ BOAT_TODAY_URL = (
     "https://raw.githubusercontent.com/"
     "earphone1981/ganble/main/boatrace_today.json"
 )
+
+
+BOAT_OFFICIAL_INDEX_URL = (
+    "https://www.boatrace.jp/owpc/pc/race/index?hd={date}"
+)
+
+BOAT_OFFICIAL_RACEINDEX_URL = (
+    "https://www.boatrace.jp/owpc/pc/race/raceindex?hd={date}&jcd={code}"
+)
+
+BOAT_CODE_BY_NAME = {
+    "01 桐生": "01",
+    "02 戸田": "02",
+    "03 江戸川": "03",
+    "04 平和島": "04",
+    "05 多摩川": "05",
+    "06 浜名湖": "06",
+    "07 蒲郡": "07",
+    "08 常滑": "08",
+    "09 津": "09",
+    "10 三国": "10",
+    "11 びわこ": "11",
+    "12 住之江": "12",
+    "13 尼崎": "13",
+    "14 鳴門": "14",
+    "15 丸亀": "15",
+    "16 児島": "16",
+    "17 宮島": "17",
+    "18 徳山": "18",
+    "19 下関": "19",
+    "20 若松": "20",
+    "21 芦屋": "21",
+    "22 福岡": "22",
+    "23 唐津": "23",
+    "24 大村": "24",
+}
+
+BOAT_NAME_BY_CODE = {code: name for name, code in BOAT_CODE_BY_NAME.items()}
 
 # EPG generation window.
 # Always generate from today through the next 6 days.
@@ -783,6 +823,331 @@ def build_autorace_race_epg(
     return True
 
 
+def fetch_text(url, label="URL"):
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Cache-Control": "no-cache",
+                "Accept-Language": "ja-JP,ja;q=0.9",
+            },
+        )
+        with urllib.request.urlopen(req, timeout=20) as response:
+            return response.read().decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"{label}: 取得失敗: {e}")
+        return ""
+
+
+def strip_html_tags(source):
+    if not source:
+        return ""
+    source = re.sub(r"(?is)<script.*?</script>", " ", source)
+    source = re.sub(r"(?is)<style.*?</style>", " ", source)
+    source = re.sub(r"(?s)<[^>]+>", " ", source)
+    source = html_lib.unescape(source)
+    source = re.sub(r"\s+", " ", source)
+    return source.strip()
+
+
+def extract_boat_active_codes(index_html):
+    # Official daily index links contain jcd=01 ... jcd=24.
+    found = set(
+        re.findall(r"(?:[?&]|&amp;)jcd=(\d{2})", index_html or "")
+    )
+    return sorted(code for code in found if code in BOAT_NAME_BY_CODE)
+
+
+def extract_boat_race_times(race_html):
+    """Return [(race_no, HH:MM), ...] from official raceindex HTML."""
+    if not race_html:
+        return []
+
+    compact = re.sub(r"\s+", " ", html_lib.unescape(race_html))
+    found = {}
+
+    # Works with both visible table text and link-heavy HTML:
+    # 1R ... 15:28, 2R ... 16:02, ...
+    for race_no in range(1, 13):
+        patterns = [
+            rf">\s*{race_no}R\s*<.*?([0-2]?\d:[0-5]\d)",
+            rf"\b{race_no}R\b.{{0,1200}}?([0-2]?\d:[0-5]\d)",
+        ]
+        for pat in patterns:
+            m = re.search(pat, compact, flags=re.I | re.S)
+            if m:
+                found[race_no] = m.group(1)
+                break
+
+    # Fallback on stripped text.
+    if len(found) < 2:
+        plain = strip_html_tags(race_html)
+        for race_no in range(1, 13):
+            if race_no in found:
+                continue
+            m = re.search(
+                rf"\b{race_no}R\b.{{0,150}}?([0-2]?\d:[0-5]\d)",
+                plain,
+                flags=re.I,
+            )
+            if m:
+                found[race_no] = m.group(1)
+
+    return [(n, found[n]) for n in sorted(found)]
+
+
+def infer_boat_day_type(race_times):
+    if not race_times:
+        return "開催", "🚤"
+
+    first = race_times[0][1]
+    try:
+        hour = int(first.split(":")[0])
+    except Exception:
+        return "開催", "🚤"
+
+    if hour < 10:
+        return "モーニング", "🌅"
+    if hour >= 14:
+        return "ナイター", "🌙"
+    return "デイ", "☀️"
+
+
+def fetch_boat_week_schedule(today_date, days):
+    """
+    Official BOAT RACE pages:
+      index?hd=YYYYMMDD -> active venues for that date
+      raceindex?hd=YYYYMMDD&jcd=XX -> 1R..12R race times
+    """
+    week = {}
+
+    for offset in range(days):
+        d = today_date + datetime.timedelta(days=offset)
+        date_str = d.strftime("%Y%m%d")
+        print(f"BOAT 週間予定: {date_str} ...", end="", flush=True)
+
+        index_url = BOAT_OFFICIAL_INDEX_URL.format(date=date_str)
+        index_html = fetch_text(index_url, f"BOAT index {date_str}")
+
+        if not index_html:
+            week[date_str] = {
+                "ok": False,
+                "venues": {},
+            }
+            print(" 取得失敗")
+            continue
+
+        active_codes = extract_boat_active_codes(index_html)
+        venues = {}
+
+        for code in active_codes:
+            v_name = BOAT_NAME_BY_CODE.get(code)
+            if not v_name:
+                continue
+
+            race_url = BOAT_OFFICIAL_RACEINDEX_URL.format(
+                date=date_str,
+                code=code,
+            )
+            race_html = fetch_text(race_url, f"BOAT {date_str} {code}")
+            race_times = extract_boat_race_times(race_html)
+            day_type, emoji = infer_boat_day_type(race_times)
+
+            # Race title = first H2-like heading from the race page when available.
+            title = ""
+            if race_html:
+                m = re.search(r"(?is)<h2[^>]*>(.*?)</h2>", race_html)
+                if m:
+                    title = strip_html_tags(m.group(1))
+
+            venues[v_name] = {
+                "code": code,
+                "title": title,
+                "day_type": day_type,
+                "emoji": emoji,
+                "races": [
+                    {"race": str(race_no), "time": hhmm}
+                    for race_no, hhmm in race_times
+                ],
+            }
+
+        week[date_str] = {
+            "ok": True,
+            "venues": venues,
+        }
+        print(f" {len(venues)}場")
+
+    return week
+
+
+def build_boat_race_epg(
+    tv,
+    date_str,
+    boat_week,
+    JST,
+    today_display,
+):
+    """
+    Build BOAT EPG for one date from official schedule.
+    Returns True if the daily official index was available.
+    """
+    day_info = boat_week.get(date_str, {})
+    if not day_info.get("ok"):
+        return False
+
+    venues = day_info.get("venues", {})
+
+    for v_name, tvg_id in BOAT_MAP.items():
+        day_start = datetime.datetime.strptime(
+            f"{date_str} 01:00", "%Y%m%d %H:%M"
+        ).replace(tzinfo=JST)
+        day_end = datetime.datetime.strptime(
+            f"{date_str} 23:59", "%Y%m%d %H:%M"
+        ).replace(tzinfo=JST)
+
+        info = venues.get(v_name)
+        if not info:
+            add_programme(
+                tv,
+                tvg_id,
+                day_start,
+                day_end,
+                f"💤 本日非開催 {v_name}（ボートレース）",
+                f"BOAT RACE公式の{today_display}開催一覧に"
+                f"{v_name}は掲載されていません。",
+            )
+            continue
+
+        races = info.get("races", [])
+        day_type = info.get("day_type", "開催")
+        emoji = info.get("emoji", "🚤")
+        event_title = info.get("title", "")
+
+        # Future cards can exist before individual race times are published.
+        if not races:
+            title = f"📅 開催予定 {v_name} {emoji}{day_type} 🚤ボートレース"
+            desc_lines = [
+                f"🚤 ボートレース {v_name}",
+                f"{emoji} 開催区分: {day_type}",
+                f"📅 {today_display}",
+                "BOAT RACE公式の開催一覧で開催を確認済み。",
+                "1R～12Rの発走予定時刻は公開後に自動反映します。",
+            ]
+            if event_title:
+                desc_lines.insert(1, f"📢 {event_title}")
+            add_programme(
+                tv,
+                tvg_id,
+                day_start,
+                day_end,
+                title,
+                "\n".join(desc_lines),
+            )
+            continue
+
+        race_dts = []
+        for race in races:
+            try:
+                dt = datetime.datetime.strptime(
+                    f"{date_str} {race.get('time','')}",
+                    "%Y%m%d %H:%M",
+                ).replace(tzinfo=JST)
+            except Exception:
+                continue
+            race_dts.append((race, dt))
+
+        if not race_dts:
+            add_programme(
+                tv,
+                tvg_id,
+                day_start,
+                day_end,
+                f"📅 開催予定 {v_name} {emoji}{day_type} 🚤ボートレース",
+                f"🚤 ボートレース {v_name}\n📅 {today_display}",
+            )
+            continue
+
+        pre_start = max(
+            day_start,
+            race_dts[0][1] - datetime.timedelta(minutes=20),
+        )
+
+        if day_start < pre_start:
+            add_programme(
+                tv,
+                tvg_id,
+                day_start,
+                pre_start,
+                f"⏳ 待機 {v_name} {emoji}{day_type}",
+                "\n".join(
+                    x for x in [
+                        f"🚤 ボートレース {v_name}",
+                        f"📢 {event_title}" if event_title else "",
+                        f"1R {race_dts[0][0].get('time','')} 発走予定",
+                        f"📅 {today_display}",
+                    ] if x
+                ),
+            )
+
+        # Continuous race blocks:
+        # from 10 min before each deadline until 10 min before next race.
+        for idx, (race, race_dt) in enumerate(race_dts):
+            block_start = max(
+                pre_start,
+                race_dt - datetime.timedelta(minutes=10),
+            )
+
+            if idx + 1 < len(race_dts):
+                next_dt = race_dts[idx + 1][1]
+                block_stop = next_dt - datetime.timedelta(minutes=10)
+            else:
+                block_stop = race_dt + datetime.timedelta(minutes=30)
+
+            if block_stop <= block_start:
+                block_stop = race_dt + datetime.timedelta(minutes=15)
+
+            race_no = race.get("race", "")
+            race_time = race.get("time", "")
+
+            title = (
+                f"🚤 {v_name} {race_no}R {race_time}発走 "
+                f"{emoji}{day_type}"
+            ).strip()
+
+            desc_lines = [
+                f"🚤 ボートレース {v_name}",
+                f"{emoji} 開催区分: {day_type}",
+                f"⏰ 発走予定: {race_time}",
+                f"📅 {today_display}",
+            ]
+            if event_title:
+                desc_lines.insert(1, f"📢 {event_title}")
+
+            add_programme(
+                tv,
+                tvg_id,
+                block_start,
+                min(block_stop, day_end),
+                title,
+                "\n".join(desc_lines),
+            )
+
+        finish = race_dts[-1][1] + datetime.timedelta(minutes=30)
+        if finish < day_end:
+            add_programme(
+                tv,
+                tvg_id,
+                finish,
+                day_end,
+                f"🏁 終了 {v_name} {emoji}{day_type}",
+                f"{v_name}の本日のボートレースは終了しました。",
+            )
+
+    return True
+
+
+
 def build_boat_epg(
     tv,
     date_str,
@@ -988,6 +1353,7 @@ def build_epg_xml():
         ET.SubElement(channel, "display-name").text = v_name
 
     today_date = datetime.datetime.now(JST).date()
+    boat_week = fetch_boat_week_schedule(today_date, EPG_DAYS)
 
     for day_offset in range(EPG_DAYS):
         target_date = today_date + datetime.timedelta(days=day_offset)
@@ -1115,15 +1481,29 @@ def build_epg_xml():
                 today_display,
             )
 
-        # ボートJSON
-        build_boat_epg(
+        # -------------------------------------------------
+        # ボートレース
+        # BOAT RACE公式サイトの指定日開催一覧 + raceindex を使い、
+        # 今日から7日先まで開催場と1R～12R発走予定を自動EPG化。
+        # 公式ページ取得失敗時だけ従来JSON方式へフォールバック。
+        # -------------------------------------------------
+        used_boat_official = build_boat_race_epg(
             tv,
             date_str,
-            boat_today,
+            boat_week,
             JST,
-            today_str,
             today_display,
         )
+
+        if not used_boat_official:
+            build_boat_epg(
+                tv,
+                date_str,
+                boat_today,
+                JST,
+                today_str,
+                today_display,
+            )
 
     tree = ET.ElementTree(tv)
 
@@ -1146,6 +1526,7 @@ def build_epg_xml():
     print("============================")
     print("EPG生成完了")
     print(f"ボートLIVE: {boat_live_count} / 24")
+    print(f"ボートEPG: BOAT RACE公式 7日分を自動取得")
     print("競馬: keiba_schedule.json 優先")
     print("競輪: keirin_schedule.json 優先")
     print("オート: autorace_schedule.json 優先")
