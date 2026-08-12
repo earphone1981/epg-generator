@@ -1417,8 +1417,8 @@ def build_epg_xml():
 
         # -------------------------------------------------
         # 競輪
-        # 今日: JSONの日付一致なら各R自動EPG。
-        # 未来: 「非開催」と断定せず、当日更新待ちのプレースホルダー。
+        # 今日: 各R単位だけを生成。旧「1日LIVE枠」は絶対に追加しない。
+        # 未来: 詳細JSONが当日用のため、開催予定プレースホルダーのみ。
         # -------------------------------------------------
         if is_today:
             used_auto_keirin = build_keirin_race_epg(
@@ -1429,12 +1429,14 @@ def build_epg_xml():
                 today_display,
             )
             if not used_auto_keirin:
-                build_manual_category(
+                # 当日のJSON取得に失敗した場合だけ、ニュートラルな待機表示。
+                # 旧LIVE一括枠は作らない。
+                build_future_placeholder(
                     tv,
                     date_str,
-                    "keirin",
                     KEIRIN_MAP,
-                    {},
+                    "競輪",
+                    "🚲",
                     JST,
                     today_display,
                 )
@@ -1468,12 +1470,14 @@ def build_epg_xml():
                     for k, v in KEIBA_MAP.items()
                     if k not in {"ＪＲＡ公式", "ＪＲＡグリーン"}
                 }
-                build_manual_category(
+                # 当日は旧「1日LIVE枠」を作らない。
+                # JSON取得失敗時はニュートラルなプレースホルダーだけにする。
+                build_future_placeholder(
                     tv,
                     date_str,
-                    "keiba",
                     regular_keiba_map,
-                    {},
+                    "競馬",
+                    "🏇",
                     JST,
                     today_display,
                 )
@@ -1515,12 +1519,14 @@ def build_epg_xml():
                 today_display,
             )
             if not used_auto_autorace:
-                build_manual_category(
+                # 当日は旧「1日LIVE枠」を作らない。
+                # JSON取得失敗時はニュートラルなプレースホルダーだけにする。
+                build_future_placeholder(
                     tv,
                     date_str,
-                    "auto",
                     AUTO_MAP,
-                    {},
+                    "オートレース",
+                    "🏍️",
                     JST,
                     today_display,
                 )
@@ -1558,6 +1564,49 @@ def build_epg_xml():
                 today_str,
                 today_display,
             )
+
+
+    # -------------------------------------------------
+    # Safety cleanup:
+    # For TODAY's keirin channels, keep only the new per-race model:
+    #   待機 / 各R / 終了 / neutral placeholder
+    # Remove legacy day-long "LIVE 松山 ... 2日目" style blocks if any
+    # other code path accidentally added them.
+    # -------------------------------------------------
+    today_prefix = today_str
+    for prog in list(tv.findall("programme")):
+        ch = prog.get("channel", "")
+        start_attr = prog.get("start", "")
+        category = None
+        if ch.startswith("keirin."):
+            category = "keirin"
+        elif ch.startswith("keiba.") and ch not in {"keiba.jra", "keiba.green"}:
+            category = "keiba"
+        elif ch.startswith("auto.") or ch.startswith("autorace."):
+            category = "autorace"
+
+        if category is None or not start_attr.startswith(today_prefix):
+            continue
+
+        title_el = prog.find("title")
+        title_text = title_el.text if title_el is not None and title_el.text else ""
+
+        # 当日は全公営競技を各R単位に統一。
+        # レース名（特別、予選、準決、優勝戦など）は各Rタイトル側にそのまま残す。
+        keep = (
+            "R" in title_text and (
+                "発走" in title_text
+                or category in {"keiba", "autorace"}
+            )
+        ) or title_text.startswith("⏳ 待機") \
+          or title_text.startswith("🏁 終了") \
+          or title_text.startswith("📅") \
+          or title_text.startswith("💤")
+
+        legacy_live = "🔴 LIVE" in title_text and "R" not in title_text
+
+        if legacy_live or not keep:
+            tv.remove(prog)
 
     tree = ET.ElementTree(tv)
 
