@@ -584,8 +584,8 @@ def build_keirin_race_epg(
         day_type = info.get("day_type", "デイ")
         day_icon = info.get("day_emoji", day_emoji(day_type))
         grade = info.get("grade", "")
-        event_name = info.get("event_name", "")
-        event_day = info.get("event_day", "")
+        event_name = clean_epg_meta_text(info.get("event_name", ""))
+        event_day = clean_epg_meta_text(info.get("event_day", ""))
 
         day_start = datetime.datetime.strptime(
             f"{date_str} 01:00", "%Y%m%d %H:%M"
@@ -697,6 +697,19 @@ def build_keirin_race_epg(
     return True
 
 
+def clean_epg_meta_text(value):
+    """Drop broken metadata such as a lone Japanese parenthesis from EPG."""
+    s = re.sub(r"\s+", " ", str(value or "")).strip()
+    if not s:
+        return ""
+    s = s.strip(" \t\r\n-|｜()（）[]【】『』「」・:：,，.。")
+    if not s:
+        return ""
+    if not re.search(r"[0-9A-Za-zぁ-んァ-ヶ一-龠々〆ヶ]", s):
+        return ""
+    return s
+
+
 def build_autorace_race_epg(
     tv,
     date_str,
@@ -789,7 +802,18 @@ def build_autorace_race_epg(
 
             race_no = race.get("race", "")
             race_name = race.get("name", "").strip() or race.get("race_type", "競走")
-            main = bool(race.get("main"))
+            raw_main = bool(race.get("main"))
+            is_semi = bool(race.get("is_semi")) or "準決" in race_name
+            is_final = (
+                bool(race.get("is_final"))
+                or "優勝" in race_name
+                or "決勝" in race_name
+            ) and not is_semi
+            is_special_main = any(
+                word in race_name
+                for word in ("特選", "特別選抜", "選抜戦")
+            )
+            main = raw_main and (is_final or is_special_main)
             icon = race.get("icon", "🏍️")
 
             title_parts = []
@@ -819,9 +843,6 @@ def build_autorace_race_epg(
                 desc_lines.append(f"📢 開催名: {event_name}")
             if event_day:
                 desc_lines.append(f"📅 開催日次: {event_day}")
-            is_semi = bool(race.get("is_semi")) or "準決" in race_name
-            is_final = bool(race.get("is_final")) and not is_semi
-
             if is_semi:
                 desc_lines.append("🔥 準決勝")
             if is_final:
