@@ -1863,36 +1863,50 @@
         <desc lang="ja">浜松の本日のオートレースは終了しました。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.kiryu">
-        <title lang="ja">💤 本日非開催 01 桐生（ボートレース）</title>
-        <desc lang="ja">01 桐生のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 01 桐生 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.toda">
-        <title lang="ja">💤 本日非開催 02 戸田（ボートレース）</title>
-        <desc lang="ja">02 戸田のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 02 戸田 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.edogawa">
-        <title lang="ja">💤 本日非開催 03 江戸川（ボートレース）</title>
-        <desc lang="ja">03 江戸川のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 03 江戸川 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.heiwajima">
-        <title lang="ja">💤 本日非開催 04 平和島（ボートレース）</title>
-        <desc lang="ja">04 平和島のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 04 平和島 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tamagawa">
         <title lang="ja">💤 本日非開催 05 多摩川（ボートレース）</title>
         <desc lang="ja">05 多摩川のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.hamanako">
-        <title lang="ja">💤 本日非開催 06 浜名湖（ボートレース）</title>
-        <desc lang="ja">06 浜名湖のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 06 浜名湖 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.gamagori">
-        <title lang="ja">💤 本日非開催 07 蒲郡（ボートレース）</title>
-        <desc lang="ja">07 蒲郡のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 07 蒲郡 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tokoname">
-        <title lang="ja">💤 本日非開催 08 常滑（ボートレース）</title>
-        <desc lang="ja">08 常滑のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 08 常滑 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.tsu">
         <title lang="ja">💤 本日非開催 09 津（ボートレース）</title>
@@ -1911,8 +1925,10 @@
         <desc lang="ja">12 住之江のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.amagasaki">
-        <title lang="ja">💤 本日非開催 13 尼崎（ボートレース）</title>
-        <desc lang="ja">13 尼崎のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 13 尼崎 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.naruto">
         <title lang="ja">💤 本日非開催 14 鳴門（ボートレース）</title>
@@ -1923,8 +1939,10 @@
         <desc lang="ja">15 丸亀のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.kojima">
-        <title lang="ja">💤 本日非開催 16 児島（ボートレース）</title>
-        <desc lang="ja">16 児島のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 16 児島 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.miyajima">
         <title lang="ja">💤 本日非開催 17 宮島（ボートレース）</title>
@@ -1935,28 +1953,40 @@
         <desc lang="ja">18 徳山のライブ配信URLは取得されていません。</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">💤 本日非開催 19 下関（ボートレース）</title>
-        <desc lang="ja">19 下関のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 19 下関 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.wakamatsu">
-        <title lang="ja">💤 本日非開催 20 若松（ボートレース）</title>
-        <desc lang="ja">20 若松のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 20 若松 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 20 若松
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.ashiya">
-        <title lang="ja">💤 本日非開催 21 芦屋（ボートレース）</title>
-        <desc lang="ja">21 芦屋のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 21 芦屋 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.fukuoka">
-        <title lang="ja">💤 本日非開催 22 福岡（ボートレース）</title>
-        <desc lang="ja">22 福岡のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 22 福岡 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.karatsu">
-        <title lang="ja">💤 本日非開催 23 唐津（ボートレース）</title>
-        <desc lang="ja">23 唐津のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 23 唐津 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260812010000 +0900" stop="20260812235900 +0900" channel="boat.omura">
-        <title lang="ja">💤 本日非開催 24 大村（ボートレース）</title>
-        <desc lang="ja">24 大村のライブ配信URLは取得されていません。</desc>
+        <title lang="ja">🔴 LIVE 24 大村 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+✅ 配信URL取得済み
+📅 2026年08月12日</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="keirin.hakodate">
         <title lang="ja">💤 本日非開催 函館（競輪）</title>
