@@ -894,7 +894,7 @@
 1R 11:14 発走予定
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813110400 +0900" stop="20260813113100 +0900" channel="boat.edogawa">
+    <programme start="20260813110400 +0900" stop="20260813113300 +0900" channel="boat.edogawa">
         <title lang="ja">🚤 03 江戸川 1R 11:14発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
@@ -902,95 +902,95 @@
 ⏰ 発走予定: 11:14
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813113100 +0900" stop="20260813115800 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 2R 11:41発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813113300 +0900" stop="20260813120000 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 2R 11:43発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 11:41
+⏰ 発走予定: 11:43
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813115800 +0900" stop="20260813122500 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 3R 12:08発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813120000 +0900" stop="20260813122700 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 3R 12:10発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 12:08
+⏰ 発走予定: 12:10
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813122500 +0900" stop="20260813125200 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 4R 12:35発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813122700 +0900" stop="20260813125400 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 4R 12:37発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 12:35
+⏰ 発走予定: 12:37
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813125200 +0900" stop="20260813131900 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 5R 13:02発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813125400 +0900" stop="20260813132100 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 5R 13:04発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 13:02
+⏰ 発走予定: 13:04
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813131900 +0900" stop="20260813134600 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 6R 13:29発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813132100 +0900" stop="20260813134800 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 6R 13:31発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 13:29
+⏰ 発走予定: 13:31
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813134600 +0900" stop="20260813141400 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 7R 13:56発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813134800 +0900" stop="20260813141600 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 7R 13:58発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 13:56
+⏰ 発走予定: 13:58
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813141400 +0900" stop="20260813144200 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 8R 14:24発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813141600 +0900" stop="20260813144400 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 8R 14:26発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 14:24
+⏰ 発走予定: 14:26
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813144200 +0900" stop="20260813151200 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 9R 14:52発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813144400 +0900" stop="20260813151400 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 9R 14:54発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 14:52
+⏰ 発走予定: 14:54
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813151200 +0900" stop="20260813154300 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 10R 15:22発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813151400 +0900" stop="20260813154500 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 10R 15:24発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:22
+⏰ 発走予定: 15:24
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813154300 +0900" stop="20260813161500 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 11R 15:53発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813154500 +0900" stop="20260813161700 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 11R 15:55発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:53
+⏰ 発走予定: 15:55
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813161500 +0900" stop="20260813165500 +0900" channel="boat.edogawa">
-        <title lang="ja">🚤 03 江戸川 12R 16:25発走 ☀️デイ 第４８回大江戸賞</title>
+    <programme start="20260813161700 +0900" stop="20260813165700 +0900" channel="boat.edogawa">
+        <title lang="ja">🚤 03 江戸川 12R 16:27発走 ☀️デイ 第４８回大江戸賞</title>
         <desc lang="ja">🚤 ボートレース 03 江戸川
 📢 第４８回大江戸賞
 ☀️ 開催区分: デイ
-⏰ 発走予定: 16:25
+⏰ 発走予定: 16:27
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813165500 +0900" stop="20260813235900 +0900" channel="boat.edogawa">
+    <programme start="20260813165700 +0900" stop="20260813235900 +0900" channel="boat.edogawa">
         <title lang="ja">🏁 終了 03 江戸川 ☀️デイ</title>
         <desc lang="ja">03 江戸川の本日のボートレースは終了しました。</desc>
     </programme>
@@ -1675,7 +1675,7 @@
 ⏰ 発走予定: 10:45
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813110200 +0900" stop="20260813112900 +0900" channel="boat.kojima">
+    <programme start="20260813110200 +0900" stop="20260813113000 +0900" channel="boat.kojima">
         <title lang="ja">🚤 16 児島 2R 11:12発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
@@ -1683,87 +1683,87 @@
 ⏰ 発走予定: 11:12
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813112900 +0900" stop="20260813120200 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 3R 11:39発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813113000 +0900" stop="20260813120300 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 3R 11:40発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 11:39
+⏰ 発走予定: 11:40
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813120200 +0900" stop="20260813123200 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 4R 12:12発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813120300 +0900" stop="20260813123300 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 4R 12:13発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 12:12
+⏰ 発走予定: 12:13
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813123200 +0900" stop="20260813131200 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 5R 12:42発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813123300 +0900" stop="20260813131300 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 5R 12:43発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 12:42
+⏰ 発走予定: 12:43
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813131200 +0900" stop="20260813135000 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 6R 13:22発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813131300 +0900" stop="20260813135100 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 6R 13:23発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 13:22
+⏰ 発走予定: 13:23
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813135000 +0900" stop="20260813142900 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 7R 14:00発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813135100 +0900" stop="20260813143000 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 7R 14:01発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 14:00
+⏰ 発走予定: 14:01
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813142900 +0900" stop="20260813145800 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 8R 14:39発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813143000 +0900" stop="20260813145900 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 8R 14:40発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 14:39
+⏰ 発走予定: 14:40
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813145800 +0900" stop="20260813153000 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 9R 15:08発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813145900 +0900" stop="20260813153100 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 9R 15:09発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:08
+⏰ 発走予定: 15:09
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813153000 +0900" stop="20260813160300 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 10R 15:40発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813153100 +0900" stop="20260813160400 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 10R 15:41発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 15:40
+⏰ 発走予定: 15:41
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813160300 +0900" stop="20260813163700 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 11R 16:13発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813160400 +0900" stop="20260813163800 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 11R 16:14発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 16:13
+⏰ 発走予定: 16:14
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813163700 +0900" stop="20260813171700 +0900" channel="boat.kojima">
-        <title lang="ja">🚤 16 児島 12R 16:47発走 ☀️デイ 第４４回天領杯</title>
+    <programme start="20260813163800 +0900" stop="20260813171800 +0900" channel="boat.kojima">
+        <title lang="ja">🚤 16 児島 12R 16:48発走 ☀️デイ 第４４回天領杯</title>
         <desc lang="ja">🚤 ボートレース 16 児島
 📢 第４４回天領杯
 ☀️ 開催区分: デイ
-⏰ 発走予定: 16:47
+⏰ 発走予定: 16:48
 📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813171700 +0900" stop="20260813235900 +0900" channel="boat.kojima">
+    <programme start="20260813171800 +0900" stop="20260813235900 +0900" channel="boat.kojima">
         <title lang="ja">🏁 終了 16 児島 ☀️デイ</title>
         <desc lang="ja">16 児島の本日のボートレースは終了しました。</desc>
     </programme>
