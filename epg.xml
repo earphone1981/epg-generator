@@ -673,37 +673,669 @@
 📅 2026年08月13日
 当日データ取得時に詳細EPGへ自動更新します。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.kiryu">
-        <title lang="ja">⛔ 01 桐生 本日非開催</title>
-        <desc lang="ja">本日は01 桐生でのボートレース開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813144500 +0900" channel="boat.kiryu">
+        <title lang="ja">⏳ 待機 01 桐生 🌞デイ 1R【15:17】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.toda">
-        <title lang="ja">⛔ 02 戸田 本日非開催</title>
-        <desc lang="ja">本日は02 戸田でのボートレース開催予定はありません。</desc>
+    <programme start="20260813144500 +0900" stop="20260813151700 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 1R【15:17】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 15:17
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.edogawa">
-        <title lang="ja">⛔ 03 江戸川 本日非開催</title>
-        <desc lang="ja">本日は03 江戸川でのボートレース開催予定はありません。</desc>
+    <programme start="20260813151700 +0900" stop="20260813154200 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 2R【15:42】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 15:42
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.heiwajima">
-        <title lang="ja">⛔ 04 平和島 本日非開催</title>
-        <desc lang="ja">本日は04 平和島でのボートレース開催予定はありません。</desc>
+    <programme start="20260813154200 +0900" stop="20260813160700 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 3R【16:07】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 16:07
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813160700 +0900" stop="20260813163300 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 4R【16:33】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 16:33
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813163300 +0900" stop="20260813170100 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 5R【17:01】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 17:01
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813170100 +0900" stop="20260813172500 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 6R【17:25】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 17:25
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813172500 +0900" stop="20260813175200 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 7R【17:52】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 17:52
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813175200 +0900" stop="20260813182200 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 8R【18:22】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 18:22
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813182200 +0900" stop="20260813185200 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 9R【18:52】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 18:52
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813185200 +0900" stop="20260813192400 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 10R【19:24】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 19:24
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813192400 +0900" stop="20260813200200 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 11R【20:02】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 20:02
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813200200 +0900" stop="20260813203100 +0900" channel="boat.kiryu">
+        <title lang="ja">🌞 01 桐生 12R【20:31】</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+🌞 開催区分: デイ
+⏰ 締切予定: 20:31
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813203100 +0900" stop="20260813235900 +0900" channel="boat.kiryu">
+        <title lang="ja">🏁 01 桐生 本日開催終了</title>
+        <desc lang="ja">01 桐生の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813100900 +0900" channel="boat.toda">
+        <title lang="ja">⏳ 待機 02 戸田 🌙ナイター 1R【10:47】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813100900 +0900" stop="20260813104700 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 1R【10:47】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 10:47
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813104700 +0900" stop="20260813111600 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 2R【11:16】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:16
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813111600 +0900" stop="20260813114500 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 3R【11:45】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:45
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813114500 +0900" stop="20260813121400 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 4R【12:14】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:14
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813121400 +0900" stop="20260813124400 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 5R【12:44】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:44
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813124400 +0900" stop="20260813131400 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 6R【13:14】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:14
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813131400 +0900" stop="20260813134500 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 7R【13:45】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:45
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813134500 +0900" stop="20260813141600 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 8R【14:16】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:16
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813141600 +0900" stop="20260813144800 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 9R【14:48】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:48
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813144800 +0900" stop="20260813153600 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 10R【15:36】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:36
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813153600 +0900" stop="20260813161000 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 11R【16:10】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:10
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813161000 +0900" stop="20260813164500 +0900" channel="boat.toda">
+        <title lang="ja">🌙 02 戸田 12R【16:45】</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:45
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813164500 +0900" stop="20260813235900 +0900" channel="boat.toda">
+        <title lang="ja">🏁 02 戸田 本日開催終了</title>
+        <desc lang="ja">02 戸田の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813103900 +0900" channel="boat.edogawa">
+        <title lang="ja">⏳ 待機 03 江戸川 🌙ナイター 1R【11:14】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813103900 +0900" stop="20260813111400 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 1R【11:14】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:14
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813111400 +0900" stop="20260813114300 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 2R【11:43】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:43
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813114300 +0900" stop="20260813120900 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 3R【12:09】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:09
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813120900 +0900" stop="20260813123500 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 4R【12:35】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:35
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813123500 +0900" stop="20260813130200 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 5R【13:02】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:02
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813130200 +0900" stop="20260813132900 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 6R【13:29】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:29
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813132900 +0900" stop="20260813135600 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 7R【13:56】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:56
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813135600 +0900" stop="20260813142400 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 8R【14:24】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:24
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813142400 +0900" stop="20260813145200 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 9R【14:52】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:52
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813145200 +0900" stop="20260813152200 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 10R【15:22】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:22
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813152200 +0900" stop="20260813155300 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 11R【15:53】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:53
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813155300 +0900" stop="20260813162500 +0900" channel="boat.edogawa">
+        <title lang="ja">🌙 03 江戸川 12R【16:25】</title>
+        <desc lang="ja">🚤 ボートレース 03 江戸川
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:25
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813162500 +0900" stop="20260813235900 +0900" channel="boat.edogawa">
+        <title lang="ja">🏁 03 江戸川 本日開催終了</title>
+        <desc lang="ja">03 江戸川の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813100000 +0900" channel="boat.heiwajima">
+        <title lang="ja">⏳ 待機 04 平和島 🌙ナイター 1R【11:55】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813100000 +0900" stop="20260813115500 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 1R【11:55】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:55
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813115500 +0900" stop="20260813122400 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 2R【12:24】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:24
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813122400 +0900" stop="20260813125400 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 3R【12:54】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:54
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813125400 +0900" stop="20260813132400 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 4R【13:24】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:24
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813132400 +0900" stop="20260813135500 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 5R【13:55】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:55
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813135500 +0900" stop="20260813142600 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 6R【14:26】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:26
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813142600 +0900" stop="20260813145800 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 7R【14:58】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:58
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813145800 +0900" stop="20260813153100 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 8R【15:31】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:31
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813153100 +0900" stop="20260813160500 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 9R【16:05】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:05
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813160500 +0900" stop="20260813163700 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 10R【16:37】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:37
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813163700 +0900" stop="20260813170800 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 11R【17:08】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 17:08
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813170800 +0900" stop="20260813174200 +0900" channel="boat.heiwajima">
+        <title lang="ja">🌙 04 平和島 12R【17:42】</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+🌙 開催区分: ナイター
+⏰ 締切予定: 17:42
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813174200 +0900" stop="20260813235900 +0900" channel="boat.heiwajima">
+        <title lang="ja">🏁 04 平和島 本日開催終了</title>
+        <desc lang="ja">04 平和島の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.tamagawa">
         <title lang="ja">⛔ 05 多摩川 本日非開催</title>
         <desc lang="ja">本日は05 多摩川でのボートレース開催予定はありません。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.hamanako">
-        <title lang="ja">⛔ 06 浜名湖 本日非開催</title>
-        <desc lang="ja">本日は06 浜名湖でのボートレース開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813105000 +0900" channel="boat.hamanako">
+        <title lang="ja">⏳ 待機 06 浜名湖 🌙ナイター 1R【11:25】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.gamagori">
-        <title lang="ja">⛔ 07 蒲郡 本日非開催</title>
-        <desc lang="ja">本日は07 蒲郡でのボートレース開催予定はありません。</desc>
+    <programme start="20260813105000 +0900" stop="20260813112500 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 1R【11:25】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:25
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.tokoname">
-        <title lang="ja">⛔ 08 常滑 本日非開催</title>
-        <desc lang="ja">本日は08 常滑でのボートレース開催予定はありません。</desc>
+    <programme start="20260813112500 +0900" stop="20260813115900 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 2R【11:59】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:59
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813115900 +0900" stop="20260813123000 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 3R【12:30】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813123000 +0900" stop="20260813125800 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 4R【12:58】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:58
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813125800 +0900" stop="20260813133300 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 5R【13:33】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:33
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813133300 +0900" stop="20260813140800 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 6R【14:08】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:08
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813140800 +0900" stop="20260813143500 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 7R【14:35】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:35
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813143500 +0900" stop="20260813150500 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 8R【15:05】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:05
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813150500 +0900" stop="20260813153600 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 9R【15:36】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:36
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813153600 +0900" stop="20260813160800 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 10R【16:08】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:08
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813160800 +0900" stop="20260813163500 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 11R【16:35】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:35
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813163500 +0900" stop="20260813170400 +0900" channel="boat.hamanako">
+        <title lang="ja">🌙 06 浜名湖 12R【17:04】</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+🌙 開催区分: ナイター
+⏰ 締切予定: 17:04
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813170400 +0900" stop="20260813235900 +0900" channel="boat.hamanako">
+        <title lang="ja">🏁 06 浜名湖 本日開催終了</title>
+        <desc lang="ja">06 浜名湖の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813141000 +0900" channel="boat.gamagori">
+        <title lang="ja">⏳ 待機 07 蒲郡 🌞デイ 1R【15:25】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813141000 +0900" stop="20260813152500 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 1R【15:25】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 15:25
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813152500 +0900" stop="20260813155000 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 2R【15:50】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 15:50
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813155000 +0900" stop="20260813161900 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 3R【16:19】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 16:19
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813161900 +0900" stop="20260813164400 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 4R【16:44】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 16:44
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813164400 +0900" stop="20260813171100 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 5R【17:11】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 17:11
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813171100 +0900" stop="20260813173600 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 6R【17:36】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 17:36
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813173600 +0900" stop="20260813180300 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 7R【18:03】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 18:03
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813180300 +0900" stop="20260813184000 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 8R【18:40】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 18:40
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813184000 +0900" stop="20260813191100 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 9R【19:11】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 19:11
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813191100 +0900" stop="20260813194200 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 10R【19:42】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 19:42
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813194200 +0900" stop="20260813201300 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 11R【20:13】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 20:13
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813201300 +0900" stop="20260813204100 +0900" channel="boat.gamagori">
+        <title lang="ja">🌞 07 蒲郡 12R【20:41】</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+🌞 開催区分: デイ
+⏰ 締切予定: 20:41
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813204100 +0900" stop="20260813235900 +0900" channel="boat.gamagori">
+        <title lang="ja">🏁 07 蒲郡 本日開催終了</title>
+        <desc lang="ja">07 蒲郡の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813095900 +0900" channel="boat.tokoname">
+        <title lang="ja">⏳ 待機 08 常滑 🌙ナイター 1R【10:33】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813095900 +0900" stop="20260813103300 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 1R 朝トコ小判Ｒ【10:33】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+📢 レース名: 朝トコ小判Ｒ
+⏰ 締切予定: 10:33
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813103300 +0900" stop="20260813110600 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 2R【11:06】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:06
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813110600 +0900" stop="20260813113400 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 3R【11:34】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:34
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813113400 +0900" stop="20260813120700 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 4R【12:07】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:07
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813120700 +0900" stop="20260813123500 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 5R 三Ａ傑戦【12:35】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+📢 レース名: 三Ａ傑戦
+⏰ 締切予定: 12:35
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813123500 +0900" stop="20260813130800 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 6R【13:08】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:08
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813130800 +0900" stop="20260813133800 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 7R【13:38】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:38
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813133800 +0900" stop="20260813140600 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 8R【14:06】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:06
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813140600 +0900" stop="20260813143300 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 9R【14:33】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:33
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813143300 +0900" stop="20260813150200 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 10R【15:02】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:02
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813150200 +0900" stop="20260813153000 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 11R【15:30】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813153000 +0900" stop="20260813160200 +0900" channel="boat.tokoname">
+        <title lang="ja">🌙 08 常滑 12R【16:02】</title>
+        <desc lang="ja">🚤 ボートレース 08 常滑
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:02
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813160200 +0900" stop="20260813235900 +0900" channel="boat.tokoname">
+        <title lang="ja">🏁 08 常滑 本日開催終了</title>
+        <desc lang="ja">08 常滑の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.tsu">
         <title lang="ja">⛔ 09 津 本日非開催</title>
@@ -717,13 +1349,193 @@
         <title lang="ja">⛔ 11 びわこ 本日非開催</title>
         <desc lang="ja">本日は11 びわこでのボートレース開催予定はありません。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.suminoe">
-        <title lang="ja">⛔ 12 住之江 本日非開催</title>
-        <desc lang="ja">本日は12 住之江でのボートレース開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813135500 +0900" channel="boat.suminoe">
+        <title lang="ja">⏳ 待機 12 住之江 🌞デイ 1R【15:16】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.amagasaki">
-        <title lang="ja">⛔ 13 尼崎 本日非開催</title>
-        <desc lang="ja">本日は13 尼崎でのボートレース開催予定はありません。</desc>
+    <programme start="20260813135500 +0900" stop="20260813151600 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 1R【15:16】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 15:16
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813151600 +0900" stop="20260813153800 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 2R【15:38】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 15:38
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813153800 +0900" stop="20260813160300 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 3R【16:03】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 16:03
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813160300 +0900" stop="20260813164000 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 4R【16:40】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 16:40
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813164000 +0900" stop="20260813170600 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 5R【17:06】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 17:06
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813170600 +0900" stop="20260813173200 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 6R【17:32】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 17:32
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813173200 +0900" stop="20260813175900 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 7R【17:59】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 17:59
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813175900 +0900" stop="20260813182800 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 8R【18:28】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 18:28
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813182800 +0900" stop="20260813185800 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 9R【18:58】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 18:58
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813185800 +0900" stop="20260813193600 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 10R【19:36】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 19:36
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813193600 +0900" stop="20260813200800 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 11R【20:08】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 20:08
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813200800 +0900" stop="20260813203600 +0900" channel="boat.suminoe">
+        <title lang="ja">🌞 12 住之江 12R【20:36】</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+🌞 開催区分: デイ
+⏰ 締切予定: 20:36
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813203600 +0900" stop="20260813235900 +0900" channel="boat.suminoe">
+        <title lang="ja">🏁 12 住之江 本日開催終了</title>
+        <desc lang="ja">12 住之江の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813100200 +0900" channel="boat.amagasaki">
+        <title lang="ja">⏳ 待機 13 尼崎 🌙ナイター 1R【10:39】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813100200 +0900" stop="20260813103900 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 1R【10:39】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 10:39
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813103900 +0900" stop="20260813110400 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 2R【11:04】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:04
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813110400 +0900" stop="20260813112800 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 3R【11:28】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:28
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813112800 +0900" stop="20260813115700 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 4R【11:57】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:57
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813115700 +0900" stop="20260813122800 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 5R【12:28】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:28
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813122800 +0900" stop="20260813130500 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 6R【13:05】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:05
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813130500 +0900" stop="20260813134100 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 7R【13:41】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:41
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813134100 +0900" stop="20260813141300 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 8R【14:13】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:13
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813141300 +0900" stop="20260813144300 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 9R【14:43】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:43
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813144300 +0900" stop="20260813151200 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 10R【15:12】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:12
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813151200 +0900" stop="20260813154400 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 11R【15:44】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:44
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813154400 +0900" stop="20260813162300 +0900" channel="boat.amagasaki">
+        <title lang="ja">🌙 13 尼崎 12R【16:23】</title>
+        <desc lang="ja">🚤 ボートレース 13 尼崎
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:23
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813162300 +0900" stop="20260813235900 +0900" channel="boat.amagasaki">
+        <title lang="ja">🏁 13 尼崎 本日開催終了</title>
+        <desc lang="ja">13 尼崎の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.naruto">
         <title lang="ja">⛔ 14 鳴門 本日非開催</title>
@@ -733,9 +1545,99 @@
         <title lang="ja">⛔ 15 丸亀 本日非開催</title>
         <desc lang="ja">本日は15 丸亀でのボートレース開催予定はありません。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.kojima">
-        <title lang="ja">⛔ 16 児島 本日非開催</title>
-        <desc lang="ja">本日は16 児島でのボートレース開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813094000 +0900" channel="boat.kojima">
+        <title lang="ja">⏳ 待機 16 児島 🌙ナイター 1R【10:45】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813094000 +0900" stop="20260813104500 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 1R【10:45】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 10:45
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813104500 +0900" stop="20260813111200 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 2R【11:12】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:12
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813111200 +0900" stop="20260813114000 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 3R【11:40】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 11:40
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813114000 +0900" stop="20260813121300 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 4R【12:13】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:13
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813121300 +0900" stop="20260813124300 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 5R【12:43】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 12:43
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813124300 +0900" stop="20260813132300 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 6R【13:23】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 13:23
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813132300 +0900" stop="20260813140100 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 7R【14:01】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:01
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813140100 +0900" stop="20260813144000 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 8R【14:40】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 14:40
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813144000 +0900" stop="20260813150900 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 9R【15:09】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:09
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813150900 +0900" stop="20260813154100 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 10R【15:41】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 15:41
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813154100 +0900" stop="20260813161400 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 11R【16:14】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:14
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813161400 +0900" stop="20260813164800 +0900" channel="boat.kojima">
+        <title lang="ja">🌙 16 児島 12R【16:48】</title>
+        <desc lang="ja">🚤 ボートレース 16 児島
+🌙 開催区分: ナイター
+⏰ 締切予定: 16:48
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813164800 +0900" stop="20260813235900 +0900" channel="boat.kojima">
+        <title lang="ja">🏁 16 児島 本日開催終了</title>
+        <desc lang="ja">16 児島の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.miyajima">
         <title lang="ja">⛔ 17 宮島 本日非開催</title>
@@ -745,29 +1647,487 @@
         <title lang="ja">⛔ 18 徳山 本日非開催</title>
         <desc lang="ja">本日は18 徳山でのボートレース開催予定はありません。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">⛔ 19 下関 本日非開催</title>
-        <desc lang="ja">本日は19 下関でのボートレース開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813110000 +0900" channel="boat.shimonoseki">
+        <title lang="ja">⏳ 待機 19 下関 🌙ナイター 1R【17:41】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813110000 +0900" stop="20260813174100 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 1R【17:41】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 17:41
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813174100 +0900" stop="20260813180800 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 2R【18:08】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 18:08
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813180800 +0900" stop="20260813183400 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 3R【18:34】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 18:34
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813183400 +0900" stop="20260813190300 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 4R【19:03】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 19:03
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813190300 +0900" stop="20260813193000 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 5R【19:30】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 19:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813193000 +0900" stop="20260813195600 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 6R【19:56】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 19:56
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813195600 +0900" stop="20260813202500 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 7R【20:25】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 20:25
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813202500 +0900" stop="20260813205600 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 8R【20:56】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 20:56
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813205600 +0900" stop="20260813211900 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 9R【21:19】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 21:19
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813211900 +0900" stop="20260813214200 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 10R【21:42】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 21:42
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813214200 +0900" stop="20260813220500 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 11R【22:05】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 22:05
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813220500 +0900" stop="20260813223000 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🌙 19 下関 12R【22:30】</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+🌙 開催区分: ナイター
+⏰ 締切予定: 22:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813223000 +0900" stop="20260813235900 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🏁 19 下関 本日開催終了</title>
+        <desc lang="ja">19 下関の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.wakamatsu">
         <title lang="ja">⛔ 20 若松 本日非開催</title>
         <desc lang="ja">本日は20 若松でのボートレース開催予定はありません。</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.ashiya">
-        <title lang="ja">⛔ 21 芦屋 本日非開催</title>
-        <desc lang="ja">本日は21 芦屋でのボートレース開催予定はありません。</desc>
+    <programme start="20260813010000 +0900" stop="20260813075700 +0900" channel="boat.ashiya">
+        <title lang="ja">⏳ 待機 21 芦屋 🌅モーニング 1R【08:32】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.fukuoka">
-        <title lang="ja">⛔ 22 福岡 本日非開催</title>
-        <desc lang="ja">本日は22 福岡でのボートレース開催予定はありません。</desc>
+    <programme start="20260813075700 +0900" stop="20260813083200 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 1R サンライズＶ戦【08:32】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+📢 レース名: サンライズＶ戦
+⏰ 締切予定: 08:32
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.karatsu">
-        <title lang="ja">⛔ 23 唐津 本日非開催</title>
-        <desc lang="ja">本日は23 唐津でのボートレース開催予定はありません。</desc>
+    <programme start="20260813083200 +0900" stop="20260813085800 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 2R サンライズＷ戦【08:58】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+📢 レース名: サンライズＷ戦
+⏰ 締切予定: 08:58
+📅 2026年08月13日</desc>
     </programme>
-    <programme start="20260813010000 +0900" stop="20260813235900 +0900" channel="boat.omura">
-        <title lang="ja">⛔ 24 大村 本日非開催</title>
-        <desc lang="ja">本日は24 大村でのボートレース開催予定はありません。</desc>
+    <programme start="20260813085800 +0900" stop="20260813092400 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 3R サンライズＸ戦【09:24】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+📢 レース名: サンライズＸ戦
+⏰ 締切予定: 09:24
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813092400 +0900" stop="20260813095000 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 4R サンライズＹ戦【09:50】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+📢 レース名: サンライズＹ戦
+⏰ 締切予定: 09:50
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813095000 +0900" stop="20260813101600 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 5R【10:16】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 10:16
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813101600 +0900" stop="20260813105000 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 6R【10:50】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 10:50
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813105000 +0900" stop="20260813112000 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 7R【11:20】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 11:20
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813112000 +0900" stop="20260813115200 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 8R【11:52】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 11:52
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813115200 +0900" stop="20260813122100 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 9R【12:21】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 12:21
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813122100 +0900" stop="20260813125100 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 10R【12:51】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 12:51
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813125100 +0900" stop="20260813132700 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 11R【13:27】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 13:27
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813132700 +0900" stop="20260813140200 +0900" channel="boat.ashiya">
+        <title lang="ja">🌅 21 芦屋 12R【14:02】</title>
+        <desc lang="ja">🚤 ボートレース 21 芦屋
+🌅 開催区分: モーニング
+⏰ 締切予定: 14:02
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813140200 +0900" stop="20260813235900 +0900" channel="boat.ashiya">
+        <title lang="ja">🏁 21 芦屋 本日開催終了</title>
+        <desc lang="ja">21 芦屋の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813114000 +0900" channel="boat.fukuoka">
+        <title lang="ja">⏳ 待機 22 福岡 🌟ミッドナイト 1R【12:18】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813114000 +0900" stop="20260813121800 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 1R カタメン１予選【12:18】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+📢 レース名: カタメン１予選
+⏰ 締切予定: 12:18
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813121800 +0900" stop="20260813124700 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 2R【12:47】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 12:47
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813124700 +0900" stop="20260813131800 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 3R カタメン３予選【13:18】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+📢 レース名: カタメン３予選
+⏰ 締切予定: 13:18
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813131800 +0900" stop="20260813134300 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 4R【13:43】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 13:43
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813134300 +0900" stop="20260813142000 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 5R【14:20】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 14:20
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813142000 +0900" stop="20260813144600 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 6R【14:46】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 14:46
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813144600 +0900" stop="20260813151400 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 7R【15:14】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 15:14
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813151400 +0900" stop="20260813154600 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 8R【15:46】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 15:46
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813154600 +0900" stop="20260813161500 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 9R【16:15】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 16:15
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813161500 +0900" stop="20260813165600 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 10R【16:56】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 16:56
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813165600 +0900" stop="20260813172800 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 11R【17:28】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 17:28
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813172800 +0900" stop="20260813175500 +0900" channel="boat.fukuoka">
+        <title lang="ja">🌟 22 福岡 12R【17:55】</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+🌟 開催区分: ミッドナイト
+⏰ 締切予定: 17:55
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813175500 +0900" stop="20260813235900 +0900" channel="boat.fukuoka">
+        <title lang="ja">🏁 22 福岡 本日開催終了</title>
+        <desc lang="ja">22 福岡の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813080900 +0900" channel="boat.karatsu">
+        <title lang="ja">⏳ 待機 23 唐津 🌅モーニング 1R【08:44】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813080900 +0900" stop="20260813084400 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 1R 朝１戦【08:44】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+📢 レース名: 朝１戦
+⏰ 締切予定: 08:44
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813084400 +0900" stop="20260813091000 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 2R モー２ング戦【09:10】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+📢 レース名: モー２ング戦
+⏰ 締切予定: 09:10
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813091000 +0900" stop="20260813093600 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 3R【09:36】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 09:36
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813093600 +0900" stop="20260813100200 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 4R【10:02】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 10:02
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813100200 +0900" stop="20260813103000 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 5R【10:30】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 10:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813103000 +0900" stop="20260813110000 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 6R【11:00】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 11:00
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813110000 +0900" stop="20260813113000 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 7R【11:30】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 11:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813113000 +0900" stop="20260813120300 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 8R【12:03】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 12:03
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813120300 +0900" stop="20260813123800 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 9R【12:38】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 12:38
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813123800 +0900" stop="20260813131200 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 10R【13:12】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 13:12
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813131200 +0900" stop="20260813135000 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 11R【13:50】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 13:50
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813135000 +0900" stop="20260813143000 +0900" channel="boat.karatsu">
+        <title lang="ja">🌅 23 唐津 12R【14:30】</title>
+        <desc lang="ja">🚤 ボートレース 23 唐津
+🌅 開催区分: モーニング
+⏰ 締切予定: 14:30
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813143000 +0900" stop="20260813235900 +0900" channel="boat.karatsu">
+        <title lang="ja">🏁 23 唐津 本日開催終了</title>
+        <desc lang="ja">23 唐津の本日のボートレースは終了しました。</desc>
+    </programme>
+    <programme start="20260813010000 +0900" stop="20260813144500 +0900" channel="boat.omura">
+        <title lang="ja">⏳ 待機 24 大村 🌞デイ 1R【15:19】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813144500 +0900" stop="20260813151900 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 1R【15:19】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 15:19
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813151900 +0900" stop="20260813154800 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 2R【15:48】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 15:48
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813154800 +0900" stop="20260813161700 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 3R【16:17】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 16:17
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813161700 +0900" stop="20260813164900 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 4R【16:49】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 16:49
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813164900 +0900" stop="20260813171900 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 5R【17:19】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 17:19
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813171900 +0900" stop="20260813174700 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 6R【17:47】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 17:47
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813174700 +0900" stop="20260813181500 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 7R【18:15】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 18:15
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813181500 +0900" stop="20260813184600 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 8R【18:46】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 18:46
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813184600 +0900" stop="20260813191800 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 9R【19:18】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 19:18
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813191800 +0900" stop="20260813194900 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 10R【19:49】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 19:49
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813194900 +0900" stop="20260813201800 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 11R【20:18】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 20:18
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813201800 +0900" stop="20260813204500 +0900" channel="boat.omura">
+        <title lang="ja">🌞 24 大村 12R【20:45】</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+🌞 開催区分: デイ
+⏰ 締切予定: 20:45
+📅 2026年08月13日</desc>
+    </programme>
+    <programme start="20260813204500 +0900" stop="20260813235900 +0900" channel="boat.omura">
+        <title lang="ja">🏁 24 大村 本日開催終了</title>
+        <desc lang="ja">24 大村の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260814010000 +0900" stop="20260814235900 +0900" channel="keirin.hakodate">
         <title lang="ja">📅 函館（競輪）</title>
