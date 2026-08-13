@@ -1210,6 +1210,16 @@ def build_boat_epg(
     today_str,
     today_display,
 ):
+    """
+    boatrace_today.json の当日レース毎データを、そのままEPGへ反映する。
+
+    優先するJSON項目:
+      races[].title
+      races[].epg_start
+      races[].epg_end
+      finish_title / finish_start / finish_end
+      status_title
+    """
     for v_name, tvg_id in BOAT_MAP.items():
         day_start = datetime.datetime.strptime(
             f"{date_str} 01:00", "%Y%m%d %H:%M"
@@ -1231,94 +1241,214 @@ def build_boat_epg(
             continue
 
         info = boat_today.get(v_name, {})
+        if not isinstance(info, dict):
+            info = {}
 
-        if not isinstance(info, dict) or not info.get("live"):
-            add_programme(
-                tv,
-                tvg_id,
-                day_start,
-                day_end,
-                f"💤 本日非開催 {v_name}（ボートレース）",
-                f"{v_name}のライブ配信URLは取得されていません。",
-            )
-            continue
-
-        start_text = info.get("start")
-        end_text = info.get("end")
+        races = info.get("races", [])
+        held = bool(info.get("held")) or bool(races)
         day_type = info.get("day_type", "開催")
         emoji = info.get("emoji", "🚤")
 
-        if not start_text or not end_text:
+        # -------------------------------------------------
+        # 非開催
+        # -------------------------------------------------
+        if not held:
+            title = info.get("status_title") or f"⛔ {v_name} 本日非開催"
             add_programme(
                 tv,
                 tvg_id,
                 day_start,
                 day_end,
-                f"🔴 LIVE {v_name} 🚤ボートレース",
-                f"🚤 ボートレース {v_name}\n"
-                f"✅ 配信URL取得済み\n"
-                f"📅 {today_display}",
+                title,
+                f"本日は{v_name}でのボートレース開催予定はありません。",
             )
             continue
 
-        start_dt = datetime.datetime.strptime(
-            f"{date_str} {start_text}", "%Y%m%d %H:%M"
-        ).replace(tzinfo=JST)
+        # -------------------------------------------------
+        # レース毎EPG
+        # -------------------------------------------------
+        valid_races = []
 
-        end_dt = datetime.datetime.strptime(
-            f"{date_str} {end_text}", "%Y%m%d %H:%M"
-        ).replace(tzinfo=JST)
+        for race in races:
+            try:
+                epg_start_text = race.get("epg_start", "")
+                epg_end_text = race.get("epg_end", "")
 
-        if end_dt <= start_dt:
-            end_dt += datetime.timedelta(days=1)
+                start_dt = datetime.datetime.strptime(
+                    epg_start_text,
+                    "%Y-%m-%d %H:%M",
+                ).replace(tzinfo=JST)
 
-        pre_start = start_dt - datetime.timedelta(minutes=10)
+                stop_dt = datetime.datetime.strptime(
+                    epg_end_text,
+                    "%Y-%m-%d %H:%M",
+                ).replace(tzinfo=JST)
 
-        desc = (
-            f"🚤 ボートレース {v_name}\n"
-            f"⏰ 配信予定: {start_text}～{end_text}\n"
-            f"{emoji} 開催区分: {day_type}\n"
-            f"📅 {today_display}"
-        )
+                if stop_dt <= start_dt:
+                    continue
 
-        if day_start < pre_start:
-            add_programme(
-                tv,
-                tvg_id,
-                day_start,
-                pre_start,
-                f"⏳ 待機 {v_name} {emoji}{day_type} {start_text}開始",
-                desc,
-            )
+                valid_races.append((race, start_dt, stop_dt))
+            except Exception:
+                continue
 
-        if pre_start < start_dt:
-            add_programme(
-                tv,
-                tvg_id,
-                max(pre_start, day_start),
-                start_dt,
-                f"⏳ まもなく開始 {v_name} {emoji}{day_type}",
-                desc,
-            )
+        if valid_races:
+            first_start = valid_races[0][1]
+
+            if day_start < first_start:
+                first_race = valid_races[0][0]
+                add_programme(
+                    tv,
+                    tvg_id,
+                    day_start,
+                    first_start,
+                    f"⏳ 待機 {v_name} {emoji}{day_type} "
+                    f"1R【{first_race.get('time', '')}】",
+                    f"🚤 ボートレース {v_name}\n"
+                    f"{emoji} 開催区分: {day_type}\n"
+                    f"📅 {today_display}",
+                )
+
+            for race, start_dt, stop_dt in valid_races:
+                race_no = race.get("rno", race.get("race", ""))
+                race_time = race.get("time", "")
+                race_name = race.get("race_name", "").strip()
+
+                # PowerShell側で作ったタイトルを最優先。
+                title = race.get("title", "").strip()
+                if not title:
+                    if race_name:
+                        title = (
+                            f"{emoji} {v_name} {race_no}R "
+                            f"{race_name}【{race_time}】"
+                        )
+                    else:
+                        title = (
+                            f"{emoji} {v_name} {race_no}R"
+                            f"【{race_time}】"
+                        )
+
+                desc_lines = [
+                    f"🚤 ボートレース {v_name}",
+                    f"{emoji} 開催区分: {day_type}",
+                    f"⏰ 締切予定: {race_time}",
+                    f"📅 {today_display}",
+                ]
+                if race_name:
+                    desc_lines.insert(2, f"📢 レース名: {race_name}")
+
+                add_programme(
+                    tv,
+                    tvg_id,
+                    max(start_dt, day_start),
+                    min(stop_dt, day_end),
+                    title,
+                    "\n".join(desc_lines),
+                )
+
+            # -------------------------------------------------
+            # 最終R後
+            # -------------------------------------------------
+            last_stop = valid_races[-1][2]
+
+            finish_start = last_stop
+            finish_end = day_end
+
+            try:
+                if info.get("finish_start"):
+                    finish_start = datetime.datetime.strptime(
+                        info["finish_start"],
+                        "%Y-%m-%d %H:%M",
+                    ).replace(tzinfo=JST)
+            except Exception:
+                pass
+
+            try:
+                if info.get("finish_end"):
+                    finish_end = datetime.datetime.strptime(
+                        info["finish_end"],
+                        "%Y-%m-%d %H:%M",
+                    ).replace(tzinfo=JST)
+            except Exception:
+                pass
+
+            finish_start = max(finish_start, last_stop)
+
+            # finish_end が早すぎても、当日23:59までは「終了」を表示。
+            # EPG上で空白時間を作らない。
+            if finish_start < day_end:
+                add_programme(
+                    tv,
+                    tvg_id,
+                    finish_start,
+                    day_end,
+                    info.get("finish_title")
+                    or f"🏁 {v_name} 本日開催終了",
+                    f"{v_name}の本日のボートレースは終了しました。",
+                )
+
+            continue
+
+        # -------------------------------------------------
+        # 開催は確認できたが races が取れなかった場合の保険
+        # -------------------------------------------------
+        start_text = info.get("start")
+        end_text = info.get("end")
+
+        if start_text and end_text:
+            try:
+                start_dt = datetime.datetime.strptime(
+                    f"{date_str} {start_text}", "%Y%m%d %H:%M"
+                ).replace(tzinfo=JST)
+                end_dt = datetime.datetime.strptime(
+                    f"{date_str} {end_text}", "%Y%m%d %H:%M"
+                ).replace(tzinfo=JST)
+
+                if end_dt <= start_dt:
+                    end_dt += datetime.timedelta(days=1)
+
+                if day_start < start_dt:
+                    add_programme(
+                        tv,
+                        tvg_id,
+                        day_start,
+                        start_dt,
+                        f"⏳ 待機 {v_name} {emoji}{day_type}",
+                        f"🚤 ボートレース {v_name}\n📅 {today_display}",
+                    )
+
+                add_programme(
+                    tv,
+                    tvg_id,
+                    max(start_dt, day_start),
+                    min(end_dt, day_end),
+                    f"🔴 LIVE {v_name} {emoji}{day_type} 🚤ボートレース",
+                    f"🚤 ボートレース {v_name}\n"
+                    f"⏰ 配信予定: {start_text}～{end_text}\n"
+                    f"📅 {today_display}",
+                )
+
+                if end_dt < day_end:
+                    add_programme(
+                        tv,
+                        tvg_id,
+                        end_dt,
+                        day_end,
+                        f"🏁 {v_name} 本日開催終了",
+                        f"{v_name}の本日のボートレースは終了しました。",
+                    )
+                continue
+            except Exception:
+                pass
 
         add_programme(
             tv,
             tvg_id,
-            start_dt,
-            end_dt,
-            f"🔴 LIVE {v_name} {emoji}{day_type} 🚤ボートレース",
-            desc,
+            day_start,
+            day_end,
+            f"📅 開催予定 {v_name} {emoji}{day_type}",
+            f"🚤 ボートレース {v_name}\n📅 {today_display}",
         )
 
-        if end_dt < day_end:
-            add_programme(
-                tv,
-                tvg_id,
-                end_dt,
-                day_end,
-                f"🏁 終了 {v_name} {emoji}{day_type}",
-                f"{v_name}の本日のライブ配信は終了しました。",
-            )
 
 
 def build_future_placeholder(
@@ -1407,7 +1537,12 @@ def build_epg_xml():
         ET.SubElement(channel, "display-name").text = v_name
 
     today_date = datetime.datetime.now(JST).date()
-    boat_week = fetch_boat_week_schedule(today_date, EPG_DAYS)
+    # 今日分は ganble の boatrace_today.json をそのまま使用。
+    # 公式サイトの週間取得は明日以降6日分だけにして重複取得を避ける。
+    boat_week = fetch_boat_week_schedule(
+        today_date + datetime.timedelta(days=1),
+        EPG_DAYS - 1,
+    )
 
     for day_offset in range(EPG_DAYS):
         target_date = today_date + datetime.timedelta(days=day_offset)
@@ -1547,15 +1682,9 @@ def build_epg_xml():
         # 今日から7日先まで開催場と1R～12R発走予定を自動EPG化。
         # 公式ページ取得失敗時だけ従来JSON方式へフォールバック。
         # -------------------------------------------------
-        used_boat_official = build_boat_race_epg(
-            tv,
-            date_str,
-            boat_week,
-            JST,
-            today_display,
-        )
-
-        if not used_boat_official:
+        if is_today:
+            # 当日は boatrace_today.json の races[].title / epg_start / epg_end を
+            # そのまま採用し、レース毎タイトルを最優先。
             build_boat_epg(
                 tv,
                 date_str,
@@ -1564,6 +1693,24 @@ def build_epg_xml():
                 today_str,
                 today_display,
             )
+        else:
+            used_boat_official = build_boat_race_epg(
+                tv,
+                date_str,
+                boat_week,
+                JST,
+                today_display,
+            )
+
+            if not used_boat_official:
+                build_boat_epg(
+                    tv,
+                    date_str,
+                    boat_today,
+                    JST,
+                    today_str,
+                    today_display,
+                )
 
 
     # -------------------------------------------------
