@@ -2689,14 +2689,112 @@
         <title lang="ja">🏁 終了 18 徳山 🌅モーニング</title>
         <desc lang="ja">18 徳山の本日のボートレースは終了しました。</desc>
     </programme>
-    <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">📅 開催予定 19 下関 🚤開催 🚤ボートレース</title>
+    <programme start="20260815010000 +0900" stop="20260815172100 +0900" channel="boat.shimonoseki">
+        <title lang="ja">⏳ 待機 19 下関 🌙ナイター</title>
         <desc lang="ja">🚤 ボートレース 19 下関
 📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
-🚤 開催区分: 開催
-📅 2026年08月15日
-BOAT RACE公式の開催一覧で開催を確認済み。
-1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
+1R 17:41 発走予定
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815173100 +0900" stop="20260815175800 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 1R 17:41発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:41
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815175800 +0900" stop="20260815182400 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 2R 18:08発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:08
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815182400 +0900" stop="20260815185300 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 3R 18:34発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:34
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815185300 +0900" stop="20260815192000 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 4R 19:03発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:03
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815192000 +0900" stop="20260815194600 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 5R 19:30発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:30
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815194600 +0900" stop="20260815201500 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 6R 19:56発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:56
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815201500 +0900" stop="20260815204600 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 7R 20:25発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:25
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815204600 +0900" stop="20260815210900 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 8R 20:56発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:56
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815210900 +0900" stop="20260815213200 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 9R 21:19発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 21:19
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815213200 +0900" stop="20260815215500 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 10R 21:42発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 21:42
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815215500 +0900" stop="20260815222000 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 11R 22:05発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 22:05
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815222000 +0900" stop="20260815230000 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🚤 19 下関 12R 22:30発走 🌙ナイター ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🌙 開催区分: ナイター
+⏰ 発走予定: 22:30
+📅 2026年08月15日</desc>
+    </programme>
+    <programme start="20260815230000 +0900" stop="20260815235900 +0900" channel="boat.shimonoseki">
+        <title lang="ja">🏁 終了 19 下関 🌙ナイター</title>
+        <desc lang="ja">19 下関の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260815010000 +0900" stop="20260815235900 +0900" channel="boat.wakamatsu">
         <title lang="ja">💤 本日非開催 20 若松（ボートレース）</title>
