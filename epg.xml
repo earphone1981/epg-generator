@@ -1176,60 +1176,115 @@
 当日データ取得時に詳細EPGへ自動更新します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.kiryu">
-        <title lang="ja">💤 本日非開催 01 桐生（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に01 桐生は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 01 桐生 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 01 桐生
+📢 第６０回報知新聞社杯 お盆レース
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.toda">
-        <title lang="ja">💤 本日非開催 02 戸田（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に02 戸田は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 02 戸田 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 02 戸田
+📢 第４９回戸田ボート大賞・サンケイスポーツ杯
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.edogawa">
         <title lang="ja">💤 本日非開催 03 江戸川（ボートレース）</title>
         <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に03 江戸川は掲載されていません。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.heiwajima">
-        <title lang="ja">💤 本日非開催 04 平和島（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に04 平和島は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 04 平和島 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 04 平和島
+📢 第６６回デイリースポーツサマーカップ
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.tamagawa">
-        <title lang="ja">💤 本日非開催 05 多摩川（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に05 多摩川は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 05 多摩川 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 05 多摩川
+📢 ＢＴＳ大郷開設記念第２８回大郷葉月杯
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.hamanako">
-        <title lang="ja">💤 本日非開催 06 浜名湖（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に06 浜名湖は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 06 浜名湖 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 06 浜名湖
+📢 中日スポーツ後援 湖西市長杯争奪戦 黒潮杯
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.gamagori">
-        <title lang="ja">💤 本日非開催 07 蒲郡（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に07 蒲郡は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 07 蒲郡 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 07 蒲郡
+📢 第１０回愛知・名古屋アジア・アジアパラ大会協賛競走
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.tokoname">
         <title lang="ja">💤 本日非開催 08 常滑（ボートレース）</title>
         <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に08 常滑は掲載されていません。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.tsu">
-        <title lang="ja">💤 本日非開催 09 津（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に09 津は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 09 津 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 09 津
+📢 中京スポーツ納涼しぶき杯争奪戦
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.mikuni">
-        <title lang="ja">💤 本日非開催 10 三国（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に10 三国は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 10 三国 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 10 三国
+📢 第５４回しぶき賞
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.biwako">
-        <title lang="ja">💤 本日非開催 11 びわこ（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に11 びわこは掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 11 びわこ 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 11 びわこ
+📢 滋賀県知事杯争奪 第３０回びわこカップ
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.suminoe">
-        <title lang="ja">💤 本日非開催 12 住之江（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に12 住之江は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 12 住之江 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.amagasaki">
         <title lang="ja">💤 本日非開催 13 尼崎（ボートレース）</title>
         <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に13 尼崎は掲載されていません。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.naruto">
-        <title lang="ja">💤 本日非開催 14 鳴門（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に14 鳴門は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 14 鳴門 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 14 鳴門
+📢 ＢＴＳ土佐開設３０周年記念競走
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.marugame">
         <title lang="ja">💤 本日非開催 15 丸亀（ボートレース）</title>
@@ -1240,16 +1295,31 @@
         <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に16 児島は掲載されていません。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.miyajima">
-        <title lang="ja">💤 本日非開催 17 宮島（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に17 宮島は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 17 宮島 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 17 宮島
+📢 第５６回スポーツニッポン杯
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.tokuyama">
-        <title lang="ja">💤 本日非開催 18 徳山（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に18 徳山は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 18 徳山 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 18 徳山
+📢 黒神杯争奪戦
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.shimonoseki">
-        <title lang="ja">💤 本日非開催 19 下関（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に19 下関は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 19 下関 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 19 下関
+📢 ＭＮＢＲ下関４ｔｈふく〜る下関オープン１４周年記念
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.wakamatsu">
         <title lang="ja">💤 本日非開催 20 若松（ボートレース）</title>
@@ -1260,16 +1330,26 @@
         <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に21 芦屋は掲載されていません。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.fukuoka">
-        <title lang="ja">💤 本日非開催 22 福岡（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に22 福岡は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 22 福岡 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 22 福岡
+📢 お盆特選レース
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.karatsu">
         <title lang="ja">💤 本日非開催 23 唐津（ボートレース）</title>
         <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に23 唐津は掲載されていません。</desc>
     </programme>
     <programme start="20260816010000 +0900" stop="20260816235900 +0900" channel="boat.omura">
-        <title lang="ja">💤 本日非開催 24 大村（ボートレース）</title>
-        <desc lang="ja">BOAT RACE公式の2026年08月16日開催一覧に24 大村は掲載されていません。</desc>
+        <title lang="ja">📅 開催予定 24 大村 🚤開催 🚤ボートレース</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🚤 開催区分: 開催
+📅 2026年08月16日
+BOAT RACE公式の開催一覧で開催を確認済み。
+1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
     </programme>
     <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="keirin.hakodate">
         <title lang="ja">📅 函館（競輪）</title>
