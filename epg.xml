@@ -1734,14 +1734,112 @@
         <title lang="ja">🏁 終了 11 びわこ ☀️デイ</title>
         <desc lang="ja">11 びわこの本日のボートレースは終了しました。</desc>
     </programme>
-    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="boat.suminoe">
-        <title lang="ja">📅 開催予定 12 住之江 🚤開催 🚤ボートレース</title>
+    <programme start="20260817010000 +0900" stop="20260817145600 +0900" channel="boat.suminoe">
+        <title lang="ja">⏳ 待機 12 住之江 🌙ナイター</title>
         <desc lang="ja">🚤 ボートレース 12 住之江
 📢 大阪ダービー第４３回摂河泉競走
-🚤 開催区分: 開催
-📅 2026年08月17日
-BOAT RACE公式の開催一覧で開催を確認済み。
-1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
+1R 15:16 発走予定
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817150600 +0900" stop="20260817152800 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 1R 15:16発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:16
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817152800 +0900" stop="20260817155900 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 2R 15:38発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:38
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817155900 +0900" stop="20260817162700 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 3R 16:09発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:09
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817162700 +0900" stop="20260817165200 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 4R 16:37発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:37
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817165200 +0900" stop="20260817172100 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 5R 17:02発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:02
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817172100 +0900" stop="20260817174600 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 6R 17:31発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:31
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817174600 +0900" stop="20260817181500 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 7R 17:56発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:56
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817181500 +0900" stop="20260817184400 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 8R 18:25発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:25
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817184400 +0900" stop="20260817191400 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 9R 18:54発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:54
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817191400 +0900" stop="20260817194700 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 10R 19:24発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:24
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817194700 +0900" stop="20260817202000 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 11R 19:57発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:57
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817202000 +0900" stop="20260817210000 +0900" channel="boat.suminoe">
+        <title lang="ja">🚤 12 住之江 12R 20:30発走 🌙ナイター 大阪ダービー第４３回摂河泉競走</title>
+        <desc lang="ja">🚤 ボートレース 12 住之江
+📢 大阪ダービー第４３回摂河泉競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:30
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817210000 +0900" stop="20260817235900 +0900" channel="boat.suminoe">
+        <title lang="ja">🏁 終了 12 住之江 🌙ナイター</title>
+        <desc lang="ja">12 住之江の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260817010000 +0900" stop="20260817101400 +0900" channel="boat.amagasaki">
         <title lang="ja">⏳ 待機 13 尼崎 ☀️デイ</title>
@@ -2508,14 +2606,112 @@ BOAT RACE公式の開催一覧で開催を確認済み。
         <title lang="ja">💤 本日非開催 23 唐津（ボートレース）</title>
         <desc lang="ja">BOAT RACE公式の2026年08月17日開催一覧に23 唐津は掲載されていません。</desc>
     </programme>
-    <programme start="20260817010000 +0900" stop="20260817235900 +0900" channel="boat.omura">
-        <title lang="ja">📅 開催予定 24 大村 🚤開催 🚤ボートレース</title>
+    <programme start="20260817010000 +0900" stop="20260817145900 +0900" channel="boat.omura">
+        <title lang="ja">⏳ 待機 24 大村 🌙ナイター</title>
         <desc lang="ja">🚤 ボートレース 24 大村
 📢 オールレディース競走
-🚤 開催区分: 開催
-📅 2026年08月17日
-BOAT RACE公式の開催一覧で開催を確認済み。
-1R～12Rの発走予定時刻は公開後に自動反映します。</desc>
+1R 15:19 発走予定
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817150900 +0900" stop="20260817153800 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 1R 15:19発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:19
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817153800 +0900" stop="20260817160700 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 2R 15:48発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 15:48
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817160700 +0900" stop="20260817163900 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 3R 16:17発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:17
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817163900 +0900" stop="20260817170500 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 4R 16:49発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 16:49
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817170500 +0900" stop="20260817173400 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 5R 17:15発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:15
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817173400 +0900" stop="20260817180100 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 6R 17:44発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 17:44
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817180100 +0900" stop="20260817182900 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 7R 18:11発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:11
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817182900 +0900" stop="20260817185900 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 8R 18:39発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 18:39
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817185900 +0900" stop="20260817193000 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 9R 19:09発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:09
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817193000 +0900" stop="20260817200000 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 10R 19:40発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 19:40
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817200000 +0900" stop="20260817203000 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 11R 20:10発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:10
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817203000 +0900" stop="20260817211000 +0900" channel="boat.omura">
+        <title lang="ja">🚤 24 大村 12R 20:40発走 🌙ナイター オールレディース競走</title>
+        <desc lang="ja">🚤 ボートレース 24 大村
+📢 オールレディース競走
+🌙 開催区分: ナイター
+⏰ 発走予定: 20:40
+📅 2026年08月17日</desc>
+    </programme>
+    <programme start="20260817211000 +0900" stop="20260817235900 +0900" channel="boat.omura">
+        <title lang="ja">🏁 終了 24 大村 🌙ナイター</title>
+        <desc lang="ja">24 大村の本日のボートレースは終了しました。</desc>
     </programme>
     <programme start="20260818010000 +0900" stop="20260818235900 +0900" channel="keirin.hakodate">
         <title lang="ja">📅 函館（競輪）</title>
